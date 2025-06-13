@@ -4,1355 +4,1344 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:f78a79a6-1365-47d2-8bb6-44620a1b3b36
-DTSTAMP:20250613T082257Z
+UID:5adbd41c-ac60-4ce3-a8b5-ded186e3dfde
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20241231T230000Z
 DTEND:20250102T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Rémi Esquenet<br>Commentaire : <br>NumCommande : AR-2412-038378<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Rémi Esquenet-Commentaire : -NumCommande : AR-2412-038378-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f70443fc-5c0f-4f51-9b40-5ea0352c2831
-DTSTAMP:20250613T082257Z
+UID:27e7328b-b211-4736-b715-5273b0a18741
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250102T230000Z
 DTEND:20250104T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : Anthony Ferreira<br>Mobile : 0605828804<br>E-mail : anthoferreira69@yahoo.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : Anthony Ferreira-Mobile : 0605828804-E-mail : anthoferreira69@yahoo.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a8284e20-2425-4e9f-ba82-2a7d8b5a38de
-DTSTAMP:20250613T082257Z
+UID:7a38f4e8-fe57-46fb-a846-8b8865a87671
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : NOE DUBUS<br>Commentaire : <br>NumCommande : AR-2412-038328<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : NOE DUBUS-Commentaire : -NumCommande : AR-2412-038328-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7f33e651-ca74-4c18-b699-1def0edf5232
-DTSTAMP:20250613T082257Z
+UID:0a3ae8a7-d4bd-4f82-bf9c-b9e87eafd8b7
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b67248b6-dd35-4646-8b0d-b00b67d185ce
-DTSTAMP:20250613T082257Z
+UID:8d6dc6ba-3420-46b1-9e82-564c91832a5f
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250109T230000Z
 DTEND:20250111T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Patricia Giraud<br>Commentaire : <br>NumCommande : AR-2501-038431<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Patricia Giraud-Commentaire : -NumCommande : AR-2501-038431-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ad167f85-0427-4692-97ef-21e4d3e5ea08
-DTSTAMP:20250613T082257Z
+UID:278bb4f0-cafe-4c90-add6-33f55c18a1d0
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : TOM FLOUPIN<br>Commentaire : 06.11.66.94.30<br>Le jacuzzi et le départ tardif ont été remboursés.<br>NumCommande : AR-2412-038372<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : TOM FLOUPIN-Commentaire : 06.11.66.94.30-Le jacuzzi et le départ tardif ont été remboursés.-NumCommande : AR-2412-038372-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7b5f1f8e-320e-4c48-a330-9f4232b9ef49
-DTSTAMP:20250613T082257Z
+UID:7cf49d6f-4551-44d4-ace8-743475526668
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250111T230000Z
 DTEND:20250113T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Inès Bouazza<br>Commentaire : <br>NumCommande : AR-2501-038460<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Inès Bouazza-Commentaire : -NumCommande : AR-2501-038460-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:98bf4e33-b377-4853-be0c-1c142ffb3d54
-DTSTAMP:20250613T082257Z
+UID:4ac75eff-bcc4-4faf-9e1e-ed1c405b1d2b
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7a22ed82-d315-483c-8849-92f321782e5c
-DTSTAMP:20250613T082257Z
+UID:52eb8d82-e7e9-4c66-8e22-4cbcbbd79a71
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marina Ruiz<br>Commentaire : <br>NumCommande : AR-2412-038219<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Marina Ruiz-Commentaire : -NumCommande : AR-2412-038219-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1fb88fd3-3bd0-4f35-9e4f-29913613c5cb
-DTSTAMP:20250613T082257Z
+UID:4aa83e79-34de-434c-879b-36bfdba39857
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:446b7b66-0dd7-4bbd-8ae7-f179469be0d5
-DTSTAMP:20250613T082257Z
+UID:32253c13-dd05-4a2c-9be2-9fad782f59f0
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250123T230000Z
 DTEND:20250125T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation<br>Commentaire : Mikael  Arrondal<br>Participants : 2 adultes<br>Téléphone : +33612353429<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Staycation-Commentaire : Mikael  Arrondal-Participants : 2 adultes-Téléphone : +33612353429-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1151deaf-6686-4856-b882-2ca1a281d03b
-DTSTAMP:20250613T082257Z
+UID:a38b717b-7e07-4cfd-a650-bc71e9ecfe6d
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250124T230000Z
 DTEND:20250126T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Baptiste Abad<br>Commentaire : <br>NumCommande : AR-2412-038410<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Baptiste Abad-Commentaire : -NumCommande : AR-2412-038410-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3474e86c-f2bc-4acd-ad59-675798e2640d
-DTSTAMP:20250613T082257Z
+UID:3ea079ac-3c0f-4e3f-9a75-1410db03df96
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
+DESCRIPTION:Nom : fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fa20ef31-5307-4f8d-8354-f993e56330eb
-DTSTAMP:20250613T082257Z
+UID:22f65d53-f06b-420b-989e-65a752b88468
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c5ba3110-b41a-458e-b67a-280070402faa
-DTSTAMP:20250613T082257Z
+UID:2f4cca4e-617e-42fb-943f-da2cd226b9a1
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250130T230000Z
 DTEND:20250201T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Anthony Segui<br>Commentaire : <br>NumCommande : AR-2501-038509<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Anthony Segui-Commentaire : -NumCommande : AR-2501-038509-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2b11f1df-4e59-445f-8fbc-2efd5d654ddb
-DTSTAMP:20250613T082257Z
+UID:259f697f-8840-4c8c-abf9-051910479e6b
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Benoît Désormeaux<br>Commentaire : <br>NumCommande : AR-2501-038454<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Benoît Désormeaux-Commentaire : -NumCommande : AR-2501-038454-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cddd4c46-16f8-4802-b6e9-47e4a09e8e3d
-DTSTAMP:20250613T082257Z
+UID:f3dd1a69-0f0b-4af1-a855-1986cf691baf
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250201T230000Z
 DTEND:20250203T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jules SÉNÉGAS<br>Commentaire : <br>NumCommande : AR-2501-038502<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Jules SÉNÉGAS-Commentaire : -NumCommande : AR-2501-038502-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7c81e0e5-a5ba-42aa-9e6a-8631af6cd14e
-DTSTAMP:20250613T082257Z
+UID:228783b2-d832-43a6-96fa-f6833aed44cd
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250203T230000Z
 DTEND:20250205T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maïmouna MOHAMED ALI<br>Commentaire : <br>NumCommande : AR-2502-038545<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Maïmouna MOHAMED ALI-Commentaire : -NumCommande : AR-2502-038545-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:157b08ff-7265-491b-9210-786a59fcc3d4
-DTSTAMP:20250613T082257Z
+UID:77375b12-c643-4617-90dc-59ed050247e7
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250205T230000Z
 DTEND:20250207T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : staycation<br>Commentaire : Thomas  Lario<br><br>Téléphone : 0614279604<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : staycation-Commentaire : Thomas  Lario--Téléphone : 0614279604-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a97e857e-094d-4215-88d5-743505cfed60
-DTSTAMP:20250613T082257Z
+UID:9fd39f9d-f26e-4910-bfff-6d3feab4c75c
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250206T230000Z
 DTEND:20250208T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Julie Chetaille<br>Commentaire : <br>NumCommande : AR-2412-038340<br>CodeBonCadeau : UFNFWPWZZS24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Julie Chetaille-Commentaire : -NumCommande : AR-2412-038340-CodeBonCadeau : UFNFWPWZZS24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b8f1072e-25cc-400d-ba42-d3b6aed70673
-DTSTAMP:20250613T082257Z
+UID:9c704188-c31e-4d4d-9aea-734809080ea9
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Charlene Louisor<br>Commentaire : <br>NumCommande : AR-2412-038418<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Charlene Louisor-Commentaire : -NumCommande : AR-2412-038418-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:93d6615f-ceb6-43ee-a851-c34d9dea967d
-DTSTAMP:20250613T082257Z
+UID:f4d27219-e21e-41a4-a607-4d5a98b11eb2
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250208T230000Z
 DTEND:20250210T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Instagrammeur<br>Commentaire : Air Kha<br>0621848876 Ryan<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Instagrammeur-Commentaire : Air Kha-0621848876 Ryan-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a3b8b378-f7ee-44a0-b372-2b520b5b9750
-DTSTAMP:20250613T082257Z
+UID:f267a05a-4fd5-4234-89d7-c340265cde58
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : DANOUSSI OMAR<br>Commentaire : 07.60.97.26.56<br>RESERVATION  DOIT 159€ ESPECE<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : DANOUSSI OMAR-Commentaire : 07.60.97.26.56-RESERVATION  DOIT 159€ ESPECE-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:540b00a3-9f8c-4f3f-ad6b-bd229c78f06e
-DTSTAMP:20250613T082257Z
+UID:9be46d5e-67a5-47d8-b357-7d48378281ce
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : TAMARA DJEBBAR<br>Commentaire : <br>NumCommande : AR-2412-038261<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : TAMARA DJEBBAR-Commentaire : -NumCommande : AR-2412-038261-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a3a66b3e-9968-440f-852d-e82c33679967
-DTSTAMP:20250613T082257Z
+UID:8e652dd0-8240-41cb-ac8e-9c6e1a277fb7
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Virginie SAUVAGE<br>Commentaire : Dans la 1001 le lendemain.<br>Jo offre le jacuzzi<br>Repas Il y en a 1 avec en plat principal poisson et l'autre avec un végé. On garde les 2 entrées saumon.<br>NumCommande : AR-2412-038290<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Virginie SAUVAGE-Commentaire : Dans la 1001 le lendemain.-Jo offre le jacuzzi-Repas Il y en a 1 avec en plat principal poisson et l'autre avec un végé. On garde les 2 entrées saumon.-NumCommande : AR-2412-038290-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b4e52edd-e60e-4583-a975-94bdc4fbd33e
-DTSTAMP:20250613T082257Z
+UID:0b4545c1-7387-4c0d-8c98-e41829bcfb96
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Robin Lacaze<br>Commentaire : <br>NumCommande : AR-2501-038503<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Robin Lacaze-Commentaire : -NumCommande : AR-2501-038503-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6759fe66-a14f-404d-8ede-20968ad4d4f6
-DTSTAMP:20250613T082257Z
+UID:5d4e478b-5a05-410e-8c0e-112f70e0afb6
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250216T230000Z
 DTEND:20250218T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : mme Liv Mayol<br>Mobile : 0767130651<br>E-mail : livmayol@icloud.com<br>Mineur ils mènent les documents demandés autorisation des parents<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : mme Liv Mayol-Mobile : 0767130651-E-mail : livmayol@icloud.com-Mineur ils mènent les documents demandés autorisation des parents-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:225d41a2-80d4-4ac0-aeaa-6d091b94488f
-DTSTAMP:20250613T082257Z
+UID:e5679fd1-2769-4a1f-a959-ed78e2003c4c
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250219T230000Z
 DTEND:20250221T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : Lucas Lagrange<br>Mobile : +33637598987<br>E-mail : lucas.du84300@hotmail.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : Lucas Lagrange-Mobile : +33637598987-E-mail : lucas.du84300@hotmail.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:116cfede-7f73-4db0-b2bd-2463291809ff
-DTSTAMP:20250613T082257Z
+UID:01471edd-69d2-44c0-a021-a167d4e552be
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250220T230000Z
 DTEND:20250222T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lionel Nicod<br>Commentaire : <br>NumCommande : AR-2501-038493<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Lionel Nicod-Commentaire : -NumCommande : AR-2501-038493-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1f786c1a-ebf7-4919-9528-ecd92d94a3fd
-DTSTAMP:20250613T082257Z
+UID:6e717936-a788-4af4-9698-e4e6068170c5
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : mme alycia catalano<br>Mobile : 0656806419<br>E-mail : catalanoaly07@gmail.com<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : mme alycia catalano-Mobile : 0656806419-E-mail : catalanoaly07@gmail.com-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:959b83bb-334f-42a9-9c3d-3be4dac30c69
-DTSTAMP:20250613T082257Z
+UID:d48002d7-38b8-4179-ae74-461db4ec19fc
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Carine Duvivier<br>Commentaire : <br>NumCommande : AR-2502-038551<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Carine Duvivier-Commentaire : -NumCommande : AR-2502-038551-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fe1579c8-d3c5-4901-9cd1-f39b9f47c274
-DTSTAMP:20250613T082257Z
+UID:d0c2b8a3-9efb-453a-88bf-f8b115d2b52e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250302T230000Z
 DTEND:20250304T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Johana Hubiere<br>Commentaire : 2 simple<br>NumCommande : AR-2407-037435<br>CodeBonCadeau : E6QYFYZRNX24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Johana Hubiere-Commentaire : 2 simple-NumCommande : AR-2407-037435-CodeBonCadeau : E6QYFYZRNX24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd584e5-5398-429c-af2e-79dbfd6e8221
-DTSTAMP:20250613T082257Z
+UID:0de9f1b1-0585-4997-979a-cf9715a7a877
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250306T230000Z
 DTEND:20250308T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MATTHIEU DELAGE<br>Commentaire : <br>NumCommande : AR-2503-038661<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : MATTHIEU DELAGE-Commentaire : -NumCommande : AR-2503-038661-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b24fca1a-ea85-4a64-8126-08fc09ebb33b
-DTSTAMP:20250613T082257Z
+UID:da726fbb-8972-4d62-b513-7ca4c797d5dc
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250307T230000Z
 DTEND:20250309T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT ET DECOUVERTE<br>Commentaire : Sara Ould El Hkim<br>Mobile : 0629331535<br>E-mail : saraould26@gmail.com<br>1 original<br>1luxury<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT ET DECOUVERTE-Commentaire : Sara Ould El Hkim-Mobile : 0629331535-E-mail : saraould26@gmail.com-1 original-1luxury-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7d3ba08a-c47b-4a1c-a392-035f7e436847
-DTSTAMP:20250613T082257Z
+UID:5a465ec9-6494-4c14-8c96-09447312722e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250308T230000Z
 DTEND:20250310T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Tamborini Andrea (BOSCOLO TOURS SPA)<br>Commentaire : <br>NumCommande : AR-2502-038587<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Tamborini Andrea (BOSCOLO TOURS SPA)-Commentaire : -NumCommande : AR-2502-038587-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:343f9a1b-bd73-4fcd-b68c-40076fe8eaba
-DTSTAMP:20250613T082257Z
+UID:028e9ef8-84af-4314-805c-cb6071c2af4e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250310T230000Z
 DTEND:20250312T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Wai Yip Sin<br>Commentaire : <br>NumCommande : AR-2503-038695<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Wai Yip Sin-Commentaire : -NumCommande : AR-2503-038695-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a0a97377-0b15-400f-859f-e98ca447bb2d
-DTSTAMP:20250613T082257Z
+UID:3e08c26c-c20c-45bc-9411-676123744d2e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2e921959-d65f-4f9f-9a1a-b1c7ca2e2387
-DTSTAMP:20250613T082257Z
+UID:0057908a-7467-42ab-ad8e-71401605ffc1
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Adriane Bou<br>Commentaire : <br>NumCommande : AR-2502-038646<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Adriane Bou-Commentaire : -NumCommande : AR-2502-038646-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:686d394d-7d49-49f7-8519-ab7376f86f5a
-DTSTAMP:20250613T082257Z
+UID:72c72e96-9bcf-4d82-ac2d-2346ba72f7ff
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : GAETAN LAJOIE<br>Commentaire : <br>NumCommande : AR-2502-038567<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : GAETAN LAJOIE-Commentaire : -NumCommande : AR-2502-038567-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f057c9d4-28a6-4522-9c10-60b382283009
-DTSTAMP:20250613T082257Z
+UID:d0f95046-48c9-41e1-bcc8-fcf44165a9e7
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250322T230000Z
 DTEND:20250324T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT<br>Commentaire : Lauris Courtignol<br>17 Cité Chante Coucou<br>13950 CADOLIVE<br>France<br>0666741998<br>lauris.courtignol29@gmail.com<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT-Commentaire : Lauris Courtignol-17 Cité Chante Coucou-13950 CADOLIVE-France-0666741998-lauris.courtignol29@gmail.com-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c03e5490-91ee-4cad-9e04-3831c3268378
-DTSTAMP:20250613T082257Z
+UID:a1a7fffa-1e19-49f3-b79d-eb3ecab0c594
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250327T230000Z
 DTEND:20250329T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Remi Guy<br>Commentaire : <br>NumCommande : AR-2503-038783<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Remi Guy-Commentaire : -NumCommande : AR-2503-038783-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:97186a8b-90e7-4f94-8ac2-8b6fa2c096e8
-DTSTAMP:20250613T082257Z
+UID:70b20f7a-0f1c-4392-be23-bf7c1a3fba3a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250328T230000Z
 DTEND:20250330T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ANNE LAURE LAMBERT<br>Commentaire : <br>NumCommande : AR-2411-038164<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : ANNE LAURE LAMBERT-Commentaire : -NumCommande : AR-2411-038164-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:419f7004-da72-4899-9945-f39555b66ec5
-DTSTAMP:20250613T082257Z
+UID:f384372e-d23c-4fa1-bec4-cfa1b83e1cc4
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250329T230000Z
 DTEND:20250331T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : Klou & Béa De la ciotat<br><br>0623373777<br>E-mail : bea.bourauglisia@gmail.com<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : Klou & Béa De la ciotat--0623373777-E-mail : bea.bourauglisia@gmail.com-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ac5d29fb-c51c-49b1-a126-6a43d5d9ca4b
-DTSTAMP:20250613T082257Z
+UID:ccd37b84-8906-4fd0-8bb2-8f6f13aeb3c9
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250331T220000Z
 DTEND:20250402T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Enzo Jullien (Mr)<br>Commentaire : <br>NumCommande : AR-2503-038827<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Enzo Jullien (Mr)-Commentaire : -NumCommande : AR-2503-038827-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9d72b982-0da3-478d-8bf5-db31ef5691d7
-DTSTAMP:20250613T082257Z
+UID:b4df3e1d-1255-404a-8236-c939380a2c7a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250401T220000Z
 DTEND:20250403T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Romain Lévy<br>Commentaire : <br>NumCommande : AR-2503-038742<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Romain Lévy-Commentaire : -NumCommande : AR-2503-038742-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7ea61bdf-2b5f-471d-92a4-15a80c76a875
-DTSTAMP:20250613T082257Z
+UID:6a324dea-9d9a-4a8f-80f1-ff5dd3dc0419
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250402T220000Z
 DTEND:20250404T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie Tuel<br>Commentaire : <br>NumCommande : AR-2412-038371<br>CodeBonCadeau : NEFGX6GZ5G24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Marie Tuel-Commentaire : -NumCommande : AR-2412-038371-CodeBonCadeau : NEFGX6GZ5G24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:77ed1d3c-c7a7-4ce7-a6b3-e90e69205d01
-DTSTAMP:20250613T082257Z
+UID:89cf05d1-637b-43f1-9b78-cebc17a2737c
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250405T220000Z
 DTEND:20250407T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation<br>Commentaire : Sami El Ajmi<br>Participants : 2 adultes<br>Téléphone : 0762193092<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Staycation-Commentaire : Sami El Ajmi-Participants : 2 adultes-Téléphone : 0762193092-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:08a1c61b-0639-425a-ae6b-6e7fbbdfa174
-DTSTAMP:20250613T082257Z
+UID:4f8226e0-90fc-40b9-bbd3-6db5269c7127
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250406T220000Z
 DTEND:20250408T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CAp Adrénaline<br>Commentaire : Crystel Lieutaud • crystel.lieutaud@sfr.fr • 0699617590 • <br>Jacuzzi<br>SANS GLUTEN<br>2 simple dont une salade de fruit<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CAp Adrénaline-Commentaire : Crystel Lieutaud • crystel.lieutaud@sfr.fr • 0699617590 • -Jacuzzi-SANS GLUTEN-2 simple dont une salade de fruit-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e543c43c-392f-4444-9969-892a061eebd7
-DTSTAMP:20250613T082257Z
+UID:d12dc4cd-6f22-4fa2-aaca-c7257221bccd
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250407T220000Z
 DTEND:20250409T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Pascal Obrecht<br>Commentaire : <br>NumCommande : AR-2312-036064<br>CodeBonCadeau : 4ZA94WF3ND23<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Pascal Obrecht-Commentaire : -NumCommande : AR-2312-036064-CodeBonCadeau : 4ZA94WF3ND23-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fe131117-a0e2-4a65-b8d9-decaf391c85c
-DTSTAMP:20250613T082257Z
+UID:697ea8aa-0b1e-45d5-9840-64b5977c8359
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250409T220000Z
 DTEND:20250411T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CHRISTELLE GERARDIN<br>Commentaire : 2 original<br>NumCommande : AR-2312-035891<br>CodeBonCadeau : NMJXMBTKBW23<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CHRISTELLE GERARDIN-Commentaire : 2 original-NumCommande : AR-2312-035891-CodeBonCadeau : NMJXMBTKBW23-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bbc72f71-b8c0-4692-a940-ae2d4b9da393
-DTSTAMP:20250613T082257Z
+UID:4bfa68a1-bd9b-4c51-9dc2-e0f32a0819b5
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250410T220000Z
 DTEND:20250412T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Matheo Fontugnes<br>Commentaire : Arrivée 20h<br>NumCommande : AR-2504-038892<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Matheo Fontugnes-Commentaire : Arrivée 20h-NumCommande : AR-2504-038892-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f8f955f2-4ec2-4f9b-8da8-4a066fa02b1f
-DTSTAMP:20250613T082257Z
+UID:c7881292-b680-41a1-8b61-cd3b345ffc6f
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : JULIEN FERRARI<br>Commentaire : <br>NumCommande : AR-2503-038689<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : JULIEN FERRARI-Commentaire : -NumCommande : AR-2503-038689-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b50fc438-c2fc-4c20-9415-446b705874ed
-DTSTAMP:20250613T082257Z
+UID:43785ffa-da8f-4206-8a0e-c63d79dbac91
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : m Sébastien Loinsard<br>Mobile : 0786118698<br>E-mail : laciotat@vandb.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : m Sébastien Loinsard-Mobile : 0786118698-E-mail : laciotat@vandb.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3ea68b7b-8c61-4bea-ac42-b09e1e909b3c
-DTSTAMP:20250613T082257Z
+UID:1d736fcd-ce2b-4eba-8d48-8f41a53e09f9
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250413T220000Z
 DTEND:20250415T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MARIE CLAUDE PORTAL<br>Commentaire : <br>NumCommande : AR-2503-038838<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : MARIE CLAUDE PORTAL-Commentaire : -NumCommande : AR-2503-038838-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bc0e68fc-0ab4-4728-8502-cb12e6bfb93b
-DTSTAMP:20250613T082257Z
+UID:1c7b15f8-a505-41a9-ad5e-515386f60347
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250414T220000Z
 DTEND:20250416T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : mme Stephanie Rovai<br>Mobile : 0622125014<br>E-mail : s.douzon@hotmail.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : mme Stephanie Rovai-Mobile : 0622125014-E-mail : s.douzon@hotmail.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1533e114-0906-4dac-b87b-ce8eaaf874c3
-DTSTAMP:20250613T082257Z
+UID:5e9b1b75-e5c4-4ffc-b970-f5027a2bbd92
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250417T220000Z
 DTEND:20250419T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Arianna Previtali André<br>Commentaire : <br>NumCommande : AR-2501-038489<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Arianna Previtali André-Commentaire : -NumCommande : AR-2501-038489-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c79cd07d-21ff-42d5-b8f0-5911c30999c8
-DTSTAMP:20250613T082257Z
+UID:97fbd86b-1d3c-47ed-b211-ee22b91f5a0d
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Kimberley Grioche<br>Commentaire : ne pas avoir de porc dans les plats et halal<br>NumCommande : AR-2503-038725<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Kimberley Grioche-Commentaire : ne pas avoir de porc dans les plats et halal-NumCommande : AR-2503-038725-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a76223-75d6-47fc-a24d-7e22d00c2caf
-DTSTAMP:20250613T082257Z
+UID:1638c958-f671-4cea-9640-3ed28a2f0cf6
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandrine DEAUCOURT<br>Commentaire : <br>NumCommande : AR-2504-038897<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sandrine DEAUCOURT-Commentaire : -NumCommande : AR-2504-038897-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a8bfb136-a98e-45f4-b791-0b43ec5563ba
-DTSTAMP:20250613T082257Z
+UID:0e6089fe-c914-46d8-bc35-29ba97a3d05a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250420T220000Z
 DTEND:20250422T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Clara Guerin<br>Commentaire : wonderbox jacuzzi<br>NumCommande : AR-2503-038667<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Clara Guerin-Commentaire : wonderbox jacuzzi-NumCommande : AR-2503-038667-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:09db74df-8757-45a7-90c4-234589fcd6ca
-DTSTAMP:20250613T082257Z
+UID:2d96e1fc-c8aa-4ee4-a1a6-64ec6baffda8
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250421T220000Z
 DTEND:20250423T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation<br>Commentaire : 06 59 75 16 27<br>Océane Boniface<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Staycation-Commentaire : 06 59 75 16 27-Océane Boniface-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:39dc5c9b-0d80-46ad-83e2-892c0e57e9d6
-DTSTAMP:20250613T082257Z
+UID:af4c34ed-f320-45d3-8b41-03e990bb3090
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250422T220000Z
 DTEND:20250424T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : staycation<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : staycation-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:01ba8ff7-e46e-40f9-b568-3083a9fb0d65
-DTSTAMP:20250613T082257Z
+UID:66a4e36e-2c9f-431a-8624-a45110feee58
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Capozzoli Antonella (BOSCOLO TOURS SPA)<br>Commentaire : <br>NumCommande : AR-2410-038066<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Capozzoli Antonella (BOSCOLO TOURS SPA)-Commentaire : -NumCommande : AR-2410-038066-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2764969f-785c-483d-8ecd-86766ced5950
-DTSTAMP:20250613T082257Z
+UID:3494c225-2322-45d5-ab5e-018b2232078b
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250425T220000Z
 DTEND:20250427T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bruno Paola (BOSCOLO TOURS SPA)<br>Commentaire : MS PAOLA BRUNO - MR PAOLO PALLAVIDINO\, MOBILE NR.: 0039 3345419270.<br>NumCommande : AR-2410-037927<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Bruno Paola (BOSCOLO TOURS SPA)-Commentaire : MS PAOLA BRUNO - MR PAOLO PALLAVIDINO\, MOBILE NR.: 0039 3345419270.-NumCommande : AR-2410-037927-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:af79e570-efc2-4365-8207-9d54fcc14c9d
-DTSTAMP:20250613T082257Z
+UID:b08f2cd2-b02b-4ad5-866e-be3aac1553e9
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250427T220000Z
 DTEND:20250429T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Xavier Morselli<br>Commentaire : <br>NumCommande : AR-2502-038640<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Xavier Morselli-Commentaire : -NumCommande : AR-2502-038640-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d57822d8-82db-4972-90fc-588a5ba8fc6e
-DTSTAMP:20250613T082257Z
+UID:74d42bbf-6756-44cf-a5c8-1660d04957c5
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250429T220000Z
 DTEND:20250501T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Louise GRACE<br>Commentaire : <br>NumCommande : AR-2504-038958<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Louise GRACE-Commentaire : -NumCommande : AR-2504-038958-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:04934d70-0191-4bef-81b6-33f6fa9a2274
-DTSTAMP:20250613T082257Z
+UID:2febfc8e-3c71-4705-9418-ba01c3be7b30
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250430T220000Z
 DTEND:20250502T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fanny SIBIREFF<br>Commentaire : <br>NumCommande : AR-2503-038834<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Fanny SIBIREFF-Commentaire : -NumCommande : AR-2503-038834-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb7a2c9b-09ce-4c6f-bffe-f54b07c62492
-DTSTAMP:20250613T082257Z
+UID:7fe6a5ba-da65-40e4-8f2a-aa319411e05f
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250501T220000Z
 DTEND:20250503T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Aurélie GARNIER<br>Commentaire : <br>NumCommande : AR-2504-038851<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Aurélie GARNIER-Commentaire : -NumCommande : AR-2504-038851-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:266549c8-27bb-4b67-98ec-c3cb3c5a9196
-DTSTAMP:20250613T082257Z
+UID:fcafc9e0-60ca-4cf2-bbdd-a963f34f54f8
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250502T220000Z
 DTEND:20250504T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : DALIA SALERNO<br>Commentaire : <br>NumCommande : AR-2501-038534<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : DALIA SALERNO-Commentaire : -NumCommande : AR-2501-038534-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:685dc427-7db9-43cf-beef-c22d6d1ca6cd
-DTSTAMP:20250613T082257Z
+UID:0d4cfe7f-f769-4332-ab46-2a6f374fe872
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250504T220000Z
 DTEND:20250506T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : staycation<br>Commentaire : Elodie  Sooben<br><br>Téléphone : +4179 107 27 39<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : staycation-Commentaire : Elodie  Sooben--Téléphone : +4179 107 27 39-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eeba23a4-f000-404d-a7b2-6d559c0beb29
-DTSTAMP:20250613T082257Z
+UID:a7ca66c6-6963-43c9-ac56-b9d993bd6109
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250506T220000Z
 DTEND:20250508T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CINDY RIVRY<br>Commentaire : <br>NumCommande : AR-2501-038459<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CINDY RIVRY-Commentaire : -NumCommande : AR-2501-038459-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eed1f144-2682-4dcd-a32e-16422f2a3d04
-DTSTAMP:20250613T082257Z
+UID:c1e94bb6-7ad0-49ed-a639-f5992cc8f69b
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250507T220000Z
 DTEND:20250509T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Vanessa SARKISSIAN<br>Commentaire : <br>NumCommande : AR-2412-038310<br>CodeBonCadeau : UFGHDVTBDY24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Vanessa SARKISSIAN-Commentaire : -NumCommande : AR-2412-038310-CodeBonCadeau : UFGHDVTBDY24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f8f9adb7-9515-4187-a606-b945f05e9ff9
-DTSTAMP:20250613T082257Z
+UID:3caa56fc-9712-4e46-a652-458ce2820f6a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emilie Louis<br>Commentaire : <br>NumCommande : AR-2504-038962<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Emilie Louis-Commentaire : -NumCommande : AR-2504-038962-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8eff23ad-6ad0-46f3-a26c-a20daa43e42c
-DTSTAMP:20250613T082257Z
+UID:79172236-9741-440e-bfd9-4f0d4e4a1e65
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Patrice BENHAMOU<br>Commentaire : <br>NumCommande : AR-2501-038441<br>CodeBonCadeau : KC7AAHA9M925<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Patrice BENHAMOU-Commentaire : -NumCommande : AR-2501-038441-CodeBonCadeau : KC7AAHA9M925-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f36b485c-e46e-457d-9278-f4df2f3aa35f
-DTSTAMP:20250613T082257Z
+UID:f1fa34d1-2ab7-4a7b-a028-9954ef3bb557
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250510T220000Z
 DTEND:20250512T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : Aurore De Jesus Da-Silva Fabiao<br>Mobile : 0659856524<br>E-mail : gaec.elevages.le-pin@orange.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : Aurore De Jesus Da-Silva Fabiao-Mobile : 0659856524-E-mail : gaec.elevages.le-pin@orange.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dfc80886-71c9-4b60-a22b-d011751131b0
-DTSTAMP:20250613T082257Z
+UID:1e3fa412-f68e-4e60-821c-a4a06baeeaf8
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250511T220000Z
 DTEND:20250513T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : m Guillaume Brodbecker<br>Mobile : 0750973117<br>E-mail : genson.tiffany13@gmail.com<br>2 original<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : m Guillaume Brodbecker-Mobile : 0750973117-E-mail : genson.tiffany13@gmail.com-2 original-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ee3b925e-c661-4b9c-82c1-9adbc1095b88
-DTSTAMP:20250613T082257Z
+UID:23d14610-39a0-434c-b5c0-1c427a54352e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250513T220000Z
 DTEND:20250515T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : FRANCESCA CIAMPANI<br>Commentaire : <br>NumCommande : AR-2504-038890<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : FRANCESCA CIAMPANI-Commentaire : -NumCommande : AR-2504-038890-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:828794df-2761-4f33-808f-e08ec32ce3c0
-DTSTAMP:20250613T082257Z
+UID:8ae205bc-b585-4db3-ae34-71dbd70fdab2
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250514T220000Z
 DTEND:20250516T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MANON CASIRU<br>Commentaire : <br>NumCommande : AR-2505-039114<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : MANON CASIRU-Commentaire : -NumCommande : AR-2505-039114-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fb752e7b-91b4-4145-bca2-51b82addbf79
-DTSTAMP:20250613T082257Z
+UID:560d1367-dd15-44ce-b42f-effc81e60fd0
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Roxane Bigliemme<br>Commentaire : <br>NumCommande : AR-2504-038967<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Roxane Bigliemme-Commentaire : -NumCommande : AR-2504-038967-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f230edaf-4ef2-4487-b4b0-11a30b8770fb
-DTSTAMP:20250613T082257Z
+UID:957f9790-6f0d-4e85-9995-2546de789921
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Parenti Sara (BOSCOLO TOURS SPA)<br>Commentaire : MRS. CHIARA CHIAPPINI\, MR. ROBERTO CONENNA - MOBILE NR.: +39 3386482107.<br>NumCommande : AR-2503-038750<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Parenti Sara (BOSCOLO TOURS SPA)-Commentaire : MRS. CHIARA CHIAPPINI\, MR. ROBERTO CONENNA - MOBILE NR.: +39 3386482107.-NumCommande : AR-2503-038750-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a0a097e1-732d-4b95-9964-195dab19f6b1
-DTSTAMP:20250613T082257Z
+UID:66abdd0d-745c-46c3-8e40-d4fc2c3572b8
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250520T220000Z
 DTEND:20250522T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Gloria Man Szs Yip<br>Commentaire : <br>NumCommande : AR-2504-038960<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Gloria Man Szs Yip-Commentaire : -NumCommande : AR-2504-038960-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6a59c823-0df4-4019-957e-d0d757a4006d
-DTSTAMP:20250613T082257Z
+UID:113f2496-8c5a-4208-bf31-f9893191b285
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250521T220000Z
 DTEND:20250523T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nathalie Mazas<br>Commentaire : <br>NumCommande : AR-2412-038285<br>CodeBonCadeau : 8RQNXJG5HX24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Nathalie Mazas-Commentaire : -NumCommande : AR-2412-038285-CodeBonCadeau : 8RQNXJG5HX24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4a2bbac1-2554-4c2f-9195-753e704e5e0f
-DTSTAMP:20250613T082257Z
+UID:6ce26f05-211d-4b9e-beda-c0738775398a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250522T220000Z
 DTEND:20250524T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Laurent Cilia<br>Commentaire : <br>NumCommande : AR-2502-038626<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Laurent Cilia-Commentaire : -NumCommande : AR-2502-038626-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dad1a6f3-0b2a-4222-9fe4-5f2045809fcf
-DTSTAMP:20250613T082257Z
+UID:092e81dd-1d93-4915-9206-2ac80daeb8f6
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CAp Adrénaline<br>Commentaire : sophie Dubezin • sophiedubezin@gmail.com • 0624513405<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CAp Adrénaline-Commentaire : sophie Dubezin • sophiedubezin@gmail.com • 0624513405-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f4aa91a6-e834-4359-b640-a4aa36fcec1d
-DTSTAMP:20250613T082257Z
+UID:8581436b-dae2-4cd8-9d9e-20cfbe1c2ff1
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250524T220000Z
 DTEND:20250526T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ghislain poletti<br>Commentaire : <br>NumCommande : AR-2504-038895<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : ghislain poletti-Commentaire : -NumCommande : AR-2504-038895-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f97958cb-863e-49fb-bf78-53326a1e2428
-DTSTAMP:20250613T082257Z
+UID:ae796f24-2587-4e0b-aee8-8eb3f8df8e67
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:29b9f99f-4916-47fc-9223-27a28a639df3
-DTSTAMP:20250613T082257Z
+UID:335df90f-1e3a-41d8-8562-c8421348e7e5
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250527T220000Z
 DTEND:20250529T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CATHERINE ROUBY<br>Commentaire : <br>NumCommande : AR-2405-037147<br>CodeBonCadeau : MRWKYVGXGJ24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CATHERINE ROUBY-Commentaire : -NumCommande : AR-2405-037147-CodeBonCadeau : MRWKYVGXGJ24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1321e631-11db-4610-914b-90c887dc3aee
-DTSTAMP:20250613T082257Z
+UID:5bd7b0b1-53ae-4abd-8d96-1d35dce293e0
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Loucia BERTRAND<br>Commentaire : <br>NumCommande : AR-2505-039032<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Loucia BERTRAND-Commentaire : -NumCommande : AR-2505-039032-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e7b4f8d4-5d03-4587-9753-6522462aa459
-DTSTAMP:20250613T082257Z
+UID:e161f788-b605-4357-974a-92deed25e113
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : EYA BEJAOUI<br>Commentaire : jacuzzi offert<br>NumCommande : AR-2505-039001<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : EYA BEJAOUI-Commentaire : jacuzzi offert-NumCommande : AR-2505-039001-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b6cfdcb7-5f94-42ce-bc13-4470d0d8b858
-DTSTAMP:20250613T082257Z
+UID:ddceb3e2-2be4-4bba-b91b-25a4f6012cf8
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nicolas Tortarolo<br>Commentaire : <br>NumCommande : AR-2505-039108<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Nicolas Tortarolo-Commentaire : -NumCommande : AR-2505-039108-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a5ceb20f-3714-4858-9d8e-00275029a413
-DTSTAMP:20250613T082257Z
+UID:19c62e92-5de5-4d66-9180-22508bfc1a3d
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250531T220000Z
 DTEND:20250602T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Arena Massimo (BOSCOLO TOURS SPA)<br>Commentaire : MR MASSIMO ARENA\, MRS ROSSELLA COPPOLA\, MOBILE NR.: +39 3487354452.<br>NumCommande : AR-2503-038765<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Arena Massimo (BOSCOLO TOURS SPA)-Commentaire : MR MASSIMO ARENA\, MRS ROSSELLA COPPOLA\, MOBILE NR.: +39 3487354452.-NumCommande : AR-2503-038765-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:36276732-5658-4a00-97d6-936e725813c9
-DTSTAMP:20250613T082257Z
+UID:a073c525-e683-4ff1-a15b-494aa28eb5fe
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250604T220000Z
 DTEND:20250606T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : m LOUIS BASSI<br>Mobile : 0635560393<br>E-mail : louisbassi7@gmail.com<br>2 original<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : m LOUIS BASSI-Mobile : 0635560393-E-mail : louisbassi7@gmail.com-2 original-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a53c2708-23f7-4b5f-8bc0-e1d777f94e7c
-DTSTAMP:20250613T082257Z
+UID:658cddab-213d-4ea3-b4cd-8b660d3f7e67
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250605T220000Z
 DTEND:20250607T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Pessi Stefano (BOSCOLO TOURS SPA)<br>Commentaire : MR PESSI STEFANO\, MRS NICOSIA DONATELLA\, MOBILE NR.: +39 3423365293.<br>NumCommande : AR-2503-038803<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Pessi Stefano (BOSCOLO TOURS SPA)-Commentaire : MR PESSI STEFANO\, MRS NICOSIA DONATELLA\, MOBILE NR.: +39 3423365293.-NumCommande : AR-2503-038803-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e49110-a318-40b4-92b3-bfd29ef1f024
-DTSTAMP:20250613T082257Z
+UID:03a9a9f6-a7e6-40fc-91d4-0824507365c3
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mathieu Robinot<br>Commentaire : <br>NumCommande : AR-2503-038799<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Mathieu Robinot-Commentaire : -NumCommande : AR-2503-038799-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:57d0adfe-d0ba-47f3-a10b-93735ab662da
-DTSTAMP:20250613T082257Z
+UID:372b36fe-39f3-4f7d-8330-2ad34a42e1ac
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250607T220000Z
 DTEND:20250609T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marine Veron (VERON ROQUES)<br>Commentaire : Transaction n° 500497<br><br>massage à 18h<br>NumCommande : AR-2505-039111<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Marine Veron (VERON ROQUES)-Commentaire : Transaction n° 500497--massage à 18h-NumCommande : AR-2505-039111-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:218394f0-ab56-46ad-ab83-058f1ca5881c
-DTSTAMP:20250613T082257Z
+UID:421b13de-4ccb-455c-898c-ad9a84167dc6
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250611T220000Z
 DTEND:20250613T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Stéphane Canillo<br>Commentaire : <br>NumCommande : AR-2310-035623<br>CodeBonCadeau : R2EBK2CUPJ23<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Stéphane Canillo-Commentaire : -NumCommande : AR-2310-035623-CodeBonCadeau : R2EBK2CUPJ23-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bcaeac59-ffeb-4d1e-86f4-19755dfe20d6
-DTSTAMP:20250613T082257Z
+UID:6ce20aa6-74d2-4622-bb08-ec3fcae80cba
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250612T220000Z
 DTEND:20250614T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Raïssa O’NEILL<br>Commentaire : <br>NumCommande : AR-2505-039151<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 10<br>LibStatut : Pré-réservé
+DESCRIPTION:Nom : Raïssa O’NEILL-Commentaire : -NumCommande : AR-2505-039151-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 10-LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:88065696-89f1-4b84-b625-eb75e3777889
-DTSTAMP:20250613T082257Z
+UID:69c36461-ca87-4f9e-b6ab-175251b9a0c1
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250613T220000Z
 DTEND:20250615T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : didier Thaunay<br>Commentaire : <br>NumCommande : AR-2405-037066<br>CodeBonCadeau : QG7SPFZCMD24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : didier Thaunay-Commentaire : -NumCommande : AR-2405-037066-CodeBonCadeau : QG7SPFZCMD24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a10fb6a7-b7c1-4d8c-ae6e-8958266d31f0
-DTSTAMP:20250613T082257Z
+UID:9ef94270-2cd5-4ff2-966f-73d1ee22760e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250616T220000Z
 DTEND:20250618T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : mme Zoé Parnaudeau<br>Mobile : 0783867233<br>E-mail : zozo.parns@gmail.com<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : mme Zoé Parnaudeau-Mobile : 0783867233-E-mail : zozo.parns@gmail.com-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aa27de20-2248-4a6c-b9e0-ef0d5570e98d
-DTSTAMP:20250613T082257Z
+UID:4a302c9d-6d49-4623-8cd9-83a810821300
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250617T220000Z
 DTEND:20250619T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CAP ADRENALINE<br>Commentaire : Sonia Tavares Da Silva<br> • soniatavaresdasilva@yahoo.fr<br> • 0684414293<br>2 luxury<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CAP ADRENALINE-Commentaire : Sonia Tavares Da Silva- • soniatavaresdasilva@yahoo.fr- • 0684414293-2 luxury-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:73a1e861-2602-44ac-a71a-f39207edc8fa
-DTSTAMP:20250613T082257Z
+UID:4afe04eb-7305-418c-b32f-bed384a4981b
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : LILOU BOURRASSOL<br>Commentaire : <br>NumCommande : AR-2411-038138<br>CodeBonCadeau : FK2RHJH3HM24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : LILOU BOURRASSOL-Commentaire : -NumCommande : AR-2411-038138-CodeBonCadeau : FK2RHJH3HM24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b7a3ea90-5d95-46b5-a20f-29ee5d0f85c9
-DTSTAMP:20250613T082257Z
+UID:51896e3e-b1e8-484a-8fb9-6233847a7e7d
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250622T220000Z
 DTEND:20250625T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Slim Lamiri<br>Commentaire : <br>NumCommande : AR-2505-039142<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Slim Lamiri-Commentaire : -NumCommande : AR-2505-039142-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5921262b-e882-4346-969e-2de121901a77
-DTSTAMP:20250613T082257Z
+UID:36c2a8b0-652e-466e-81e4-ffbbe858f700
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250626T220000Z
 DTEND:20250628T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Audrey Grech<br>Commentaire : <br>NumCommande : AR-2408-037582<br>CodeBonCadeau : 3JE3ZAHANE24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Audrey Grech-Commentaire : -NumCommande : AR-2408-037582-CodeBonCadeau : 3JE3ZAHANE24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ced3a72b-2466-4a7e-b10d-bf01377c7080
-DTSTAMP:20250613T082257Z
+UID:508e4fed-376f-40c2-98bd-516b0b298711
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Ulysse Granzotto<br>Commentaire : <br>NumCommande : AR-2504-038932<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Ulysse Granzotto-Commentaire : -NumCommande : AR-2504-038932-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:63d528f7-489d-4a39-a0cc-72ecc89ab213
-DTSTAMP:20250613T082257Z
+UID:e3185b60-b149-4e83-be66-03b555d21b6c
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250628T220000Z
 DTEND:20250630T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Da Ros Andrea (BOSCOLO TOURS SPA)<br>Commentaire : <br>NumCommande : AR-2504-038990<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Da Ros Andrea (BOSCOLO TOURS SPA)-Commentaire : -NumCommande : AR-2504-038990-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4f44d075-3765-4c2e-aa56-c0eb6ad65bf5
-DTSTAMP:20250613T082257Z
+UID:b0b6fb05-a471-4e5b-8c58-5bed9ca0e2bd
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250704T220000Z
 DTEND:20250706T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Chiappini Chiara (BOSCOLO TOURS SPA)<br>Commentaire : MRS. CHIARA CHIAPPINI\, MR. ROBERTO CONENNA - MOBILE NR.: +39 3386482107.<br>NumCommande : AR-2503-038751<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Chiappini Chiara (BOSCOLO TOURS SPA)-Commentaire : MRS. CHIARA CHIAPPINI\, MR. ROBERTO CONENNA - MOBILE NR.: +39 3386482107.-NumCommande : AR-2503-038751-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:90a770a0-3598-4679-98ea-070ae8fff356
-DTSTAMP:20250613T082257Z
+UID:46745ee3-9f3f-4426-b170-bc246f3b7d00
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250711T220000Z
 DTEND:20250713T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mercuri Matteo (BOSCOLO TOURS SPA)<br>Commentaire : <br>NumCommande : AR-2505-039073<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Mercuri Matteo (BOSCOLO TOURS SPA)-Commentaire : -NumCommande : AR-2505-039073-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c64cf182-ddd4-439a-8f13-9179a16de09e
-DTSTAMP:20250613T082257Z
+UID:43f82629-9bed-4aa1-9e7e-eee3ecc2181e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250717T220000Z
 DTEND:20250719T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte<br>Commentaire : mme Cygride Fandeux<br>Mobile : 0621699367<br>E-mail : cygridefandeux@yahoo.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport & decouverte-Commentaire : mme Cygride Fandeux-Mobile : 0621699367-E-mail : cygridefandeux@yahoo.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e947a20f-54ed-4f32-a0a2-e921940487d4
-DTSTAMP:20250613T082257Z
+UID:de0d757f-5cc9-4d83-8a38-028d358fbde4
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250718T220000Z
 DTEND:20250720T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Olivier Garrido<br>Commentaire : <br>NumCommande : AR-2506-039164<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 10<br>LibStatut : Pré-réservé
+DESCRIPTION:Nom : Olivier Garrido-Commentaire : -NumCommande : AR-2506-039164-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 10-LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d5be52c9-5c8a-4b4a-8f41-6651553b81cf
-DTSTAMP:20250613T082257Z
+UID:65556104-3330-49c8-9540-40358a4bfebb
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250723T220000Z
 DTEND:20250725T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE<br>Commentaire : mme Anaïs LOHIER<br>Mobile : 0640143679<br>E-mail : anais.lohier6@gmail.com<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE-Commentaire : mme Anaïs LOHIER-Mobile : 0640143679-E-mail : anais.lohier6@gmail.com-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1648a37b-fd5c-42cc-ae38-68a9e6a026a1
-DTSTAMP:20250613T082257Z
+UID:ee60b85b-d98c-407c-b11a-255a8a00b59a
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250724T220000Z
 DTEND:20250726T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sophie Lambert<br>Commentaire : <br>NumCommande : AR-2506-039156<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 10<br>LibStatut : Pré-réservé
+DESCRIPTION:Nom : Sophie Lambert-Commentaire : -NumCommande : AR-2506-039156-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 10-LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e09091ef-347b-4294-92c1-020eb98ce290
-DTSTAMP:20250613T082257Z
+UID:a222f624-63cc-49bd-abb4-56d0d38ffdb1
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250725T220000Z
 DTEND:20250727T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CEDRIC VIGNE<br>Commentaire : <br>NumCommande : AR-2411-038140<br>CodeBonCadeau : QA32TQNRXD24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : CEDRIC VIGNE-Commentaire : -NumCommande : AR-2411-038140-CodeBonCadeau : QA32TQNRXD24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e760887b-c91f-4386-9441-05adf8ce8c97
-DTSTAMP:20250613T082257Z
+UID:6bf431e0-1657-48e6-9765-2b94d1fb698e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250731T220000Z
 DTEND:20250802T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Arnaudo Davide (BOSCOLO TOURS SPA)<br>Commentaire : <br>NumCommande : AR-2503-038699<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Arnaudo Davide (BOSCOLO TOURS SPA)-Commentaire : -NumCommande : AR-2503-038699-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b3965990-bf35-4b68-b5ab-5982f3f294ab
-DTSTAMP:20250613T082257Z
+UID:94595149-c414-4b0f-8a96-5fa1bda8d581
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250801T220000Z
 DTEND:20250803T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Camille Catalano<br>Commentaire : <br>NumCommande : AR-2411-038199<br>CodeBonCadeau : Q37ZNBGYG524<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Camille Catalano-Commentaire : -NumCommande : AR-2411-038199-CodeBonCadeau : Q37ZNBGYG524-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e9791de5-dac7-481b-aa1d-51bbc6cf087a
-DTSTAMP:20250613T082257Z
+UID:1ce617d5-e9f6-4144-884d-f65639ee3e93
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250807T220000Z
 DTEND:20250809T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : nathalie delache<br>Commentaire : <br>NumCommande : AR-2412-038306<br>CodeBonCadeau : AH3PVHS5PA24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : nathalie delache-Commentaire : -NumCommande : AR-2412-038306-CodeBonCadeau : AH3PVHS5PA24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2c676bbf-1fe2-4028-824a-d68e18f92bcf
-DTSTAMP:20250613T082257Z
+UID:0c049fcd-ced0-4ecb-8ec5-57fec72ac65d
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250808T220000Z
 DTEND:20250810T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : DAHLIA SITRUK<br>Commentaire : <br>NumCommande : AR-2505-039128<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : DAHLIA SITRUK-Commentaire : -NumCommande : AR-2505-039128-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d12fec97-8fd9-4347-bb69-bdc8fc57c0e0
-DTSTAMP:20250613T082257Z
+UID:d9fa0752-ba1f-43cd-b426-88a379307cd4
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250822T220000Z
 DTEND:20250824T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ISABELLE COADOU<br>Commentaire : pétale de rose et carte anni bougie<br>NumCommande : AR-2504-038862<br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : ISABELLE COADOU-Commentaire : pétale de rose et carte anni bougie-NumCommande : AR-2504-038862-CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ddbfe61b-5f64-406a-91b3-6a979bf57dd3
-DTSTAMP:20250613T082257Z
+UID:82c54d3a-0737-496f-86af-f4bf542eed04
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250905T220000Z
 DTEND:20250907T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : mme Estelle Granturco<br>Mobile : 0677449304<br>E-mail : d.lauryne@live.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : mme Estelle Granturco-Mobile : 0677449304-E-mail : d.lauryne@live.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:20b1adb2-5a41-41db-af30-e1852543a7b4
-DTSTAMP:20250613T082257Z
+UID:7029e875-0b65-450d-804d-496e2c08232e
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250913T220000Z
 DTEND:20250915T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte<br>Commentaire : m jeremy viale<br>Mobile : 0683438609<br>E-mail : jerem2508@hotmail.fr<br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte-Commentaire : m jeremy viale-Mobile : 0683438609-E-mail : jerem2508@hotmail.fr-NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ca031bb8-8e20-410e-9f56-e61744bfcbf4
-DTSTAMP:20250613T082257Z
+UID:bd529332-f921-40c4-9d49-e07f054fb94f
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20250919T220000Z
 DTEND:20250921T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lauriane SEPULCRE<br>Commentaire : <br>NumCommande : AR-2412-038216<br>CodeBonCadeau : BUEWPCDYMW24<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Lauriane SEPULCRE-Commentaire : -NumCommande : AR-2412-038216-CodeBonCadeau : BUEWPCDYMW24-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:53449cf3-c9f1-4a84-88ab-2bf273708666
-DTSTAMP:20250613T082257Z
+UID:98088725-c17a-4862-9564-8ecd218b749c
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20251017T220000Z
 DTEND:20251019T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lionel Gueit<br>Commentaire : <br>NumCommande : AR-2203-031016<br>CodeBonCadeau : GFUHRXJ2SX22<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Lionel Gueit-Commentaire : -NumCommande : AR-2203-031016-CodeBonCadeau : GFUHRXJ2SX22-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:af8acdb1-7343-4d8b-9578-290817ed5aa2
-DTSTAMP:20250613T082257Z
+UID:8299ee02-f28e-46c2-b97c-3260a9784319
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20251018T220000Z
 DTEND:20251020T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Julie Moulard<br>Commentaire : Envoyer message au : <br>06.13.92.00.14<br>NumCommande : AR-2311-035779<br>CodeBonCadeau : XPSQBWZYJ723<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Julie Moulard-Commentaire : Envoyer message au : -06.13.92.00.14-NumCommande : AR-2311-035779-CodeBonCadeau : XPSQBWZYJ723-CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 20-LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4b899140-e026-4e2d-98a5-a4a1b3646b6c
-DTSTAMP:20250613T082257Z
+UID:de72bfff-b947-4298-a6ca-9f101e676a73
+DTSTAMP:20250613T082757Z
 SUMMARY:La bulle Zen
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé<br>Commentaire : <br>NumCommande : <br>CodeBonCadeau : <br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 90<br>LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:2754cddb-e1d3-4897-9ef2-48eeaf376dcb
-DTSTAMP:20250613T082257Z
-SUMMARY:La bulle Zen
-DTSTART:20260101T230000Z
-DTEND:20260105T225959Z
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Allan Fontaine<br>Commentaire : <br>NumCommande : AR-2506-039152<br>CodeBonCadeau : XPSQBWZYJ752<br>CodeBulle : ZEN ALL13<br>LibBulle : La bulle Zen<br>LibFranchise : ATTRAP'RÊVES ALLAUCH<br>CodeFranchise : ALL13<br>IdStatut : 20<br>LibStatut : Réservé
+DESCRIPTION:Nom : Fermé-Commentaire : -NumCommande : -CodeBonCadeau : -CodeBulle : ZEN ALL13-LibBulle : La bulle Zen-LibFranchise : ATTRAP'RÊVES ALLAUCH-CodeFranchise : ALL13-IdStatut : 90-LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
