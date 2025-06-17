@@ -4,1333 +4,1520 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:2976bc6e-ede6-47d0-90fb-2bd903967520
-DTSTAMP:20250612T094944Z
+UID:9803c817-3671-4757-8f51-eb2aed5308dd
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20241231T230000Z
 DTEND:20250102T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ALAIN GREGI\nCommentaire : \nNumCommande : AR-2501-038437\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ALAIN GREGI - Commentaire :  - NumCommande : AR-2501-038437 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3f510153-c758-4cec-a25c-6ed93bd0d709
-DTSTAMP:20250612T094944Z
+UID:f9f19115-4983-448d-8f08-82b5c1bf9071
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250101T230000Z
 DTEND:20250103T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Célia GRENECHE\nCommentaire : \nNumCommande : AR-2412-038315\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Célia GRENECHE - Commentaire :  - NumCommande : AR-2412-038315 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1ff86215-1469-4116-ac5a-6d3faca5c4d0
-DTSTAMP:20250612T094944Z
+UID:0c71f27a-35c0-4c93-b049-4864e0a9bd9a
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250102T230000Z
 DTEND:20250104T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Camille MARIE\nCommentaire : \nNumCommande : AR-2412-038239\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Camille MARIE - Commentaire :  - NumCommande : AR-2412-038239 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:911e42f5-1128-4b1b-9df2-997a7d33b00f
-DTSTAMP:20250612T094944Z
+UID:b7e839f0-5bbf-4d4f-ac16-a8f0747fda98
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Elisa Amato (Particulier)\nCommentaire : \nNumCommande : AR-2410-038069\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Elisa Amato (Particulier) - Commentaire :  - NumCommande : AR-2410-038069 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4d42a875-2ee3-4551-8e29-f21fc8628bba
-DTSTAMP:20250612T094944Z
+UID:b0471842-3170-4d12-a0ca-85253ac55513
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250104T230000Z
 DTEND:20250106T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Lisa-Marie Zara\n2 Rue Joseph Clérissy\n13012 MARSEILLE\nFrance\n0609455421\nlisamarie.zara@icloud.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Lisa-Marie Zara - 2 Rue Joseph Clérissy - 13012 MARSEILLE - France - 0609455421 - lisamarie.zara@icloud.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8e17af3b-c332-45f2-9a87-397eaf7971ac
-DTSTAMP:20250612T094944Z
+UID:6664877b-611f-4ce1-a8fe-986dde7076f8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c976c099-b843-4522-b334-68b3a36d41a2
-DTSTAMP:20250612T094944Z
+UID:7680ec51-5a19-4e10-8ffe-77f3f5efa6e2
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250109T230000Z
 DTEND:20250111T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Paola Poggi\nCommentaire : \nNumCommande : AR-2412-038409\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Paola Poggi - Commentaire :  - NumCommande : AR-2412-038409 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0d87fe1c-a27e-4c0d-96a4-5d6e486e5147
-DTSTAMP:20250612T094944Z
+UID:74685d7b-1c30-4033-9ea8-03e2841fb312
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Idris Marie\nCommentaire : \nNumCommande : AR-2501-038464\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Idris Marie - Commentaire :  - NumCommande : AR-2501-038464 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eda90806-8d78-4814-80c5-3517745b28ce
-DTSTAMP:20250612T094944Z
+UID:4c7b146c-176d-4fd7-a540-0116a3949b32
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250111T230000Z
 DTEND:20250113T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Stéphanie Ferrand\nCommentaire : \nNumCommande : AR-2412-038220\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Stéphanie Ferrand - Commentaire :  - NumCommande : AR-2412-038220 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:864c7c29-d212-4589-83f5-cb229c8974a9
-DTSTAMP:20250612T094944Z
+UID:6947957a-d6bb-46fc-99b2-1f7534ab1bb8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e6f648df-9982-4c84-9639-317f20eb1d85
-DTSTAMP:20250612T094944Z
+UID:b5a407ef-2db5-4ab1-a48f-cdad61dfa140
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250116T230000Z
 DTEND:20250118T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Asseline\nCommentaire : \nNumCommande : AR-2408-037552\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Asseline - Commentaire :  - NumCommande : AR-2408-037552 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e4ee4225-181c-4639-8520-76ebe103f81a
-DTSTAMP:20250612T094944Z
+UID:cfca1351-8676-4481-aa1c-5dae512815f4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Gregory Pons\nCommentaire : \nNumCommande : AR-2412-038413\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Gregory Pons - Commentaire :  - NumCommande : AR-2412-038413 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e178c443-1b11-4145-a8df-c6625ba108b6
-DTSTAMP:20250612T094944Z
+UID:532d184b-ee96-4336-bbc0-5a94daf90aa0
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c5ec3952-fcbe-4345-bf4e-9a9fc38d4f6b
-DTSTAMP:20250612T094944Z
+UID:982b42cf-6942-4355-8808-336480512e0b
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250123T230000Z
 DTEND:20250125T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sabrina GAINON\nCommentaire : \nNumCommande : AR-2501-038473\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sabrina GAINON - Commentaire :  - NumCommande : AR-2501-038473 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a4b9e1a-0cea-484f-a723-a80a77c44e64
-DTSTAMP:20250612T094944Z
+UID:29ee1509-74d0-484d-8e83-c3834d22eac6
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250124T230000Z
 DTEND:20250126T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Camille Santiago\nCommentaire : \nNumCommande : AR-2501-038453\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Camille Santiago - Commentaire :  - NumCommande : AR-2501-038453 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:90776223-9233-459c-943e-6c793829c8b8
-DTSTAMP:20250612T094944Z
+UID:cd94ec9b-a6b2-4399-8526-5db7b9bcc3b8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b4f91285-f1d4-41d9-8e18-7209441d3035
-DTSTAMP:20250612T094944Z
+UID:c81952b1-540e-4cc6-846e-313cf59afcd0
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8567b5b7-7dc3-42aa-b046-93b0da21ddca
-DTSTAMP:20250612T094944Z
+UID:735ab212-10a8-46f6-869d-4b21e70b2120
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250130T230000Z
 DTEND:20250201T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Manon Gautier\n5 Rue Clémence\n13007 MARSEILLE\nFrance\n0767841920\ngautiermanon95@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Manon Gautier - 5 Rue Clémence - 13007 MARSEILLE - France - 0767841920 - gautiermanon95@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8871473e-5abf-4f4e-97fb-7a7475da9566
-DTSTAMP:20250612T094944Z
+UID:3ff4fa8c-8e67-444c-ade2-642d58df2b56
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Laura Siphon\nCommentaire : mari mange du poisson. Il n’y a que la viande qu’il ne mange pas. Moi étant enceinte je n’ai pas le droit aux viandes saignantes\, œufs crus\, poisson cru\, les fromages non pasteurisés\, et la charcuterie.\nNumCommande : AR-2412-038385\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laura Siphon - Commentaire : mari mange du poisson. Il n’y a que la viande qu’il ne mange pas. Moi étant enceinte je n’ai pas le droit aux viandes saignantes\, œufs crus\, poisson cru\, les fromages non pasteurisés\, et la charcuterie. - NumCommande : AR-2412-038385 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b0b0f04c-5ffa-460d-a1f5-3d7ad684d876
-DTSTAMP:20250612T094944Z
+UID:8229aee6-7c0b-4f87-890d-5257389922e4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250201T230000Z
 DTEND:20250203T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Dante Pegoraro\nCommentaire : Jacuzzi et 2 original offert Fabrice\nNumCommande : AR-2411-038126\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Dante Pegoraro - Commentaire : Jacuzzi et 2 original offert Fabrice - NumCommande : AR-2411-038126 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b3bebbf5-bc3e-4c2e-b298-a940fdb39a1e
-DTSTAMP:20250612T094944Z
+UID:65d24cd2-4522-4d1e-a1af-9dfc1c095291
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie SOBKOWIAK\nCommentaire : \nNumCommande : AR-2501-038492\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie SOBKOWIAK - Commentaire :  - NumCommande : AR-2501-038492 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c974c6c3-5952-4887-a04d-386078a84ab7
-DTSTAMP:20250612T094944Z
+UID:7b59b4c3-97fe-408e-8dae-c083f1d08efe
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250208T230000Z
 DTEND:20250210T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Myriam SAID\nCommentaire : 2 luxury poisson\nNumCommande : AR-2502-038564\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Myriam SAID - Commentaire : 2 luxury poisson - NumCommande : AR-2502-038564 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ff5e8f33-02b8-46c3-927e-33054e55d945
-DTSTAMP:20250612T094944Z
+UID:e9d23b38-a434-4d80-a597-2e75f84f844c
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250210T230000Z
 DTEND:20250212T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Matthias Gargiulo\nCommentaire : \nNumCommande : AR-2502-038585\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Matthias Gargiulo - Commentaire :  - NumCommande : AR-2502-038585 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1547e4ac-344f-47d5-915f-33e4027048e2
-DTSTAMP:20250612T094944Z
+UID:efde49ac-4728-4b6b-9a55-b30929763c43
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mégane Gonzales\nCommentaire : \nNumCommande : AR-2501-038520\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mégane Gonzales - Commentaire :  - NumCommande : AR-2501-038520 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5e957f00-39b2-4dd9-a6be-b99ce8a06875
-DTSTAMP:20250612T094944Z
+UID:58fb97f1-fd83-4284-a333-c6a5b045531c
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Clara Russo\nCommentaire : \nNumCommande : AR-2312-036069\nCodeBonCadeau : RXD5XPQPNS23\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Clara Russo - Commentaire :  - NumCommande : AR-2312-036069 - CodeBonCadeau : RXD5XPQPNS23 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:82ee89cd-8b77-43ee-b0d6-f2dc67562f17
-DTSTAMP:20250612T094944Z
+UID:16b92f9d-7cd4-4282-bbaf-5060abaf1a80
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Perrine AVOT\nCommentaire : \nNumCommande : AR-2412-038283\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Perrine AVOT - Commentaire :  - NumCommande : AR-2412-038283 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:51c8c743-aca0-4369-879d-b05b11a5de1b
-DTSTAMP:20250612T094944Z
+UID:14dffa0d-067d-481d-ba3e-ac410e6c1f36
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Monica De Sousa\nCommentaire : \nNumCommande : AR-2501-038514\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Monica De Sousa - Commentaire :  - NumCommande : AR-2501-038514 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb5f028e-e76a-495a-8670-0e668488ccb2
-DTSTAMP:20250612T094944Z
+UID:e3d9e5e7-7f4b-4bf5-a3df-8572fdcb3bb4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250216T230000Z
 DTEND:20250218T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte\nCommentaire : m Tony Ferronha\nMobile : 0641030439\nE-mail : tony.ferronha13@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport & decouverte - Commentaire : m Tony Ferronha - Mobile : 0641030439 - E-mail : tony.ferronha13@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:59779f75-b44b-4fd8-89ad-d8b4ff12982b
-DTSTAMP:20250612T094944Z
+UID:be4dc46b-3927-4e0b-b016-500995b9ccc6
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250217T230000Z
 DTEND:20250219T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Léa MARAZZA MORENO\nCommentaire : \nNumCommande : AR-2501-038521\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Léa MARAZZA MORENO - Commentaire :  - NumCommande : AR-2501-038521 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1d31edda-dac8-44a3-8bb7-4e84cd922726
-DTSTAMP:20250612T094944Z
+UID:d3bae66c-61e9-4614-8fa5-51f9cdbe1d76
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250219T230000Z
 DTEND:20250221T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Carine PREVOT\nCommentaire : \nNumCommande : AR-2501-038523\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Carine PREVOT - Commentaire :  - NumCommande : AR-2501-038523 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a0d51c4a-16df-4b2b-b214-efe14e66e924
-DTSTAMP:20250612T094944Z
+UID:18676817-fcd6-4d42-b285-3a987b8e3912
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250220T230000Z
 DTEND:20250222T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CLAUDE BEDARRIDE\nCommentaire : \nNumCommande : AR-2501-038517\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CLAUDE BEDARRIDE - Commentaire :  - NumCommande : AR-2501-038517 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ebaf6204-5fea-4ef6-96b5-a5b6a17ffb87
-DTSTAMP:20250612T094944Z
+UID:189309c4-3170-47b9-969c-3628315b4bc9
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Isabelle WESTEEL\nCommentaire : \nNumCommande : AR-2501-038468\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Isabelle WESTEEL - Commentaire :  - NumCommande : AR-2501-038468 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2a88e9d1-ec52-4e42-a1aa-e5845e581eaf
-DTSTAMP:20250612T094944Z
+UID:93893351-a389-452a-afac-f6e612fca7bb
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250222T230000Z
 DTEND:20250224T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sarah Saidi\nCommentaire : \nNumCommande : AR-2412-038366\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sarah Saidi - Commentaire :  - NumCommande : AR-2412-038366 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a229c939-b8d5-4eba-b2a6-d23932370ab1
-DTSTAMP:20250612T094944Z
+UID:4ca86f3e-b344-43ab-87b5-ffd2e3ab7564
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Charlotte Clay\nCommentaire : Jacuzzi\, 2 Luxury Faire régler 94€\nNumCommande : AR-2412-038344\nCodeBonCadeau : 6FJGDEUKCM24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Charlotte Clay - Commentaire : Jacuzzi\, 2 Luxury Faire régler 94€ - NumCommande : AR-2412-038344 - CodeBonCadeau : 6FJGDEUKCM24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ccecd5b6-0a45-4bb9-87ca-f4671b3b08d6
-DTSTAMP:20250612T094944Z
+UID:99b783eb-4c07-4c4e-97be-4e7ec44192db
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250301T230000Z
 DTEND:20250303T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Tanya BISASUR\nCommentaire : pétale de rose\nNumCommande : AR-2502-038660\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Tanya BISASUR - Commentaire : pétale de rose - NumCommande : AR-2502-038660 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7ac4a4f6-8849-4c54-a50c-bdbfec0054de
-DTSTAMP:20250612T094944Z
+UID:4f3eec55-6282-4033-b688-32239dee5c44
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250306T230000Z
 DTEND:20250308T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Syrine Yahia (célibataire)\nCommentaire : \nNumCommande : AR-2502-038584\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Syrine Yahia (célibataire) - Commentaire :  - NumCommande : AR-2502-038584 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:23df0afe-1c4e-42d4-af06-7155f0d68d4c
-DTSTAMP:20250612T094944Z
+UID:b4954073-3710-4034-ae74-7461342c4783
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250307T230000Z
 DTEND:20250309T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alicia HAGAHARISON\nCommentaire : pétales de rose carte anni \n2 simple box\nNumCommande : AR-2502-038610\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alicia HAGAHARISON - Commentaire : pétales de rose carte anni  - 2 simple box - NumCommande : AR-2502-038610 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a55cb968-06a3-4468-a4ed-ad0c6dfe6c60
-DTSTAMP:20250612T094944Z
+UID:60ae919d-aaaf-4b05-a71e-3f20cd9aea9b
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250309T230000Z
 DTEND:20250311T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Julien Parra\nCommentaire : \nNumCommande : AR-2502-038568\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Julien Parra - Commentaire :  - NumCommande : AR-2502-038568 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1b6b03b4-f3ad-444d-8d3c-edfdb8300cf3
-DTSTAMP:20250612T094944Z
+UID:6f93fa30-2041-4878-8f01-1d943231d838
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250311T230000Z
 DTEND:20250313T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alexa Cauviere Guillerm\nCommentaire : \nNumCommande : AR-2502-038632\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexa Cauviere Guillerm - Commentaire :  - NumCommande : AR-2502-038632 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:10069695-6f75-4f2f-8281-20764410c3cf
-DTSTAMP:20250612T094945Z
+UID:82221d01-c320-46dd-9648-868f0d889c20
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6638b8e8-eb39-4c30-82a6-4b1033f23d6d
-DTSTAMP:20250612T094945Z
+UID:d8846383-3f32-43aa-ba1c-3b12d18cd578
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250313T230000Z
 DTEND:20250315T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Angélique BLANES\n62 allée de la cascade\n83940 SAINT ZACHARIE\nFrance\n+33629538738\nangeliquezanko@hotmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Angélique BLANES - 62 allée de la cascade - 83940 SAINT ZACHARIE - France - +33629538738 - angeliquezanko@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c8f76966-9a7b-4376-b2d3-c2e583ac1bd2
-DTSTAMP:20250612T094945Z
+UID:dfeb9ec1-ebb9-469e-8a33-182a68e3de70
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Chantal Crudeli\nCommentaire : 2 simple\nNumCommande : AR-2411-038177\nCodeBonCadeau : MUM8CWMPES24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Chantal Crudeli - Commentaire : 2 simple - NumCommande : AR-2411-038177 - CodeBonCadeau : MUM8CWMPES24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5cb8c726-7a76-4401-9f62-8eb4ff879e5c
-DTSTAMP:20250612T094945Z
+UID:b78047ba-9af8-463a-a62a-782a1c048ba6
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250315T230000Z
 DTEND:20250317T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Coralie PRIMAUT\nCommentaire : \nNumCommande : AR-2411-038182\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Coralie PRIMAUT - Commentaire :  - NumCommande : AR-2411-038182 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0a4de27e-ce6f-4881-8c74-7b118ffee00d
-DTSTAMP:20250612T094945Z
+UID:58431d38-1ba7-4372-a01a-fa16c382b43e
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250316T230000Z
 DTEND:20250318T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nelly BRICARD\nCommentaire : \nNumCommande : AR-2503-038686\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nelly BRICARD - Commentaire :  - NumCommande : AR-2503-038686 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0235d487-bda7-495d-a6cf-2c452040c7f4
-DTSTAMP:20250612T094945Z
+UID:20630fd1-66cf-4a64-b172-52270da57984
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250320T230000Z
 DTEND:20250322T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SERGIO FINO\nCommentaire : repas poisson\njacuzzi offert\narrivée 19h30 20h le lendemain dans la Jungle\nNumCommande : AR-2503-038753\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SERGIO FINO - Commentaire : repas poisson - jacuzzi offert - arrivée 19h30 20h le lendemain dans la Jungle - NumCommande : AR-2503-038753 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dc20e850-60be-4570-b19e-2e1db8edb24f
-DTSTAMP:20250612T094945Z
+UID:3e1a17cc-3447-462f-9c79-98847f9d6e07
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Manon de la Fournière\nCommentaire : \nNumCommande : AR-2502-038621\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Manon de la Fournière - Commentaire :  - NumCommande : AR-2502-038621 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:daf9717a-e064-4fd2-a1cc-8f7cf505a52c
-DTSTAMP:20250612T094945Z
+UID:a484e302-cbdb-4c05-a480-c38083f6f0e2
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250322T230000Z
 DTEND:20250324T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Cécile DAVRIU SENESI\nCommentaire : Une convive sans gluten et sans lactose (beurre OK)\nNumCommande : AR-2311-035722\nCodeBonCadeau : GZYJ6UUE6Z23\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Cécile DAVRIU SENESI - Commentaire : Une convive sans gluten et sans lactose (beurre OK) - NumCommande : AR-2311-035722 - CodeBonCadeau : GZYJ6UUE6Z23 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3e71faa6-361b-4844-960e-694d22f2dcfa
-DTSTAMP:20250612T094945Z
+UID:6f10b56d-dbd6-4b20-9986-6708c7cceddc
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250323T230000Z
 DTEND:20250325T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie-Blanche DI COSTANZO\nCommentaire : Rajout de jacuzzi doit régler 40€\nNumCommande : AR-2406-037215\nCodeBonCadeau : YVFHZWKNBT24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie-Blanche DI COSTANZO - Commentaire : Rajout de jacuzzi doit régler 40€ - NumCommande : AR-2406-037215 - CodeBonCadeau : YVFHZWKNBT24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fbc3bafc-ead3-40ae-8904-25692d8abfbb
-DTSTAMP:20250612T094945Z
+UID:df9d1bb4-fb00-4b0d-a811-d428b903fdd8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250324T230000Z
 DTEND:20250326T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mickael BERGER\nCommentaire : 2 eme nuit dans l'aqua avec repas\nNumCommande : AR-2503-038747\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mickael BERGER - Commentaire : 2 eme nuit dans l'aqua avec repas - NumCommande : AR-2503-038747 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5c87c1ef-eb93-4931-a914-c127c85db7ca
-DTSTAMP:20250612T094945Z
+UID:d550fab3-9908-4f38-9593-abba9729c074
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250327T230000Z
 DTEND:20250329T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Adrien BESSERVE\nCommentaire : \nNumCommande : AR-2503-038812\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Adrien BESSERVE - Commentaire :  - NumCommande : AR-2503-038812 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:05d9c86e-79c9-4796-87fc-6a68709b1a49
-DTSTAMP:20250612T094945Z
+UID:2bbb4da5-da7d-4215-b2d2-6e51611d058f
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250328T230000Z
 DTEND:20250330T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Juliette Torrecillas\nCommentaire : \nNumCommande : AR-2411-038194\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Juliette Torrecillas - Commentaire :  - NumCommande : AR-2411-038194 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d90fbfc3-285e-43cd-aae8-3a3b9543711f
-DTSTAMP:20250612T094945Z
+UID:7195dc89-9af7-4cf5-9db8-ec3d09bd6a79
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250329T230000Z
 DTEND:20250331T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CHARLINE LERAY\nCommentaire : box apero si vous voulez\nNumCommande : AR-2410-038014\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CHARLINE LERAY - Commentaire : box apero si vous voulez - NumCommande : AR-2410-038014 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f4c2ba38-ed14-47fa-848b-25a555195c5d
-DTSTAMP:20250612T094945Z
+UID:4fb78cbf-a760-4311-a025-6ee0185a8d34
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250331T220000Z
 DTEND:20250402T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : mme Nathalie Nègre\nMobile : 0613705384\nE-mail : nathalie.negre@cegetel.net\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Nathalie Nègre - Mobile : 0613705384 - E-mail : nathalie.negre@cegetel.net - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b0374806-eb69-4a6e-88a6-1f400b94efe5
-DTSTAMP:20250612T094945Z
+UID:463925ef-8a2c-4db2-88d4-e23f559d1104
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250403T220000Z
 DTEND:20250405T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nathalie MARTEL\nCommentaire : \nNumCommande : AR-2409-037805\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nathalie MARTEL - Commentaire :  - NumCommande : AR-2409-037805 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a0ad61c7-ab1f-4a89-a59c-b49f981eef6b
-DTSTAMP:20250612T094945Z
+UID:b2909f88-2287-4a15-9677-3f6c88193442
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250404T220000Z
 DTEND:20250406T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Pauline Tallut\n264 Pt Chem. de Saint-Estève\n13120 GARDANNE\nFrance\n0623794809\ntpauline@live.fr\n2 original\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Pauline Tallut - 264 Pt Chem. de Saint-Estève - 13120 GARDANNE - France - 0623794809 - tpauline@live.fr - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:39fecbf3-559e-454d-9a5d-8287cf0b41f6
-DTSTAMP:20250612T094945Z
+UID:63c1734a-33f9-4dcd-91d6-b35734186154
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250405T220000Z
 DTEND:20250407T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : m Patrice West\nMobile : 0663853061\nE-mail : patricewest38@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Patrice West - Mobile : 0663853061 - E-mail : patricewest38@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0f5d9885-ec6c-4441-b273-2fe4dd86cdd4
-DTSTAMP:20250612T094945Z
+UID:f8049acf-2709-4cec-9919-c0ce5a674ef4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250406T220000Z
 DTEND:20250408T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Séverine Boudry\n3084 Montée du Vieux Camp\n83330 LE CASTELLET\nFrance\n+33647962907\nboudryseverine@gmail.com\n2 simple 38€\njacuzzi 40€ à 20h30\napero 20€\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Séverine Boudry - 3084 Montée du Vieux Camp - 83330 LE CASTELLET - France - +33647962907 - boudryseverine@gmail.com - 2 simple 38€ - jacuzzi 40€ à 20h30 - apero 20€ - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:31adeec5-92c3-48e9-a98a-1144702f212c
-DTSTAMP:20250612T094945Z
+UID:8c81abf3-769d-4ef7-89ce-bcea50cbb510
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250408T220000Z
 DTEND:20250410T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Celine Gallorini\nCommentaire : \nNumCommande : AR-2504-038861\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Celine Gallorini - Commentaire :  - NumCommande : AR-2504-038861 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:63f40484-e4d6-40ef-b3c8-8222c288ff25
-DTSTAMP:20250612T094945Z
+UID:6885462c-8efd-40e0-ba79-57329be5af42
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250409T220000Z
 DTEND:20250411T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marine SCHNEIDER\nCommentaire : Allergie aux champignons faire un plat MOUTARDE MAGGIE\nMASSAGE 17H Amandine et Cathy\nNumCommande : AR-2503-038724\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marine SCHNEIDER - Commentaire : Allergie aux champignons faire un plat MOUTARDE MAGGIE - MASSAGE 17H Amandine et Cathy - NumCommande : AR-2503-038724 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a23b373b-796d-4e3b-80d9-6452ae55e560
-DTSTAMP:20250612T094945Z
+UID:8c6fa4a2-84e4-43f7-91f1-f7a40da5dd2c
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250410T220000Z
 DTEND:20250412T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Estelle Mourton\nCommentaire : Carte anniversaire + petale.\nun des plateaux sans poisson\nNumCommande : AR-2503-038722\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Estelle Mourton - Commentaire : Carte anniversaire + petale. - un des plateaux sans poisson - NumCommande : AR-2503-038722 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0c6dfb-0b31-49fd-85fc-6c10b01bf075
-DTSTAMP:20250612T094945Z
+UID:0f5f4d59-0b46-4813-964f-52183f9a3009
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Angelique Poucan\nCommentaire : \nNumCommande : AR-2503-038666\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Angelique Poucan - Commentaire :  - NumCommande : AR-2503-038666 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:34b21b61-c843-4540-b6bf-724c3a2bf80a
-DTSTAMP:20250612T094945Z
+UID:3e995dcf-9b5c-4cbc-a37e-f2fc04b593f4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : m David Jouvin\nMobile : 0617487213\nE-mail : deamorim.carina@gmail.com\n2 simple\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m David Jouvin - Mobile : 0617487213 - E-mail : deamorim.carina@gmail.com - 2 simple - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6759f6f8-fd70-4bad-a637-be082884cdd5
-DTSTAMP:20250612T094945Z
+UID:947bad9e-0b88-4690-af59-2445b76a87cf
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250413T220000Z
 DTEND:20250415T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Anais Mannai\nCommentaire : \nNumCommande : AR-2504-038881\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anais Mannai - Commentaire :  - NumCommande : AR-2504-038881 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e42efd81-6c47-40ad-841d-2388c3459d05
-DTSTAMP:20250612T094945Z
+UID:c6a9aa68-fe89-43ce-ad94-028943436e69
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250414T220000Z
 DTEND:20250416T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Olive Delbarre\nCommentaire : \nNumCommande : AR-2504-038893\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Olive Delbarre - Commentaire :  - NumCommande : AR-2504-038893 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0e48c775-b24c-412c-b576-2d9eff78f9d5
-DTSTAMP:20250612T094945Z
+UID:b6d4f7b5-72a9-4dec-a266-e3e08c74a3b3
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250416T220000Z
 DTEND:20250418T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Isidro Velazquez\nCommentaire : \nNumCommande : AR-2412-038279\nCodeBonCadeau : UP25HGGB6C24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Isidro Velazquez - Commentaire :  - NumCommande : AR-2412-038279 - CodeBonCadeau : UP25HGGB6C24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:18898fc5-bb74-4265-bf84-efa45e954ce3
-DTSTAMP:20250612T094945Z
+UID:f58d0eb7-1437-4d69-8d0e-8723015bd8bf
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250417T220000Z
 DTEND:20250419T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte\nCommentaire : m Florian Aubert\nMobile : 0688481315\nE-mail : florian.aubert84@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport & decouverte - Commentaire : m Florian Aubert - Mobile : 0688481315 - E-mail : florian.aubert84@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d30e4674-13b7-43d3-a722-e873246ecf58
-DTSTAMP:20250612T094945Z
+UID:8f3657d4-5eb2-45b4-a24a-bb2170cdfc03
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sebastien Dalmasso\nCommentaire : 1 massage 45 min doit 85€\nNumCommande : AR-2504-038888\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sebastien Dalmasso - Commentaire : 1 massage 45 min doit 85€ - NumCommande : AR-2504-038888 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6411d90a-3cf1-4a42-a035-04db8c8a71e7
-DTSTAMP:20250612T094945Z
+UID:008df850-6a0b-4838-9535-47f061927af2
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Hind Amnouar\nCommentaire : petale de rose carte anni\nNumCommande : AR-2504-038891\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Hind Amnouar - Commentaire : petale de rose carte anni - NumCommande : AR-2504-038891 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6fb04c34-9181-4292-916e-799bc3d4cdb4
-DTSTAMP:20250612T094945Z
+UID:35aa6104-679e-44f1-aebf-df9773ce401d
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250420T220000Z
 DTEND:20250422T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : stéphanie pelegrin\nCommentaire : \nNumCommande : AR-2503-038740\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : stéphanie pelegrin - Commentaire :  - NumCommande : AR-2503-038740 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:91600566-2921-4241-b507-72d3396784d3
-DTSTAMP:20250612T094945Z
+UID:42308f91-dd7e-4c5e-8d6b-e2e8dca8314e
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250423T220000Z
 DTEND:20250425T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MATHIEU DUPRE\nCommentaire : \nNumCommande : AR-2503-038762\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MATHIEU DUPRE - Commentaire :  - NumCommande : AR-2503-038762 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cb9550a7-6471-469d-b202-f6aeb2a34f97
-DTSTAMP:20250612T094945Z
+UID:3d47020e-96ad-498f-9a50-fc04cf2ff95e
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bianco Anna (BOSCOLO TOURS SPA)\nCommentaire : MRS ANNA BIANCO\, MR LUCA NEPITA\; MOBILE NR.: 0039 3894686860\n Jacuzzi offert\nNumCommande : AR-2501-038479\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bianco Anna (BOSCOLO TOURS SPA) - Commentaire : MRS ANNA BIANCO\, MR LUCA NEPITA\; MOBILE NR.: 0039 3894686860 -  Jacuzzi offert - NumCommande : AR-2501-038479 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3e7e90b4-1b94-48c8-b3e8-9907eb473653
-DTSTAMP:20250612T094945Z
+UID:01b3be13-38de-4cba-9a7c-9d20cafa9c45
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250425T220000Z
 DTEND:20250427T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : 25 Rue Maurice Ravel\n34660 COURNONTERRAL\nFrance\n0646260440\nromain.cordonnier@me.comomain.\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : 25 Rue Maurice Ravel - 34660 COURNONTERRAL - France - 0646260440 - romain.cordonnier@me.comomain. - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dae6565f-2f91-4905-a33e-04ec38e12866
-DTSTAMP:20250612T094945Z
+UID:b3591c26-dd73-4ecc-aa92-ad606c6cab6f
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250426T220000Z
 DTEND:20250428T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CHARLINE NEMOZ\nCommentaire : \nNumCommande : AR-2502-038655\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CHARLINE NEMOZ - Commentaire :  - NumCommande : AR-2502-038655 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0c6e92ac-75cc-4939-ba03-b197bd800b7b
-DTSTAMP:20250612T094945Z
+UID:5c48750e-3d8c-4708-9359-3b91bea30742
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250429T220000Z
 DTEND:20250501T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Hugo Gianorsi\nCommentaire : \nNumCommande : AR-2410-038039\nCodeBonCadeau : QWVDP4TGB924\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Hugo Gianorsi - Commentaire :  - NumCommande : AR-2410-038039 - CodeBonCadeau : QWVDP4TGB924 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8da857b1-d190-4267-ba20-87bed6d78881
-DTSTAMP:20250612T094945Z
+UID:194aedc6-4956-4849-9540-feaa9ed529b8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250430T220000Z
 DTEND:20250502T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : lionel dugit-pinat\nCommentaire : \nNumCommande : AR-2312-036106\nCodeBonCadeau : TGZ5GS4XVV23\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : lionel dugit-pinat - Commentaire :  - NumCommande : AR-2312-036106 - CodeBonCadeau : TGZ5GS4XVV23 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a0e4b1cf-19d4-49d4-9872-af0c59973f67
-DTSTAMP:20250612T094945Z
+UID:700830d1-0027-4870-bab7-613d4a26190a
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250501T220000Z
 DTEND:20250503T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Guillaume Roy\nCommentaire : \nNumCommande : AR-2504-038913\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Guillaume Roy - Commentaire :  - NumCommande : AR-2504-038913 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9c06e6e7-88d0-4b75-b9f6-78ee6c3748d1
-DTSTAMP:20250612T094945Z
+UID:c820a43b-f1f7-45b3-a2b1-f2c214cca215
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250502T220000Z
 DTEND:20250504T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maëlys POULHES\nCommentaire : \nNumCommande : AR-2503-038731\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Maëlys POULHES - Commentaire :  - NumCommande : AR-2503-038731 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b9e96eaf-8bcc-46fe-a2b4-d5e7ffc1696d
-DTSTAMP:20250612T094945Z
+UID:084965b7-50aa-4a50-b64f-14154ff1a480
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250504T220000Z
 DTEND:20250506T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maeva Bonnardel\nCommentaire : \nNumCommande : AR-2504-038966\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Maeva Bonnardel - Commentaire :  - NumCommande : AR-2504-038966 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d582fbba-ed08-4fef-ab61-9461f72465a6
-DTSTAMP:20250612T094945Z
+UID:8c43083d-114e-405a-a9e8-9c34a29f3c37
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250506T220000Z
 DTEND:20250508T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : lydie nouveau\nCommentaire : \nNumCommande : AR-2412-038262\nCodeBonCadeau : 8724DNHUKM24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : lydie nouveau - Commentaire :  - NumCommande : AR-2412-038262 - CodeBonCadeau : 8724DNHUKM24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eeeb20b6-7d1e-4aef-8bed-bc78ecfb4108
-DTSTAMP:20250612T094945Z
+UID:46124a97-f665-4b0e-8022-cab7584033a2
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250507T220000Z
 DTEND:20250509T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emmanuelle Darras Gaspari\nCommentaire : \nNumCommande : AR-2504-038995\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emmanuelle Darras Gaspari - Commentaire :  - NumCommande : AR-2504-038995 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:da6776dc-f5d0-4f44-98a6-b91c5e7c43f7
-DTSTAMP:20250612T094945Z
+UID:9f4aff6e-43e8-47c7-8d6b-d4f600e34ed4
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Benjamin Furnari\nCommentaire : \nNumCommande : AR-2505-039010\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Benjamin Furnari - Commentaire :  - NumCommande : AR-2505-039010 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:19db3e99-905d-4204-b494-c4e42f811d1a
-DTSTAMP:20250612T094945Z
+UID:881fccc2-8cc8-4e92-b6a1-a913319651dd
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Florence DAUCHART\nCommentaire : 0675865918\nNumCommande : AR-2406-037297\nCodeBonCadeau : FJ8QNYPECK24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Florence DAUCHART - Commentaire : 0675865918 - NumCommande : AR-2406-037297 - CodeBonCadeau : FJ8QNYPECK24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9841769a-7bf2-479f-88f4-42083ed96100
-DTSTAMP:20250612T094945Z
+UID:c722d707-036d-4498-966a-09a9032aa787
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250511T220000Z
 DTEND:20250513T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Pui Man Cheung\nCommentaire : can using WhatsApp to send the message and phone number is +85256488516\nMessage pour Laure\nNumCommande : AR-2504-038951\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Pui Man Cheung - Commentaire : can using WhatsApp to send the message and phone number is +85256488516 - Message pour Laure - NumCommande : AR-2504-038951 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:79495ebd-4f8f-401d-b786-3a0aa5b80cdb
-DTSTAMP:20250612T094945Z
+UID:b505aa5f-4370-4d79-9903-8e3d6751ca36
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250513T220000Z
 DTEND:20250515T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BLAISE SANTIAGO\nCommentaire : doit 50€ passage HS\nNumCommande : AR-2504-038857\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BLAISE SANTIAGO - Commentaire : doit 50€ passage HS - NumCommande : AR-2504-038857 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:86fabff9-2894-4752-91ce-cc5e3eb85c48
-DTSTAMP:20250612T094945Z
+UID:d464d2e5-1af4-4e5d-832c-bfa63bfd8d9e
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jennifer JEAN-BAPTISTE ANTOINE\nCommentaire : jacuzzi offert\nNumCommande : AR-2505-039015\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jennifer JEAN-BAPTISTE ANTOINE - Commentaire : jacuzzi offert - NumCommande : AR-2505-039015 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ad009d-997e-43c7-9e85-c853720a0a8d
-DTSTAMP:20250612T094945Z
+UID:2c7cb451-1303-4188-9559-fb1de7e6d244
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Kimberley Flamigni\nCommentaire : Pétale de rose\nNumCommande : AR-2503-038797\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Kimberley Flamigni - Commentaire : Pétale de rose - NumCommande : AR-2503-038797 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:63f51821-657c-49c8-80b1-b3357b973ab7
-DTSTAMP:20250612T094945Z
+UID:02801e7f-9649-4478-8f65-e982d883ed19
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250517T220000Z
 DTEND:20250519T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lana Ingrassia\nCommentaire : \nNumCommande : AR-2504-038972\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lana Ingrassia - Commentaire :  - NumCommande : AR-2504-038972 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4b5bbd09-002f-4a4d-899d-2fd8e7499a4d
-DTSTAMP:20250612T094945Z
+UID:ba2b85bf-e9e0-4971-a09a-4c544bc9d4f8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250520T220000Z
 DTEND:20250523T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : LAETITIA IMPERIALE\nCommentaire : 1 jacuzzi offert\nNumCommande : AR-2505-039087\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : LAETITIA IMPERIALE - Commentaire : 1 jacuzzi offert - NumCommande : AR-2505-039087 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ec3d9798-24e6-4aa2-8dec-dc56af4d2aef
-DTSTAMP:20250612T094945Z
+UID:22a795f7-6ca8-420c-a0a1-beb0c9873b02
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250522T220000Z
 DTEND:20250524T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jeanne DE CLAVIERE\nCommentaire : \nNumCommande : AR-2504-038866\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jeanne DE CLAVIERE - Commentaire :  - NumCommande : AR-2504-038866 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ba9b018c-fabd-4f7f-ade0-7a7dd2e2adf7
-DTSTAMP:20250612T094945Z
+UID:412769c8-0c29-436c-9e17-64b07058ff8f
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Angélique Le Brun\nCommentaire : \nNumCommande : AR-2503-038800\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Angélique Le Brun - Commentaire :  - NumCommande : AR-2503-038800 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1105c3b8-79e6-41ee-9aa4-373064e63829
-DTSTAMP:20250612T094945Z
+UID:6f056003-ce69-4e2d-b41e-5c84ff8660c6
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250524T220000Z
 DTEND:20250526T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : IMENE LAIMENE\nCommentaire : \nNumCommande : AR-2505-039098\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : IMENE LAIMENE - Commentaire :  - NumCommande : AR-2505-039098 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:da5ac88c-7036-4d37-867a-f7a5228a7a46
-DTSTAMP:20250612T094945Z
+UID:8bb9f271-8d23-4095-b8d4-eb2ee193513b
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250525T220000Z
 DTEND:20250527T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : philippe allio\nCommentaire : \nNumCommande : AR-2505-039058\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : philippe allio - Commentaire :  - NumCommande : AR-2505-039058 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:194f5c31-5489-463b-b7a8-a909f4144731
-DTSTAMP:20250612T094945Z
+UID:b8cf580a-ffc5-4248-994a-7a4b13c2cd47
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:95519a8e-f2e1-412f-8920-905d598bc242
-DTSTAMP:20250612T094945Z
+UID:00241b21-f4d0-4912-93ea-31c8f25fdcd6
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250527T220000Z
 DTEND:20250529T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jérémy Maurel\nCommentaire : Wonderbox\nFaire payer 40€ pour le passage en haute saison.\nNumCommande : AR-2505-039075\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jérémy Maurel - Commentaire : Wonderbox - Faire payer 40€ pour le passage en haute saison. - NumCommande : AR-2505-039075 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c403f2cb-17b3-4c5b-9b33-439162610cab
-DTSTAMP:20250612T094945Z
+UID:047b4461-97b0-4d56-9ee1-f9329bb65fbe
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sin Ting Fung\nCommentaire : \nNumCommande : AR-2502-038627\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sin Ting Fung - Commentaire :  - NumCommande : AR-2502-038627 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a57d4b-a546-4443-b815-7e86f2645848
-DTSTAMP:20250612T094945Z
+UID:26aa1d16-4dfd-4e1b-be82-3e41a81d8034
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : m Didier et Stéphanie DISCALLI\nMobile : 0652508803\nE-mail : didiercox@free.fr\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Didier et Stéphanie DISCALLI - Mobile : 0652508803 - E-mail : didiercox@free.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:70739160-3c25-4a6c-a3eb-185b549c6e46
-DTSTAMP:20250612T094945Z
+UID:0c02cedf-ae57-499d-b1e7-26a451dd9e52
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : YANNICK TEMPIER\nCommentaire : \nNumCommande : AR-2502-038630\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : YANNICK TEMPIER - Commentaire :  - NumCommande : AR-2502-038630 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e9c9c1d3-a701-49af-b397-ede2fe24263f
-DTSTAMP:20250612T094945Z
+UID:718b7943-722d-4e5a-853c-f1d350784273
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250531T220000Z
 DTEND:20250602T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MACIF\nCommentaire : ARMAF20256	COUSIN CHARLOTTE		\n07.62.68.14.64\ncharlottecousin1359@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MACIF - Commentaire : ARMAF20256	COUSIN CHARLOTTE		 - 07.62.68.14.64 - charlottecousin1359@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:610879db-5a6c-4cc3-b9e1-2e67fe43bb31
-DTSTAMP:20250612T094945Z
+UID:19af0530-6b6c-4386-a45c-d84424b3af53
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250601T220000Z
 DTEND:20250603T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8fdf08-8d4f-4f83-b12f-aa36540867ad
-DTSTAMP:20250612T094945Z
+UID:c0678023-a93b-4c85-97f8-881df1f70ecf
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
-DTSTART:20250602T220000Z
-DTEND:20250606T215959Z
+DTSTART:20250603T220000Z
+DTEND:20250605T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Réservé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ferme - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a6f06d44-0425-444a-8ee5-243f8bb4409d
-DTSTAMP:20250612T094945Z
+UID:795624a0-3691-4a21-a2da-017419a19639
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250605T220000Z
 DTEND:20250607T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Dominique VASCHALDE\nCommentaire : Loic Marie Vaschalde 0783368454\nloicvaschalde@gmail.com\n\nCarte anniversaire.\n"Bon anniversaire Bibinou de notre cœur qu'on adore maintenant et pour toujours."\nNumCommande : AR-2505-039068\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Dominique VASCHALDE - Commentaire : Loic Marie Vaschalde 0783368454 - loicvaschalde@gmail.com -  - Carte anniversaire. - "Bon anniversaire Bibinou de notre cœur qu'on adore maintenant et pour toujours." - NumCommande : AR-2505-039068 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:860f4d2b-cfa1-4f50-8958-af8b510a1fd7
-DTSTAMP:20250612T094945Z
+UID:46039c83-6a3e-4639-93aa-03d7b35dbef1
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : FLORAINE DA COSTA\nCommentaire : \nNumCommande : AR-2501-038425\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : FLORAINE DA COSTA - Commentaire :  - NumCommande : AR-2501-038425 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:851dc82a-2703-4ed9-80d2-97e0264f29ee
-DTSTAMP:20250612T094945Z
+UID:43d75b7d-4fbc-4fe1-aee2-a1b3651cc2a7
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250607T220000Z
 DTEND:20250609T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alexandra Jimenez\nCommentaire : \nNumCommande : AR-2505-039019\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexandra Jimenez - Commentaire :  - NumCommande : AR-2505-039019 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7b9b58dc-3a44-4132-af3a-ed3276244aa4
-DTSTAMP:20250612T094945Z
+UID:04a65352-c568-4d82-a511-65e2bd387001
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250608T220000Z
+DTEND:20250610T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Léa Moisset - Commentaire :  - NumCommande : AR-2412-038251 - CodeBonCadeau : T4QJASZWTR24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a0a6435-0f5c-483d-b0b4-46ce3e53ebe5
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250612T220000Z
 DTEND:20250614T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Laure MAILLET\n21 Chem. du Moulin de la ville\n06650 OPIO\nFrance\n06 62 01 31 48\nlaure.pearl@hotmail.fr\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Laure MAILLET - 21 Chem. du Moulin de la ville - 06650 OPIO - France - 06 62 01 31 48 - laure.pearl@hotmail.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:65ca9e79-dcb6-4bf6-853b-84d02435f2c3
-DTSTAMP:20250612T094945Z
+UID:816e7d96-9ad6-45e6-b577-f9f64aec1f78
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250613T220000Z
 DTEND:20250615T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : valerie chevalier\nCommentaire : \nNumCommande : AR-2407-037527\nCodeBonCadeau : CTGMMMUUDG24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : valerie chevalier - Commentaire :  - NumCommande : AR-2407-037527 - CodeBonCadeau : CTGMMMUUDG24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0fe5b973-2e5e-453d-ad02-b63023ec23a8
-DTSTAMP:20250612T094945Z
+UID:880e5cdf-cdf9-4887-81a3-a6f8d930c6dc
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250616T220000Z
+DTEND:20250618T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : CARINE PUMILIA - Commentaire :  - NumCommande : AR-2506-039218 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:498394dd-8984-458a-9c3b-2956e2d18e75
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250617T220000Z
 DTEND:20250620T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Virginie Amprimo\nCommentaire : \nNumCommande : AR-2505-039071\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Virginie Amprimo - Commentaire : 1 Repas sans viande\, sans poisson\, sans lactose (oeuf possible) - 1 pas de fromage - NumCommande : AR-2505-039071 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e20a7ff0-9658-42dc-aca6-f31c2beeaecb
-DTSTAMP:20250612T094945Z
+UID:08f0a9d0-d0f2-4ef0-8004-c18e7f47a8cd
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250619T220000Z
+DTEND:20250621T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fréderic PORCIERO - Commentaire : Un des dessert salade de fruit. - NumCommande : AR-2506-039211 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9dda8e-7fe8-4127-9628-3b2c786f64da
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sophie Korchia\nCommentaire : \nNumCommande : AR-2503-038764\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Sophie Korchia - Commentaire :  - NumCommande : AR-2503-038764 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b7ff41da-2406-4941-870f-0a8799f8082a
-DTSTAMP:20250612T094945Z
+UID:764c1815-8d81-4527-a8e2-af06adcdf9d7
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250626T220000Z
 DTEND:20250628T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : mme Aurore Chabas\nMobile : 0689562057\nE-mail : vidal87a@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Aurore Chabas - Mobile : 0689562057 - E-mail : vidal87a@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:295d5e99-3208-4fda-b90e-072cf995dde2
-DTSTAMP:20250612T094945Z
+UID:3d04cab0-857a-4902-a3a3-d2e7ed2c6d26
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marceau Pochat\nCommentaire : \nNumCommande : AR-2504-038936\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Marceau Pochat - Commentaire :  - NumCommande : AR-2504-038936 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1573126b-32d7-4ac1-9ff3-07feef8ec188
-DTSTAMP:20250612T094945Z
+UID:36c2babb-4a05-47fd-acd1-137b240d43c0
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250701T220000Z
 DTEND:20250703T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emilie Collu\nCommentaire : \nNumCommande : AR-2506-039161\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emilie Collu - Commentaire :  - NumCommande : AR-2506-039161 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e5a6fcc4-4b89-4e55-b926-3b76d71e027c
-DTSTAMP:20250612T094945Z
+UID:ead54e36-105f-4f13-9805-ba155138a578
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250703T220000Z
+DTEND:20250705T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Sandrine Blancher - Commentaire :  - NumCommande : AR-2506-039226 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef2574f-c619-4987-b04d-bac1758b3f3f
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250704T220000Z
 DTEND:20250706T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : zoé Latcher\nCommentaire : \nNumCommande : AR-2412-038284\nCodeBonCadeau : 4PZT6JP8YM24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : zoé Latcher - Commentaire :  - NumCommande : AR-2412-038284 - CodeBonCadeau : 4PZT6JP8YM24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e105c271-6a8e-4ab6-96c2-5567e93bf668
-DTSTAMP:20250612T094945Z
+UID:c534c036-e0e0-4068-bf5b-be20f4a2685c
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250708T220000Z
 DTEND:20250710T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Maud Rigollet\n104 Rue de l'Olivier\n13005 MARSEILLE\nFrance\n0781032162\nmaud.rigollet@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Maud Rigollet - 104 Rue de l'Olivier - 13005 MARSEILLE - France - 0781032162 - maud.rigollet@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:81466fc7-57dc-48af-be07-b54d41d882cd
-DTSTAMP:20250612T094945Z
+UID:4a486b95-210f-4601-964d-29d205594768
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250710T220000Z
 DTEND:20250712T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ALICE DEFRESNE\nCommentaire : \nNumCommande : AR-2412-038209\nCodeBonCadeau : XKAK3TAHPB24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ALICE DEFRESNE - Commentaire :  - NumCommande : AR-2412-038209 - CodeBonCadeau : XKAK3TAHPB24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d2f2b4ee-6c4d-45a2-8fde-b09bec1e6922
-DTSTAMP:20250612T094945Z
+UID:45c6f4df-4b0a-4668-a137-fb15575da52b
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250711T220000Z
 DTEND:20250713T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Celine SALEMI\nCommentaire : \nNumCommande : AR-2503-038818\nCodeBonCadeau : QETX9ABMSY25\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Celine SALEMI - Commentaire :  - NumCommande : AR-2503-038818 - CodeBonCadeau : QETX9ABMSY25 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:679770f5-fd99-4628-95bd-ddaf37e1685b
-DTSTAMP:20250612T094945Z
+UID:68052481-ee9e-4dd7-883a-41f150b704ed
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250718T220000Z
 DTEND:20250720T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Eddy Geesink\nCommentaire : \nNumCommande : AR-2503-038806\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Eddy Geesink - Commentaire :  - NumCommande : AR-2503-038806 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:da61cc27-d0ad-4b6a-9a87-3d00ff27a071
-DTSTAMP:20250612T094945Z
+UID:103f114a-1c4d-42ca-9e34-5ab391e0509f
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250724T220000Z
 DTEND:20250726T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ewan couturier\nCommentaire : \nNumCommande : AR-2412-038381\nCodeBonCadeau : EHSHUVQRVX24\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ewan couturier - Commentaire :  - NumCommande : AR-2412-038381 - CodeBonCadeau : EHSHUVQRVX24 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:92e034e8-b946-4501-9578-5f0c189e126b
-DTSTAMP:20250612T094945Z
+UID:de0f3ea6-734a-4f81-a9ef-e0adc6582c65
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250725T220000Z
+DTEND:20250727T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Christine Héraud Blanc - Commentaire :  - NumCommande : AR-2506-039208 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:80ce0a54-0a25-4f39-a918-31953f79c6ab
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250808T220000Z
+DTEND:20250810T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : MEHDI NEZZAGHY - Commentaire :  - NumCommande : AR-2506-039171 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 10 - LibStatut : Pré-réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f07bc6e0-08ed-4d13-a8f6-7c6c5c8e33c8
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250810T220000Z
 DTEND:20250812T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandy Pavlakis\nCommentaire : \nNumCommande : AR-2505-039149\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sandy Pavlakis - Commentaire :  - NumCommande : AR-2505-039149 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:03086378-a347-4943-a59f-661c4217159a
-DTSTAMP:20250612T094945Z
+UID:64e18aab-a901-40aa-a5d3-ecf774484882
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250818T220000Z
+DTEND:20250820T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Cloé BROS - Commentaire :  - NumCommande : AR-2501-038433 - CodeBonCadeau : ADEYKAEHDM25 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38d2442c-a4f7-4657-8bbe-943b8e0fbf6b
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250822T220000Z
 DTEND:20250824T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie Charlotte Teissier\nCommentaire : \nNumCommande : AR-2505-039140\nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Marie Charlotte Teissier - Commentaire :  - NumCommande : AR-2505-039140 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:03d365eb-b022-4d02-8544-4c41bd79b890
-DTSTAMP:20250612T094945Z
+UID:f24dea94-d956-41ce-9753-9e548ebf6b4d
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250823T220000Z
+DTEND:20250825T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Noah Duriez - Commentaire :  - NumCommande : AR-2506-039229 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 10 - LibStatut : Pré-réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc265b50-980c-4e35-968c-ecd7ef60b350
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250905T220000Z
 DTEND:20250907T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : barbara correia\nCommentaire : \nNumCommande : AR-2312-036025\nCodeBonCadeau : XAPGPNU6PH23\nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : barbara correia - Commentaire :  - NumCommande : AR-2312-036025 - CodeBonCadeau : XAPGPNU6PH23 - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d51b3ae7-0568-417b-ba36-5e737f725a53
-DTSTAMP:20250612T094945Z
+UID:df92cc54-a92a-46ea-a544-6c23ee48920d
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20250910T220000Z
+DTEND:20250912T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Rémi Jacquin - Commentaire :  - NumCommande : AR-2506-039233 - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2b6aeb-9e5f-43fa-abb2-3203205e603d
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20250919T220000Z
 DTEND:20250921T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MACIF\nCommentaire : ARMAF20254	BAYI PTISSAM\n006.18.85.76.42\nptissambayi@gmail.com\njacuzzi\nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MACIF - Commentaire : ARMAF20254	BAYI PTISSAM - 006.18.85.76.42 - ptissambayi@gmail.com - jacuzzi - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a5f8ae5f-6a61-4cc4-b59a-37cf2c8f5ac0
-DTSTAMP:20250612T094945Z
+UID:65386cd9-78b5-4e41-b37f-baad7bc3951d
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251102T230000Z
+DTEND:20251107T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2379c8-ffeb-4ae8-8b4e-d292583f8270
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251109T230000Z
+DTEND:20251114T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:85bfb29e-7e63-4172-8f43-e73da5c64101
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251116T230000Z
+DTEND:20251121T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0097317f-39aa-4633-b3e8-5ba4f20d6943
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251123T230000Z
+DTEND:20251128T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bbc5153-2a88-4524-9f74-ff6d8c926c01
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251130T230000Z
+DTEND:20251205T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3e164c-5bc6-4de9-9f6e-b9f088d62fb0
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251207T230000Z
+DTEND:20251212T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32f242c5-a88d-4dd2-8ee9-3d25194c9d20
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251214T230000Z
+DTEND:20251219T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa4410e-a10a-457d-94b9-2446dfcc447f
+DTSTAMP:20250617T160235Z
+SUMMARY:La bulle Love Nature
+DTSTART:20251223T230000Z
+DTEND:20251226T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac05a44-30f2-4df6-8bef-f4e3e987ce06
+DTSTAMP:20250617T160235Z
 SUMMARY:La bulle Love Nature
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : NATURE ALL13\nLibBulle : La bulle Love Nature\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : NATURE ALL13 - LibBulle : La bulle Love Nature - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
