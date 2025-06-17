@@ -4,1157 +4,1311 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:7584a0dc-385c-415b-bfa2-b75fdc35be70
-DTSTAMP:20250612T095325Z
+UID:72c52235-f63f-4011-9738-a7471af0e245
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20241231T230000Z
 DTEND:20250102T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sophie EXSHAW\nCommentaire : \nNumCommande : AR-2411-038198\nCodeBonCadeau : GK9F9GEEJD24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sophie EXSHAW - Commentaire :  - NumCommande : AR-2411-038198 - CodeBonCadeau : GK9F9GEEJD24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6ac2034b-bbb4-4379-841c-2b499535bca6
-DTSTAMP:20250612T095325Z
+UID:85dc3055-323b-4a2a-a576-c3ceb2d31b26
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250101T230000Z
 DTEND:20250104T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Adam Horvath\nCommentaire : \nNumCommande : AR-2412-038377\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Adam Horvath - Commentaire :  - NumCommande : AR-2412-038377 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ee2dd3-1c95-4621-9515-10c940898522
-DTSTAMP:20250612T095325Z
+UID:956016d6-dec6-4282-94c6-d8395404aacd
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : ELSA ISOARDI\nCommentaire : \nNumCommande : AR-2412-038267\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ELSA ISOARDI - Commentaire :  - NumCommande : AR-2412-038267 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5bec3569-9f75-4208-be5b-5f040f2d2cc9
-DTSTAMP:20250612T095325Z
+UID:21620598-01d7-4e23-9c1e-455ffb97e56e
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250104T230000Z
 DTEND:20250106T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jessica Lampin\nCommentaire : \nNumCommande : AR-2401-036232\nCodeBonCadeau : 5CDVV3WCZQ24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jessica Lampin - Commentaire :  - NumCommande : AR-2401-036232 - CodeBonCadeau : 5CDVV3WCZQ24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c8f40ca3-84fa-465e-a9a6-7e6cc8d3e630
-DTSTAMP:20250612T095325Z
+UID:f9155a59-0a66-4815-8e31-db662ea5a6bf
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ab1a2bfb-4227-4e4b-9afb-7bdffe5f4f3d
-DTSTAMP:20250612T095325Z
+UID:644f19e3-ee42-46e8-a01b-1088e6dc70c0
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250109T230000Z
 DTEND:20250111T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Samantha Chabrolin\nCommentaire : \nNumCommande : AR-2412-038269\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Samantha Chabrolin - Commentaire :  - NumCommande : AR-2412-038269 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:81144c4c-37a5-4082-9e0e-dc7593382185
-DTSTAMP:20250612T095325Z
+UID:dbaccd88-3618-4254-95d3-809f30bd5862
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Coline Banizett\nCommentaire : \nNumCommande : AR-2411-038191\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Coline Banizett - Commentaire :  - NumCommande : AR-2411-038191 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:804fd770-a058-4ab1-a44d-2c1f7cd2a5d8
-DTSTAMP:20250612T095325Z
+UID:5a3f28fb-11af-4ff8-898b-375314ea5523
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250111T230000Z
 DTEND:20250113T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Maxence Bailleux\nJacuzzi offert\nTéléphone : +33635582785\nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Maxence Bailleux - Jacuzzi offert - Téléphone : +33635582785 - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:676e67c8-4dfa-4fa4-a766-f97e760091cb
-DTSTAMP:20250612T095325Z
+UID:50c660d0-7624-4cb2-8c21-5be478e0d919
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:562d7ee2-7a36-4086-a6f4-7ea1c4cd00f2
-DTSTAMP:20250612T095325Z
+UID:32693860-edac-4dd6-b309-7f7075d2ac96
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250116T230000Z
 DTEND:20250118T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sophie Bernard\nCommentaire : \nNumCommande : AR-2411-038139\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sophie Bernard - Commentaire :  - NumCommande : AR-2411-038139 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aa997e3d-aa54-4775-8bfe-a5918bad935c
-DTSTAMP:20250612T095325Z
+UID:f4d822cd-79b7-4943-a506-c1e91c1644af
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Ramatoulaye Sagna (Anniversaire)\nCommentaire : pétales de roses\nNumCommande : AR-2412-038259\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Ramatoulaye Sagna (Anniversaire) - Commentaire : pétales de roses - NumCommande : AR-2412-038259 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b4ec2c1e-0f83-4333-9443-b89f21f39f60
-DTSTAMP:20250612T095325Z
+UID:ccc8aa7c-45f8-4b39-9658-c31ffb88ac95
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250118T230000Z
 DTEND:20250120T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Bryan Napieraj (BATI PASSION)\nCommentaire : \nNumCommande : AR-2501-038471\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bryan Napieraj (BATI PASSION) - Commentaire :  - NumCommande : AR-2501-038471 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:31786771-ad87-4e99-ab69-e532585f9971
-DTSTAMP:20250612T095325Z
+UID:7574f566-d033-4be0-a474-6cf79fb94def
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ba317b3a-bd58-4109-aeae-b40ed0d055ee
-DTSTAMP:20250612T095325Z
+UID:25976ce2-cf86-4fab-a922-642e4a7dc699
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250123T230000Z
 DTEND:20250125T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Adeline VOLPE\nCommentaire : \nNumCommande : AR-2501-038424\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Adeline VOLPE - Commentaire :  - NumCommande : AR-2501-038424 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a60f00d3-dbbe-4078-ba37-d69a43bdfe55
-DTSTAMP:20250612T095325Z
+UID:195efa44-6031-41d3-a112-6d22da1c2fea
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0bbe2414-8145-4a52-9b47-964ac4c6fd2a
-DTSTAMP:20250612T095325Z
+UID:6c2d3492-1729-4109-9972-a27a6e6d6d93
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:70c4ebab-9a25-449d-9f42-2e48b070087e
-DTSTAMP:20250612T095325Z
+UID:d02af961-8702-4460-9286-9539d6bd1bcc
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250130T230000Z
 DTEND:20250201T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marie Picot\nCommentaire : \nNumCommande : AR-2412-038327\nCodeBonCadeau : YABER2CFKK24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie Picot - Commentaire :  - NumCommande : AR-2412-038327 - CodeBonCadeau : YABER2CFKK24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0c2ab5a2-a2f5-466c-93d4-61eff5736c7b
-DTSTAMP:20250612T095325Z
+UID:516d7c3f-be56-4de4-9a60-da676dcecb97
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Laura NOCERA\nCommentaire : \nNumCommande : AR-2501-038427\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laura NOCERA - Commentaire :  - NumCommande : AR-2501-038427 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:12a97828-1ad5-4d54-b96f-8057587ea977
-DTSTAMP:20250612T095325Z
+UID:feb866a6-6672-4c3b-ba22-c1ad7d552624
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250201T230000Z
 DTEND:20250203T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nicolas ROUBAUD\nCommentaire : \nNumCommande : AR-2412-038226\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nicolas ROUBAUD - Commentaire :  - NumCommande : AR-2412-038226 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb2fc436-3177-49e1-a935-223318493b1b
-DTSTAMP:20250612T095325Z
+UID:84426ef5-76a4-4afb-8820-d6b26d0c8504
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Virginie Serra\nCommentaire : \nNumCommande : AR-2501-038429\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Virginie Serra - Commentaire :  - NumCommande : AR-2501-038429 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:176a94c6-e9c9-4c68-a299-c9b29d619420
-DTSTAMP:20250612T095325Z
+UID:6237252e-21af-4795-83ba-99a231d107ee
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250209T230000Z
 DTEND:20250211T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jonathan Rosso\nCommentaire : \nNumCommande : AR-2501-038490\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jonathan Rosso - Commentaire :  - NumCommande : AR-2501-038490 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3cd14c45-959d-4b23-8bc0-2c36487125cf
-DTSTAMP:20250612T095325Z
+UID:891bfeaa-45f3-44e1-a9bc-69c5da97d5db
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250210T230000Z
 DTEND:20250212T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Morgane Sciri\nCommentaire : \nNumCommande : AR-2502-038592\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Morgane Sciri - Commentaire :  - NumCommande : AR-2502-038592 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f6bc4496-b9ba-4ae3-ab05-deca8bbe6369
-DTSTAMP:20250612T095325Z
+UID:bc650cd2-6c63-4a0c-8050-6bdcdeee994a
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Lorian Kervella\nCommentaire : \nNumCommande : AR-2501-038451\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lorian Kervella - Commentaire :  - NumCommande : AR-2501-038451 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:915c31ca-1ce6-4240-978f-ab6e7ada5445
-DTSTAMP:20250612T095325Z
+UID:ba410a4f-07c9-4bd4-9af3-4ee00a1a6f59
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Clement Hemery\nCommentaire : \nNumCommande : AR-2502-038570\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Clement Hemery - Commentaire :  - NumCommande : AR-2502-038570 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:03166f78-1529-46bf-afe0-9cc4893dc9fb
-DTSTAMP:20250612T095325Z
+UID:c2e287c5-7ddd-41ba-b67d-f3af9719820c
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marie Guichard\nCommentaire : \nNumCommande : AR-2410-037973\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie Guichard - Commentaire :  - NumCommande : AR-2410-037973 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:43de4ab6-eb28-4150-bb3e-89548e0f2cf7
-DTSTAMP:20250612T095325Z
+UID:a99a7f48-7e5b-4d8d-b79e-9ff1f47e556f
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Aymeric Watin-Augouard\nCommentaire : \nNumCommande : AR-2412-038316\nCodeBonCadeau : GG7EGKQ8QD24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Aymeric Watin-Augouard - Commentaire :  - NumCommande : AR-2412-038316 - CodeBonCadeau : GG7EGKQ8QD24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:861c3155-eff7-4c24-a5c2-f8e97bf739b9
-DTSTAMP:20250612T095325Z
+UID:8609d7fd-46b6-492d-8b27-1665120e386d
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250216T230000Z
 DTEND:20250218T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Lisa Valente\nCommentaire : \nNumCommande : AR-2501-038531\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lisa Valente - Commentaire :  - NumCommande : AR-2501-038531 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:002cdbd9-79d9-4a0f-9567-8bac04f3907a
-DTSTAMP:20250612T095325Z
+UID:a1347142-0587-44ea-a859-f7b405c74008
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250217T230000Z
 DTEND:20250219T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alisé TORRISI\nCommentaire : \nNumCommande : AR-2501-038501\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alisé TORRISI - Commentaire :  - NumCommande : AR-2501-038501 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:303f3c72-1768-4941-ae05-58cf396670cb
-DTSTAMP:20250612T095325Z
+UID:8db8de2a-91cd-4f47-9f02-ed00fbcfa2a6
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250218T230000Z
 DTEND:20250220T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Océane Kahn\nCommentaire : \nNumCommande : AR-2502-038566\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Océane Kahn - Commentaire :  - NumCommande : AR-2502-038566 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a00ec982-8c66-4ec1-8dbb-7f29df98074a
-DTSTAMP:20250612T095325Z
+UID:e39e515a-64c4-43e6-b26f-960ab4574488
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250219T230000Z
 DTEND:20250221T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Esma Yahia berrouiguet\nCommentaire : \nNumCommande : AR-2502-038614\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Esma Yahia berrouiguet - Commentaire :  - NumCommande : AR-2502-038614 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a8c9fb24-7557-49e5-a9d2-311dc26aaf40
-DTSTAMP:20250612T095325Z
+UID:99a56a06-e36b-4e33-8083-84dbe91ea69c
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250220T230000Z
 DTEND:20250222T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jean-Baptiste Beaud\nCommentaire : \nNumCommande : AR-2501-038470\nCodeBonCadeau : SMYJEHKXMP25\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jean-Baptiste Beaud - Commentaire :  - NumCommande : AR-2501-038470 - CodeBonCadeau : SMYJEHKXMP25 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4505328b-6048-4b1a-9a47-cfc185acd537
-DTSTAMP:20250612T095325Z
+UID:bb82dfb6-5457-4c4c-8b42-d0ca3d27d935
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marhéa Caligani\nCommentaire : \nNumCommande : AR-2412-038236\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marhéa Caligani - Commentaire :  - NumCommande : AR-2412-038236 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:154725ce-a0d9-48ac-b97b-6e0ab176677a
-DTSTAMP:20250612T095325Z
+UID:1cd2d7c3-d01b-44d1-acf9-a3417827cc3f
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250227T230000Z
 DTEND:20250301T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Florent ZAMUNER\nCommentaire : \nNumCommande : AR-2502-038572\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Florent ZAMUNER - Commentaire :  - NumCommande : AR-2502-038572 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:88692fa3-2b76-463c-b8d2-2709d6ca9f70
-DTSTAMP:20250612T095325Z
+UID:13278e77-1da7-4b0a-8eae-1c7acca7315f
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Matteo Pichonneau\nCommentaire : \nNumCommande : AR-2412-038313\nCodeBonCadeau : KHPHVYM6PF24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Matteo Pichonneau - Commentaire :  - NumCommande : AR-2412-038313 - CodeBonCadeau : KHPHVYM6PF24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ce54f050-2f74-4754-a2df-d75de51230af
-DTSTAMP:20250612T095325Z
+UID:48c47e30-d83f-4de4-82ad-19c1b97f3ff9
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250307T230000Z
 DTEND:20250309T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Aurelie Fenet\nCommentaire : \nNumCommande : AR-2503-038664\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Aurelie Fenet - Commentaire :  - NumCommande : AR-2503-038664 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3aede406-623f-4640-a6c8-781743a6a196
-DTSTAMP:20250612T095325Z
+UID:58617416-feb7-466d-94d9-65253156ff1a
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250308T230000Z
 DTEND:20250310T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Morgane Ridet\nCommentaire : \nNumCommande : AR-2503-038694\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Morgane Ridet - Commentaire :  - NumCommande : AR-2503-038694 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8b3b7805-965e-4221-ac73-454a41fe4eed
-DTSTAMP:20250612T095325Z
+UID:a3368a84-8e72-48d7-8fc9-1e7d6a93a910
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250311T230000Z
 DTEND:20250313T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Hugo Barban\nCommentaire : \nNumCommande : AR-2503-038681\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Hugo Barban - Commentaire :  - NumCommande : AR-2503-038681 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:33e9e79c-342f-40d7-9d0a-0b7675e75a02
-DTSTAMP:20250612T095325Z
+UID:5bc21f2c-089a-4f95-8e7f-0c0f888103eb
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dab66de8-1ab3-4ef9-b48f-b58cbca976ee
-DTSTAMP:20250612T095325Z
+UID:60b5d05c-aee0-4470-ae8d-994921655050
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250313T230000Z
 DTEND:20250315T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Gregory SERINDA\nCommentaire : \nNumCommande : AR-2503-038715\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Gregory SERINDA - Commentaire :  - NumCommande : AR-2503-038715 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fe2f22ca-9092-4032-a7b8-d1f6de6b8146
-DTSTAMP:20250612T095325Z
+UID:803494b1-3776-45a7-b71a-3158eb02ca57
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Emmanuelle nicolaou\nCommentaire : 1 original \n1 luxury\nNumCommande : AR-2502-038645\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emmanuelle nicolaou - Commentaire : 1 original  - 1 luxury - NumCommande : AR-2502-038645 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f5f8b5ad-99d8-42f7-a62e-1a4546c9592c
-DTSTAMP:20250612T095325Z
+UID:2c49afa4-1923-49ef-a263-d8928faf424b
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250315T230000Z
 DTEND:20250317T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nicolas Pied\nCommentaire : \nNumCommande : AR-2502-038644\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nicolas Pied - Commentaire :  - NumCommande : AR-2502-038644 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c608acb1-81e2-4c3f-adc5-865fcc9117c5
-DTSTAMP:20250612T095325Z
+UID:f70da3a6-7af4-4c26-8324-1ad361972857
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250316T230000Z
 DTEND:20250319T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:243cddf1-a172-4d61-9f76-c9745afe785c
-DTSTAMP:20250612T095325Z
+UID:72ff9120-16ca-4c92-944b-72f28ba35695
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250318T230000Z
 DTEND:20250320T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Erika Plaindoux\nCommentaire : \nNumCommande : AR-2503-038683\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Erika Plaindoux - Commentaire :  - NumCommande : AR-2503-038683 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6e4fded2-1840-4dfe-af58-7557b3fc4367
-DTSTAMP:20250612T095325Z
+UID:d4db8eeb-1a5a-4847-a56a-602bbc66e2c6
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250319T230000Z
 DTEND:20250321T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Réservé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Réservé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8d9f70f2-458b-47a8-8575-1a23675c7982
-DTSTAMP:20250612T095325Z
+UID:24616615-e6ab-4dc0-a1a2-c2f0ef43ebd5
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250320T230000Z
 DTEND:20250322T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nadine Buchin\nCommentaire : rendre 2€ en espece\nNumCommande : AR-2503-038690\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nadine Buchin - Commentaire : rendre 2€ en espece - NumCommande : AR-2503-038690 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2edf8a00-dbaa-4086-b189-f24a0dbbbe16
-DTSTAMP:20250612T095325Z
+UID:a352e4e9-a72f-49e6-92ad-307ed1f88d6c
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Yann Renauld\nCommentaire : 2 luxury\nNumCommande : AR-2503-038673\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Yann Renauld - Commentaire : 2 luxury - NumCommande : AR-2503-038673 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6005e298-46b6-4a2a-9a80-d20c560f291b
-DTSTAMP:20250612T095325Z
+UID:c28a13d6-dc74-4581-9f7a-57cc618f4ecf
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250325T230000Z
 DTEND:20250327T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Mickael BERGER\nCommentaire : \nNumCommande : AR-2503-038746\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mickael BERGER - Commentaire :  - NumCommande : AR-2503-038746 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:67c7f077-2db0-4973-ac33-8358e4fbc5fe
-DTSTAMP:20250612T095325Z
+UID:b3e0cf58-fc8e-4420-a591-d574773d915d
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250327T230000Z
 DTEND:20250329T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Séverine Hennequart\nCommentaire : \nNumCommande : AR-2308-035240\nCodeBonCadeau : ZEAVGJGXQN23\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Séverine Hennequart - Commentaire :  - NumCommande : AR-2308-035240 - CodeBonCadeau : ZEAVGJGXQN23 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5117aa00-cc18-4591-8681-dfed304f379f
-DTSTAMP:20250612T095325Z
+UID:f6b2e424-b1f2-4d50-9e44-d468d12eead4
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250328T230000Z
 DTEND:20250330T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jonathan CHAIX-BRYAN\nCommentaire : \nNumCommande : AR-2503-038687\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jonathan CHAIX-BRYAN - Commentaire :  - NumCommande : AR-2503-038687 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bd26b3bc-970e-4943-bfbb-fa0c1b91b70e
-DTSTAMP:20250612T095325Z
+UID:12ddd198-05d4-4d23-a64c-d89776ea4c5b
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250402T220000Z
 DTEND:20250404T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Floriane Cinieri\nCommentaire : Massage en duo de 45 min à 17h30 Kristal et Cathy\nNumCommande : AR-2503-038677\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Floriane Cinieri - Commentaire : Massage en duo de 45 min à 17h30 Kristal et Cathy - NumCommande : AR-2503-038677 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:19624430-1db0-4093-a5ed-d8e4c74a688a
-DTSTAMP:20250612T095325Z
+UID:f1e7b859-5445-41fe-baa5-b4fb42ec7387
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250403T220000Z
 DTEND:20250406T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Émilie Grosjean\nCommentaire : \nNumCommande : AR-2412-038388\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Émilie Grosjean - Commentaire :  - NumCommande : AR-2412-038388 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:92c9e0ae-d3a3-4292-8f96-8adecf897d32
-DTSTAMP:20250612T095325Z
+UID:c187782c-8087-4ccf-b350-2263baeb1df0
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250405T220000Z
 DTEND:20250407T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alexia Ramirez\nCommentaire : \nNumCommande : AR-2504-038865\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexia Ramirez - Commentaire :  - NumCommande : AR-2504-038865 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bf72ba49-e41b-4680-95c9-b3f4d68a5820
-DTSTAMP:20250612T095325Z
+UID:db66c5da-ffa0-4fc5-8944-22b5a694a6ef
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250410T220000Z
 DTEND:20250412T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Franck Manton\nCommentaire : \nNumCommande : AR-2503-038839\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Franck Manton - Commentaire :  - NumCommande : AR-2503-038839 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a02787f7-fd37-4e05-8ce1-700d74be52ef
-DTSTAMP:20250612T095325Z
+UID:8b91f970-db87-4db8-a25a-886f19c5f812
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Camille Minichetti\nCommentaire : \nNumCommande : AR-2412-038225\nCodeBonCadeau : GZKNC2MHYF24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Camille Minichetti - Commentaire :  - NumCommande : AR-2412-038225 - CodeBonCadeau : GZKNC2MHYF24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:53d7af16-e2be-4064-9eca-eedd241310e0
-DTSTAMP:20250612T095325Z
+UID:8a993e43-ef2a-4d4a-9fb1-d99fc136ccaf
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Catherine FRANCES\nCommentaire : \nNumCommande : AR-2503-038745\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Catherine FRANCES - Commentaire :  - NumCommande : AR-2503-038745 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8097ac70-0f41-410d-a53c-0e7dceb2d26a
-DTSTAMP:20250612T095325Z
+UID:12955cd7-41ed-4ab0-86c4-618284559882
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250413T220000Z
 DTEND:20250416T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : frederic magnan\nCommentaire : \nNumCommande : AR-2504-038914\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : frederic magnan - Commentaire :  - NumCommande : AR-2504-038914 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:19117117-8ea4-498e-b006-690e03ea51b8
-DTSTAMP:20250612T095325Z
+UID:7af2e6bc-f62c-43e6-b8e0-40d81f7a4a25
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250415T220000Z
 DTEND:20250417T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Severine SILVY\nCommentaire : \nNumCommande : AR-2504-038911\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Severine SILVY - Commentaire :  - NumCommande : AR-2504-038911 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:92025722-9275-4e73-a413-cf4c14df3aed
-DTSTAMP:20250612T095325Z
+UID:ee26e86b-67c0-4e32-a1cc-cc598fa23f5b
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250417T220000Z
 DTEND:20250419T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Anthony CANADAS\nCommentaire : Pétale de rose.\nNumCommande : AR-2503-038784\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anthony CANADAS - Commentaire : Pétale de rose. - NumCommande : AR-2503-038784 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1ed943c9-b9ed-4da5-9dc4-87a79a58a956
-DTSTAMP:20250612T095325Z
+UID:f4e15c86-4bef-49e5-9812-a83d161dbce8
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Cédric D Andrea\nCommentaire : \nNumCommande : AR-2503-038693\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Cédric D Andrea - Commentaire :  - NumCommande : AR-2503-038693 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5385a3c0-4f36-458f-92f8-5b76f02803b7
-DTSTAMP:20250612T095325Z
+UID:241ff579-3d72-4f72-b02e-be3fbe31c1a1
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marie Leduc\nCommentaire : \nNumCommande : AR-2504-038937\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie Leduc - Commentaire :  - NumCommande : AR-2504-038937 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5c1e8cc9-2e2f-4644-b016-9a796cc9d991
-DTSTAMP:20250612T095325Z
+UID:78898da4-ea10-42f2-89a2-3b248321904f
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250420T220000Z
 DTEND:20250422T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : VANESSA VIAL\nCommentaire : \nNumCommande : AR-2504-038868\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : VANESSA VIAL - Commentaire :  - NumCommande : AR-2504-038868 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:eec08a39-e77e-40ea-90f5-6fca7ff86b41
-DTSTAMP:20250612T095325Z
+UID:c0b2957b-e1f9-4790-bcb9-e8b32c616ab0
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250423T220000Z
 DTEND:20250425T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Laurie Salama\nCommentaire : \nNumCommande : AR-2312-036120\nCodeBonCadeau : THKKR3SMVF23\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laurie Salama - Commentaire :  - NumCommande : AR-2312-036120 - CodeBonCadeau : THKKR3SMVF23 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b81bd4f7-d09b-477c-aebb-8562e6f9ff83
-DTSTAMP:20250612T095325Z
+UID:28538a5f-47f3-4813-af9b-718e2ee5582e
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Arnaud Talandier\n\nTéléphone : 0643816935\nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Arnaud Talandier -  - Téléphone : 0643816935 - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:edcdee9f-1943-4287-8724-d6a004f7098f
-DTSTAMP:20250612T095325Z
+UID:0eb07166-92a3-49cb-a1f5-2a0d988604cf
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250425T220000Z
 DTEND:20250427T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Shirley Bonnet\nCommentaire : \nNumCommande : AR-2504-038924\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Shirley Bonnet - Commentaire :  - NumCommande : AR-2504-038924 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:92fd87c1-2061-49f2-a52d-1da907a16596
-DTSTAMP:20250612T095325Z
+UID:2b3bc1c5-e47e-4ff2-8832-eb739a007ee7
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250430T220000Z
 DTEND:20250502T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Delphine RODIER\nCommentaire : \nNumCommande : AR-2412-038282\nCodeBonCadeau : J4SUHN2SFX24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Delphine RODIER - Commentaire :  - NumCommande : AR-2412-038282 - CodeBonCadeau : J4SUHN2SFX24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8bfab4ca-7489-4dee-ba46-a65b1f2728f0
-DTSTAMP:20250612T095325Z
+UID:9c7b9462-cdb0-4013-b555-a437655a6458
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250501T220000Z
 DTEND:20250503T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CAMILLE SCHMISSER\nCommentaire : MASSAGE DUO A\nNumCommande : AR-2504-038934\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CAMILLE SCHMISSER - Commentaire : MASSAGE DUO A - NumCommande : AR-2504-038934 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d44a4bf9-8c77-433b-aea6-38b3bcf8af2f
-DTSTAMP:20250612T095325Z
+UID:a1200fff-2b11-4e26-803c-4a75afa491ef
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250502T220000Z
 DTEND:20250504T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Camille Chaussy\nCommentaire : \nNumCommande : AR-2503-038682\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Camille Chaussy - Commentaire :  - NumCommande : AR-2503-038682 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:384a334f-21a6-43d1-97b1-9cff20810fa4
-DTSTAMP:20250612T095325Z
+UID:a578c4a2-9b70-4a33-944a-e16490ba7d01
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250504T220000Z
 DTEND:20250506T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : elfie legrux\nCommentaire : Kristal et Lisa 18h00\nNumCommande : AR-2504-038993\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : elfie legrux - Commentaire : Kristal et Lisa 18h00 - NumCommande : AR-2504-038993 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6d277dc5-b50e-4e42-aa94-636576f2525d
-DTSTAMP:20250612T095325Z
+UID:a2cee7af-c1a4-4998-9f77-c823fc78d55a
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250506T220000Z
 DTEND:20250508T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nadira TALEB\nCommentaire : \nNumCommande : AR-2502-038636\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nadira TALEB - Commentaire :  - NumCommande : AR-2502-038636 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:10067eab-2b83-475d-b926-815f2a94ea38
-DTSTAMP:20250612T095325Z
+UID:def7480c-f635-49e8-924d-ad7921199287
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250507T220000Z
 DTEND:20250509T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Yoni Breysse\nCommentaire : 2 simples\nNumCommande : AR-2504-038986\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Yoni Breysse - Commentaire : 2 simples - NumCommande : AR-2504-038986 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9a7a5ebf-38ce-4085-82b1-2350aa3dd939
-DTSTAMP:20250612T095325Z
+UID:3ca8cdf5-848a-401f-82a3-e6b20fad8c53
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Pierre GANZIN\nCommentaire : \nNumCommande : AR-2504-038886\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Pierre GANZIN - Commentaire :  - NumCommande : AR-2504-038886 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:98530ee1-f7e3-4164-8f1e-8cb73dc535ad
-DTSTAMP:20250612T095325Z
+UID:e13d604f-084d-4ddd-8518-60da19e3ef27
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marie Martinet (Villa 2)\nCommentaire : Massage à 20h Kristal et Lisa\nNumCommande : AR-2504-038874\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie Martinet (Villa 2) - Commentaire : Massage à 20h Kristal et Lisa - NumCommande : AR-2504-038874 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:97ab07c4-2af7-4dce-9415-3b7abfeb09fa
-DTSTAMP:20250612T095325Z
+UID:e5e86b49-395e-4c46-8296-eed9f636f925
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250511T220000Z
 DTEND:20250513T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : pierre georges\nCommentaire : \nNumCommande : AR-2409-037860\nCodeBonCadeau : ADMY9FDHHY24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : pierre georges - Commentaire :  - NumCommande : AR-2409-037860 - CodeBonCadeau : ADMY9FDHHY24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d3a6c4e5-d048-4d79-bea3-8d8316262389
-DTSTAMP:20250612T095325Z
+UID:8184cfbd-9dbf-48ce-9d4c-11bef82bf9f9
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250512T220000Z
 DTEND:20250514T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Anthony Gianati\nCommentaire : Pack apéro offert\nNumCommande : AR-2505-039066\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anthony Gianati - Commentaire : Pack apéro offert - NumCommande : AR-2505-039066 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:df085ad2-4ea4-4010-8cfc-932da28faa3c
-DTSTAMP:20250612T095325Z
+UID:2aa6144c-c083-473a-ab37-a3f378fa5586
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nicole Giovanazzi\nCommentaire : demande spécial 1 dessert tarte citron\nNumCommande : AR-2505-039017\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nicole Giovanazzi - Commentaire : demande spécial 1 dessert tarte citron - NumCommande : AR-2505-039017 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a558a9f3-145c-442f-9f48-5f870f19a59a
-DTSTAMP:20250612T095325Z
+UID:c3897c2a-0d85-4b17-8757-a61b4015e5ab
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Emilie Carletto\nCommentaire : \nNumCommande : AR-2505-039012\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emilie Carletto - Commentaire :  - NumCommande : AR-2505-039012 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c660f1a6-03a2-4bf9-acf1-e30e977b1121
-DTSTAMP:20250612T095325Z
+UID:0a5314d0-f938-4e86-8ab6-b58290f9c593
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Quentin Belouard\nCommentaire : \nNumCommande : AR-2502-038561\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Quentin Belouard - Commentaire :  - NumCommande : AR-2502-038561 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:603a04fa-33c3-4339-a7af-1171402bad2a
-DTSTAMP:20250612T095325Z
+UID:bf3d1020-702e-41ef-8418-a6a894595410
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250524T220000Z
 DTEND:20250526T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Vincent Mezan\nCommentaire : \nNumCommande : AR-2505-039081\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Vincent Mezan - Commentaire :  - NumCommande : AR-2505-039081 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8208d540-c8f2-41dc-ab36-d8a4e1bbc673
-DTSTAMP:20250612T095325Z
+UID:fec93a00-ac7c-4eb3-8a0e-70392f005eae
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250525T220000Z
 DTEND:20250527T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Christophe Caimi\nCommentaire : pack apero\n2 original \n\nmassage duo 19h\nDEJA REGLE EN ANCV\nNumCommande : AR-2505-039099\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Christophe Caimi - Commentaire : pack apero - 2 original  -  - massage duo 19h - DEJA REGLE EN ANCV - NumCommande : AR-2505-039099 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:70c60bf3-da14-4835-b42d-5025e972303a
-DTSTAMP:20250612T095325Z
+UID:ec0bda50-f4dc-440c-8c46-79047fa519c4
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:81327cb8-7c14-4e68-b612-b4c16711d258
-DTSTAMP:20250612T095325Z
+UID:79dd5ed9-158a-426b-9423-70754cf450ac
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250527T220000Z
 DTEND:20250529T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Celine Pazdziurkiewicz\nCommentaire : \nNumCommande : AR-2505-039118\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Celine Pazdziurkiewicz - Commentaire :  - NumCommande : AR-2505-039118 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0d81fe0b-e8bf-4d47-9aa4-7d0c53365584
-DTSTAMP:20250612T095325Z
+UID:5289cedb-5132-4cd7-b17d-1f41a99d9d0f
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Theo Baraton\nCommentaire : \nNumCommande : AR-2505-039133\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Theo Baraton - Commentaire :  - NumCommande : AR-2505-039133 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d0f50c9b-0add-47a9-8127-7797ce2a82ef
-DTSTAMP:20250612T095325Z
+UID:45a195d7-635e-4bc3-8a64-6f5fd8bc2ced
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alexia Vereertbrugghen\nCommentaire : INTOLERANCE AU LACTOSE pour 1 personne\nNumCommande : AR-2503-038801\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexia Vereertbrugghen - Commentaire : INTOLERANCE AU LACTOSE pour 1 personne - NumCommande : AR-2503-038801 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b42bac29-0b4a-4ee6-b131-d318a2b555b6
-DTSTAMP:20250612T095325Z
+UID:5970511d-9930-4b6b-8c48-a6ffb325d688
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : djamel Radwa\nCommentaire : \nNumCommande : AR-2505-039122\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : djamel Radwa - Commentaire :  - NumCommande : AR-2505-039122 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:257698b9-022e-480e-b7d2-08fd5d210cda
-DTSTAMP:20250612T095325Z
+UID:d2a65738-12dc-4da8-b732-be403889e0da
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250602T220000Z
+DTEND:20250604T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : reserve - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:666fbc0e-14d1-4a4e-85e1-f58e0ea31311
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250604T220000Z
 DTEND:20250606T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Coralie CHAPON\nCommentaire : \nNumCommande : AR-2505-039144\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Coralie CHAPON - Commentaire :  - NumCommande : AR-2505-039144 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7e60d56e-f618-46ec-931b-4d1c749af7d6
-DTSTAMP:20250612T095325Z
+UID:c07949fd-80ac-41bb-8e20-be92251fb3f0
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250605T220000Z
 DTEND:20250607T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Laura LEBRAN-TRENTIN\nCommentaire : \nNumCommande : AR-2406-037167\nCodeBonCadeau : 2F9DB8XHDU24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laura LEBRAN-TRENTIN - Commentaire : Massage 45 min à 19h Kristal - NumCommande : AR-2406-037167 - CodeBonCadeau : 2F9DB8XHDU24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dbcb85c9-3bd1-49cc-94bb-f89b96cb9f0c
-DTSTAMP:20250612T095325Z
+UID:5eb9edbe-9af8-4e23-b12d-27b443157d50
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Pauline Perez\nCommentaire : \nNumCommande : AR-2503-038668\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Pauline Perez - Commentaire :  - NumCommande : AR-2503-038668 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a1b3053a-2dbd-467c-baa5-eb89a17710a6
-DTSTAMP:20250612T095325Z
+UID:d170ea82-826b-460a-8357-8d23479c6a7a
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250608T220000Z
+DTEND:20250610T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Staycation - Commentaire : Alexandre Carette - 07 82 35 86 81 - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa1b23ec-a3e8-482f-a160-acf6da7b525b
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250610T220000Z
+DTEND:20250612T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : staycation - Commentaire : TERAL 0622861499 - teral.raphael@gmail.com  - 209€ - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d59d2369-daa7-4e28-88ea-60a23ade00bd
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250612T220000Z
 DTEND:20250614T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Thierry Faraci\nCommentaire : \nNumCommande : AR-2505-039021\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Thierry Faraci - Commentaire :  - NumCommande : AR-2505-039021 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:12928c59-ec60-412c-80d0-1cadcdeb1fb6
-DTSTAMP:20250612T095325Z
+UID:86b89ed3-aea3-47bd-8055-ea27a0ba4a5d
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250613T220000Z
+DTEND:20250615T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Nathalie Buonemani - Commentaire :  - NumCommande : AR-2506-039168 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee421dd4-a94e-4b0b-ab41-1be09cb04eef
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250615T220000Z
+DTEND:20250617T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Paul Chatard - Commentaire :  - NumCommande : AR-2506-039202 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:261c51ef-6f8d-4462-b091-dcbe31ad6841
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250619T220000Z
+DTEND:20250621T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Martin VEZIAC - Commentaire :  - NumCommande : AR-2506-039234 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e45c5b5-e0cb-409c-b2e8-c21b514902a4
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jordan TAMISIER (Jordan)\nCommentaire : \nNumCommande : AR-2505-039031\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jordan TAMISIER (Jordan) - Commentaire :  - NumCommande : AR-2505-039031 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:75d7333b-b86f-4dfd-b028-0d308ac37e36
-DTSTAMP:20250612T095325Z
+UID:5f8e226b-9b6e-403e-86db-0e03c3d736a6
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250622T220000Z
 DTEND:20250624T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Clarice Garito\nCommentaire : \nNumCommande : AR-2502-038576\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Clarice Garito - Commentaire :  - NumCommande : AR-2502-038576 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b70f5155-1c5f-4556-bccc-d655a4646746
-DTSTAMP:20250612T095325Z
+UID:a0e15fe9-21e4-435d-a9ea-c6380287afd0
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250625T220000Z
 DTEND:20250627T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Dicra Lahmer\nCommentaire : \nNumCommande : AR-2505-039079\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Dicra Lahmer - Commentaire :  - NumCommande : AR-2505-039079 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e7298d43-b734-4c2d-945c-52560f9f9010
-DTSTAMP:20250612T095325Z
+UID:b89c2b77-9471-4aaf-ab5e-bacf19d4c7a8
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250626T220000Z
 DTEND:20250628T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Julien Ratto\nCommentaire : \nNumCommande : AR-2505-039061\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Julien Ratto - Commentaire :  - NumCommande : AR-2505-039061 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:acd7aa97-f07b-4b39-bc95-b3ebf0d39593
-DTSTAMP:20250612T095325Z
+UID:d1d10496-f547-4c7e-852a-19935055d8e1
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CAROLE ANTIOCHIA\nCommentaire : \nNumCommande : AR-2412-038212\nCodeBonCadeau : UZJJPSUQG224\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CAROLE ANTIOCHIA - Commentaire :  - NumCommande : AR-2412-038212 - CodeBonCadeau : UZJJPSUQG224 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:54541456-6559-43c3-a2e5-dfe0083cdbcd
-DTSTAMP:20250612T095325Z
+UID:781f444c-8636-4aa6-a25a-e3b14692b365
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250630T220000Z
 DTEND:20250702T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : NOEL BOUCHER\nCommentaire : \nNumCommande : AR-2411-038121\nCodeBonCadeau : REHPQK35AK24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : NOEL BOUCHER - Commentaire :  - NumCommande : AR-2411-038121 - CodeBonCadeau : REHPQK35AK24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c9cc1eef-d949-4119-8170-7f61512e6a1c
-DTSTAMP:20250612T095325Z
+UID:16b05c32-6366-4a19-9f26-6946fa00d4a9
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250703T220000Z
 DTEND:20250705T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Geneviève Rieu\nCommentaire : \nNumCommande : AR-2505-039119\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Geneviève Rieu - Commentaire :  - NumCommande : AR-2505-039119 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a81fd394-6aa7-4c7b-a0b9-3855c6478701
-DTSTAMP:20250612T095325Z
+UID:9ca85a8c-5b79-4e02-8796-8f0766562b6d
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250704T220000Z
 DTEND:20250706T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alexia Peltier\nCommentaire : \nNumCommande : AR-2505-039027\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Alexia Peltier - Commentaire :  - NumCommande : AR-2505-039027 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a7ff0b54-c295-42df-a3c4-ea46781cd312
-DTSTAMP:20250612T095325Z
+UID:cf97362b-3ffd-4db1-91c6-18414a5fb221
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250711T220000Z
 DTEND:20250713T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : LINE BIRIC\nCommentaire : \nNumCommande : AR-2312-036157\nCodeBonCadeau : UB36TZU7MP23\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : LINE BIRIC - Commentaire :  - NumCommande : AR-2312-036157 - CodeBonCadeau : UB36TZU7MP23 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:09d2789a-c730-4fd5-80e9-1193c483151e
-DTSTAMP:20250612T095325Z
+UID:b59a2c86-c70d-4be1-9fc8-baae3ee3c704
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250712T220000Z
 DTEND:20250714T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Celine Bocquiau\nCommentaire : \nNumCommande : AR-2502-038608\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Celine Bocquiau - Commentaire :  - NumCommande : AR-2502-038608 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e034df92-b466-4a33-b2d6-ab1224ba069b
-DTSTAMP:20250612T095325Z
+UID:97fb9ea7-9dfd-49af-a3ff-ee3df0dae884
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250718T220000Z
 DTEND:20250720T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CLAUDE TIBAUDO\nCommentaire : \nNumCommande : AR-2407-037391\nCodeBonCadeau : RSM5DAPQKX24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CLAUDE TIBAUDO - Commentaire :  - NumCommande : AR-2407-037391 - CodeBonCadeau : RSM5DAPQKX24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aee6900f-bf60-470d-b2cb-408c9850caa9
-DTSTAMP:20250612T095325Z
+UID:d9161a65-5e9e-4179-8567-8be253559075
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20250720T220000Z
+DTEND:20250722T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : myriam maucourant - Commentaire :  - NumCommande : AR-2412-038398 - CodeBonCadeau : TSJJWTKFJF24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f36e02-9b5c-42cf-9f65-da79831db6cd
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250807T220000Z
 DTEND:20250809T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Stéphanie Gandolphe\nCommentaire : \nNumCommande : AR-2505-039127\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Stéphanie Gandolphe - Commentaire :  - NumCommande : AR-2505-039127 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a4653334-7df0-4a51-a477-311909ee061b
-DTSTAMP:20250612T095325Z
+UID:74f3d06f-a4c5-4008-8e44-0246f88f3cd9
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250808T220000Z
 DTEND:20250810T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Michael Serre\nCommentaire : \nNumCommande : AR-2505-039152\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Michael Serre - Commentaire :  - NumCommande : AR-2505-039152 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b95b72e1-f439-43ee-8d67-294dfb869782
-DTSTAMP:20250612T095325Z
-SUMMARY:L'Aqua'Room Suite and Spa
-DTSTART:20250905T220000Z
-DTEND:20250907T215959Z
-LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sarah Boukemadja\nCommentaire : c'est le 3ème report en 1 an. Il ne peut plus y en avoir.\nNumCommande : AR-2406-037190\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:26ca9e96-3a22-4540-9a97-8bda0a71f0c5
-DTSTAMP:20250612T095325Z
+UID:5c5f0b27-eff9-43f8-8595-48b341af230c
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250919T220000Z
 DTEND:20250921T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sonja Ribes\nCommentaire : \nNumCommande : AR-2412-038332\nCodeBonCadeau : RVVUGDKTRC24\nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sonja Ribes - Commentaire :  - NumCommande : AR-2412-038332 - CodeBonCadeau : RVVUGDKTRC24 - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:55572254-0dc8-43cc-a838-46c54201b275
-DTSTAMP:20250612T095325Z
+UID:1b8f43ef-efbd-4f2b-9a85-d1920b44af19
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20250923T220000Z
 DTEND:20250925T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Karine Fleury\nCommentaire : \nNumCommande : AR-2505-039074\nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Karine Fleury - Commentaire :  - NumCommande : AR-2505-039074 - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2a5eb1e4-46e4-4353-adb7-a8e3654e421c
-DTSTAMP:20250612T095325Z
+UID:bef89de4-1721-4c88-80e0-9e0fc40b09a0
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251102T230000Z
+DTEND:20251107T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98842cfd-55bd-4877-a3d7-ff0104e1147c
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251109T230000Z
+DTEND:20251114T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:331affda-017e-494a-83e3-eeb85f69dc16
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251116T230000Z
+DTEND:20251121T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f69b832-cc49-439d-bc50-1d0d028b3ca0
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251123T230000Z
+DTEND:20251128T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:872d8fff-406e-4b1d-a974-1321a0e26ee5
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251130T230000Z
+DTEND:20251205T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc714f54-e596-4e23-a6fa-d116299d3409
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251207T230000Z
+DTEND:20251212T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1271f5b-4863-47f4-b1e3-3e894c746929
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251214T230000Z
+DTEND:20251219T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f35fa77e-3169-4f19-9553-fa2fa0c33975
+DTSTAMP:20250617T160242Z
+SUMMARY:L'Aqua'Room Suite and Spa
+DTSTART:20251223T230000Z
+DTEND:20251226T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bedc1f-bda5-4e6a-a6fd-ad91b0f4c064
+DTSTAMP:20250617T160242Z
 SUMMARY:L'Aqua'Room Suite and Spa
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : AQUAR13\nLibBulle : L'Aqua'Room Suite and Spa\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : AQUAR13 - LibBulle : L'Aqua'Room Suite and Spa - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
