@@ -4,882 +4,1091 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:ed82ab0f-3920-411e-ba6e-97c4f26ceee2
-DTSTAMP:20250612T103035Z
+UID:79b011c5-f07a-498b-a7d0-1117497a120b
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20241231T230000Z
 DTEND:20250102T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : reserver\nCommentaire : MOTTIER ELYNA\n07.65.88.01.97\nelynamottier@icloud.com\nréglé le 20/12 vu avec anthemis et axepta\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : reserver - Commentaire : MOTTIER ELYNA - 07.65.88.01.97 - elynamottier@icloud.com - réglé le 20/12 vu avec anthemis et axepta - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6761eb9f-be36-494b-a56f-ce76b80d81cc
-DTSTAMP:20250612T103035Z
+UID:558644a8-2ce3-435c-be7e-7486a4861de5
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250101T230000Z
 DTEND:20250103T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Guest : Clara Olivetti\nParticipants : 2 adultes\nTéléphone : 0629600845\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Guest : Clara Olivetti - Participants : 2 adultes - Téléphone : 0629600845 - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:96d14788-e4ea-40d3-83ae-ba22e4b20550
-DTSTAMP:20250612T103035Z
+UID:80eee7e6-1671-4903-aa33-66f9db8b06a4
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250102T230000Z
 DTEND:20250104T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Manon Sarrus\nCommentaire : \nNumCommande : AR-2412-038230\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Manon Sarrus - Commentaire :  - NumCommande : AR-2412-038230 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a5d817c5-cb38-448c-837d-e51fcbb57108
-DTSTAMP:20250612T103035Z
+UID:10d26124-113a-4675-b158-902db2d75d0f
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Guest : Laurent Massari\nParticipants : 2 adultes\nTéléphone : 0625262582\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Guest : Laurent Massari - Participants : 2 adultes - Téléphone : 0625262582 - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8cc5e0a0-7968-41a1-b62b-901eae3f3ac1
-DTSTAMP:20250612T103035Z
+UID:e9e26571-167a-4f9b-a585-c0ff672506c3
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ded02cbf-c49d-4bd1-9b8f-66139cc933b8
-DTSTAMP:20250612T103035Z
+UID:d4867976-fc1b-4042-a69d-29d00f6be1ff
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Charlotte VALERY\nCommentaire : \nNumCommande : AR-2412-038203\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Charlotte VALERY - Commentaire :  - NumCommande : AR-2412-038203 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:afc37b78-c247-410a-9685-54ac06f605ce
-DTSTAMP:20250612T103035Z
+UID:ccf909fd-29d8-42b4-a9ff-1dc67b2f176c
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9062a080-838b-4cea-ad04-dd358aa5502d
-DTSTAMP:20250612T103035Z
+UID:2672b47f-6e08-40fe-b02f-1a19a39dd05e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : sebastien matilla\nCommentaire : \nNumCommande : AR-2412-038245\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : sebastien matilla - Commentaire :  - NumCommande : AR-2412-038245 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f42b4dcc-bec2-49c1-95e8-30bdaaf46f57
-DTSTAMP:20250612T103035Z
+UID:603773cc-0f75-4e31-b359-c5f860808012
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:07435d2c-c035-4eff-8dea-d744da4e532a
-DTSTAMP:20250612T103035Z
+UID:5ec403a5-bf84-4940-b6d7-7d211bf56303
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9ffd8b65-5b46-4369-901a-236a41342c4d
-DTSTAMP:20250612T103035Z
+UID:a337301e-2f7c-4dec-b444-5e9fa86b57a1
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d60e4d1d-a7cb-4546-aa45-f55e7d0cf9c7
-DTSTAMP:20250612T103035Z
+UID:d5e4f866-a3d3-482f-86c3-80c754771028
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : anthony berchel (Couple)\nCommentaire : \nNumCommande : AR-2501-038449\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : anthony berchel (Couple) - Commentaire :  - NumCommande : AR-2501-038449 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62ceb5c6-be7e-443f-bc88-9c9ab6bc3bf4
-DTSTAMP:20250612T103035Z
+UID:713218bf-8b94-4ed8-8b60-d8f18239e15e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250206T230000Z
 DTEND:20250208T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fabrice Girtanner\nCommentaire : pas de fruit de mer\n0677305583\nNumCommande : AR-2501-038538\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fabrice Girtanner - Commentaire : pas de fruit de mer - 0677305583 - NumCommande : AR-2501-038538 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:caee41ba-648a-430a-8607-855d89847fcc
-DTSTAMP:20250612T103035Z
+UID:656b8983-ce16-41dd-84c3-264db7ba289e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Bruno\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bruno - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:131a3442-70b8-4ba1-bc8a-e6f045487fad
-DTSTAMP:20250612T103035Z
+UID:4710e153-215d-4aba-8d7d-b45ae05a30e7
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250211T230000Z
 DTEND:20250213T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Amandine Clamagirand\nCommentaire : \nNumCommande : AR-2501-038484\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Amandine Clamagirand - Commentaire :  - NumCommande : AR-2501-038484 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:74019669-b704-4597-b7ee-509003c51b9a
-DTSTAMP:20250612T103035Z
+UID:710b8fce-4ef9-4c5f-9bb9-bcf3d0da2f72
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : STAYCATION\nCommentaire : Béatrice  ettouati\nParticipants : 2 adultes\nTéléphone : 0687468217\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : STAYCATION - Commentaire : Béatrice  ettouati - Participants : 2 adultes - Téléphone : 0687468217 - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2b6f4c4e-869a-439d-bfdb-0c5ef1c1d143
-DTSTAMP:20250612T103035Z
+UID:6a67514f-521a-4e11-9eb3-bf8fd1200a55
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Marine Allegrucci\nCommentaire : \nNumCommande : AR-2501-038436\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marine Allegrucci - Commentaire :  - NumCommande : AR-2501-038436 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:976d8368-3a0a-4c15-962a-84fefcb7e33b
-DTSTAMP:20250612T103035Z
+UID:fe17a8e4-560f-45f1-a1a4-355ce44796e7
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Elise Agnelli\nCommentaire : \nNumCommande : AR-2501-038477\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Elise Agnelli - Commentaire :  - NumCommande : AR-2501-038477 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:04876021-ec9a-4fbe-9ac5-03d79de6c999
-DTSTAMP:20250612T103035Z
+UID:2ceb9b79-db2e-40cc-81e2-728961754511
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Milo Sirieix\nCommentaire : \nNumCommande : AR-2502-038593\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Milo Sirieix - Commentaire :  - NumCommande : AR-2502-038593 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ee2aeb6c-c154-4be4-ad85-ce678336e357
-DTSTAMP:20250612T103035Z
+UID:21fbba93-dbcb-4de4-b097-fbdc9c2d4a17
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250217T230000Z
 DTEND:20250219T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Didier SALICE\nCommentaire : 2 Original Dont 1 avec poisson\nNumCommande : AR-2502-038597\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Didier SALICE - Commentaire : 2 Original Dont 1 avec poisson - NumCommande : AR-2502-038597 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:df50b14d-4deb-4e39-9217-5e08a53da504
-DTSTAMP:20250612T103035Z
+UID:022e585e-3341-4f34-b418-c5119e5b55b6
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250219T230000Z
 DTEND:20250221T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sport & decouverte\nCommentaire : m Zakaria ali Abdeddaim\nMobile : 0781030852\nE-mail : zank5782@hotmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport & decouverte - Commentaire : m Zakaria ali Abdeddaim - Mobile : 0781030852 - E-mail : zank5782@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1355f3b3-6f37-4c2c-b401-95e92fddc954
-DTSTAMP:20250612T103035Z
+UID:437e2387-d097-457a-bb4a-e7f20ec446c0
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : MELISSA GUIGNARD\nCommentaire : \nNumCommande : AR-2501-038512\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MELISSA GUIGNARD - Commentaire :  - NumCommande : AR-2501-038512 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:723f9cb6-8416-422a-9eff-cf76ec70d385
-DTSTAMP:20250612T103035Z
+UID:cf521ed3-9bdc-4963-aea1-336f8ded1c5f
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250226T230000Z
 DTEND:20250228T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Florent ZAMUNER\nCommentaire : \nNumCommande : AR-2502-038571\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Florent ZAMUNER - Commentaire :  - NumCommande : AR-2502-038571 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:526345ca-6726-4864-a793-9597211f5fdb
-DTSTAMP:20250612T103035Z
+UID:46a0896e-ef5a-49aa-9063-b7d901326c8a
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Michael Dubroca\nCommentaire : \nNumCommande : AR-2412-038414\nCodeBonCadeau : FZX8TWQ8NE24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Michael Dubroca - Commentaire :  - NumCommande : AR-2412-038414 - CodeBonCadeau : FZX8TWQ8NE24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8b2dc6-cfb0-4464-a6bf-575e1f73bc87
-DTSTAMP:20250612T103035Z
+UID:e41d9d24-994a-4fd9-8259-79ebcec11926
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250306T230000Z
 DTEND:20250308T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Guest : Fanélie Tonon\n\nTéléphone : 0788917043\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Guest : Fanélie Tonon -  - Téléphone : 0788917043 - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:afbf145b-d3bf-46c8-be94-d279d4dbcec0
-DTSTAMP:20250612T103035Z
+UID:915ec959-dd9f-494d-b61a-202ddef7684f
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250307T230000Z
 DTEND:20250309T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Léa Lavet\nCommentaire : \nNumCommande : AR-2501-038530\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Léa Lavet - Commentaire :  - NumCommande : AR-2501-038530 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:df3d329c-bac4-444f-8e46-7f985d3bdc1b
-DTSTAMP:20250612T103035Z
+UID:5979da3a-3e61-4d3e-90de-5c52b1d6e2a1
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c63f73ef-1ca4-4b9a-905a-5c7ef80ae3b7
-DTSTAMP:20250612T103035Z
+UID:26d93b93-a868-42e3-a5f2-d0430fa4eef1
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fanie BERNARD\nCommentaire : \nNumCommande : AR-2404-036774\nCodeBonCadeau : B3GMNRZDDG24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fanie BERNARD - Commentaire :  - NumCommande : AR-2404-036774 - CodeBonCadeau : B3GMNRZDDG24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:63782641-0679-4012-9dd9-e0715694acf4
-DTSTAMP:20250612T103035Z
+UID:7abdc4d4-d177-474b-afab-bfef7cdcfa40
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250315T230000Z
 DTEND:20250317T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : EMILIEN GRANDJEAN\nCommentaire : \nNumCommande : AR-2502-038606\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : EMILIEN GRANDJEAN - Commentaire :  - NumCommande : AR-2502-038606 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5ebb87af-5728-43b1-9c89-6491ddc9383c
-DTSTAMP:20250612T103035Z
+UID:49d0906b-f9dd-477a-bbf7-4ca0757fba69
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Victoire Sabatier\nCommentaire : \nNumCommande : AR-2503-038688\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Victoire Sabatier - Commentaire :  - NumCommande : AR-2503-038688 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f9ff57fa-432c-4745-88c4-a77765c07508
-DTSTAMP:20250612T103035Z
+UID:504c143a-bd4c-4f33-a25f-ab455d9bcc9a
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250328T230000Z
 DTEND:20250330T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Anaïs Regnault\nCommentaire : \nNumCommande : AR-2502-038649\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anaïs Regnault - Commentaire :  - NumCommande : AR-2502-038649 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1bb5ac6c-9986-4231-839a-e6a5c0ae493d
-DTSTAMP:20250612T103035Z
+UID:e500609d-685c-4b3f-a92c-d236311ef0e7
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250329T230000Z
 DTEND:20250331T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : 0609811797\nKatia  Cruciano\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : 0609811797 - Katia  Cruciano - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c9b1a103-5060-45a7-9446-d2c40d1d21a1
-DTSTAMP:20250612T103035Z
+UID:8cc115ed-183d-4eb4-b0b2-43d459071406
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250402T220000Z
 DTEND:20250404T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sabine FAURE\nCommentaire : Attention il y a un pack apéritif qui a été payé!!\n\nMassage 1h Kristal à 19h\nNumCommande : AR-2503-038757\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sabine FAURE - Commentaire : Attention il y a un pack apéritif qui a été payé!! -  - Massage 1h Kristal à 19h - NumCommande : AR-2503-038757 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f16b8ceb-53b6-4668-a272-f5d868f12943
-DTSTAMP:20250612T103035Z
+UID:5aac0fb3-d498-4c45-b1ba-66138123b6cc
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250403T220000Z
 DTEND:20250405T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : MARTIN RAVEL\nCommentaire : \nNumCommande : AR-2503-038706\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MARTIN RAVEL - Commentaire :  - NumCommande : AR-2503-038706 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1683ac74-a37c-4ea2-bcd4-7c4472043b59
-DTSTAMP:20250612T103035Z
+UID:c0472b15-a19c-46a1-a2c9-96bb357bcde6
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250404T220000Z
 DTEND:20250406T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Mélanie Madonia\nCommentaire : \nNumCommande : AR-2503-038791\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mélanie Madonia - Commentaire :  - NumCommande : AR-2503-038791 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb545511-89b9-418b-94f8-fb9169338d8e
-DTSTAMP:20250612T103035Z
+UID:789fccbf-72e6-4eeb-8c62-ef262b0d9234
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250406T220000Z
 DTEND:20250408T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sport et découverte\nCommentaire : Frederic Maltese\nMobile : 0674840078\nE-mail : frederic.maltese@sfr.fr\n2 simple\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte - Commentaire : Frederic Maltese - Mobile : 0674840078 - E-mail : frederic.maltese@sfr.fr - 2 simple - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:25eae511-2384-44ac-b590-35f92c2af024
-DTSTAMP:20250612T103035Z
+UID:e6a55615-ac18-4a54-8967-7afc64c77f59
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250408T220000Z
 DTEND:20250410T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Christelle PIANA\nCommentaire : \nNumCommande : AR-2404-036760\nCodeBonCadeau : AHVRKY2JP424\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Christelle PIANA - Commentaire :  - NumCommande : AR-2404-036760 - CodeBonCadeau : AHVRKY2JP424 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6f4ddb92-7a2b-45b4-8146-574ebdbdfc14
-DTSTAMP:20250612T103035Z
+UID:fd8e79e9-1f08-4c32-81f2-072d55789947
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : LYDIE MASSIPE\nCommentaire : \nNumCommande : AR-2503-038729\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : LYDIE MASSIPE - Commentaire :  - NumCommande : AR-2503-038729 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bebf027e-884a-47bd-be0a-6508f3e82c8f
-DTSTAMP:20250612T103035Z
+UID:5643b9ae-d465-41ef-95c7-13602a27b1ce
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Julie Servole\nCommentaire : \nNumCommande : AR-2410-037958\nCodeBonCadeau : G82KRBBKGZ24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Julie Servole - Commentaire :  - NumCommande : AR-2410-037958 - CodeBonCadeau : G82KRBBKGZ24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:96bf5b7e-61f3-48e2-adae-160a1208773e
-DTSTAMP:20250612T103035Z
+UID:c4d64f8d-4f1c-45ff-a696-e79f8d93c909
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Corentin ALLIBERT\nCommentaire : Jacuzzi offert Jo\nNumCommande : AR-2311-035784\nCodeBonCadeau : E2PRFMAVUZ23\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Corentin ALLIBERT - Commentaire : Jacuzzi offert Jo - NumCommande : AR-2311-035784 - CodeBonCadeau : E2PRFMAVUZ23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:29571591-34e5-4b26-9a39-6f9560c44ee5
-DTSTAMP:20250612T103035Z
+UID:fa00bd63-10f4-4f57-90cb-23acd10914d2
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Yirui Zhang\nCommentaire : Personne bizarre car pas un vrai numéro\, ni adresse postale.\nJ'ai récupérer ce numéro sur le bon cadeau +0618707882\n2 original\nNumCommande : AR-2412-038292\nCodeBonCadeau : YTPJR4VXE624\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Yirui Zhang - Commentaire : Personne bizarre car pas un vrai numéro\, ni adresse postale. - J'ai récupérer ce numéro sur le bon cadeau +0618707882 - 2 original - NumCommande : AR-2412-038292 - CodeBonCadeau : YTPJR4VXE624 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4c39f4cb-9cee-4b9f-b54f-ab68a39360d1
-DTSTAMP:20250612T103035Z
+UID:f544374f-86ef-4b59-8dbd-97103c15399e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250421T220000Z
 DTEND:20250423T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jeanpierre Mathieu\nCommentaire : \nNumCommande : AR-2412-038280\nCodeBonCadeau : MEE4J8JUW524\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jeanpierre Mathieu - Commentaire :  - NumCommande : AR-2412-038280 - CodeBonCadeau : MEE4J8JUW524 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:83aca00e-e15c-4cdc-a149-e8cc2644ad1e
-DTSTAMP:20250612T103035Z
+UID:527ea52d-8781-4dcc-8819-92d9d6f9799a
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Esther Pelaez\nCommentaire : \nNumCommande : AR-2410-037972\nCodeBonCadeau : 6QYVQCEKCW24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Esther Pelaez - Commentaire :  - NumCommande : AR-2410-037972 - CodeBonCadeau : 6QYVQCEKCW24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:71f971a8-e2c1-49f5-bffa-6895d961f1af
-DTSTAMP:20250612T103035Z
+UID:46a777c3-fb8a-4f38-9213-4b5a46cf8bc4
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250425T220000Z
 DTEND:20250427T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : FREDERIC COMTE\nCommentaire : 2 Original\nNumCommande : AR-2404-036937\nCodeBonCadeau : GRQGVJKWNM24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : FREDERIC COMTE - Commentaire : 2 Original - NumCommande : AR-2404-036937 - CodeBonCadeau : GRQGVJKWNM24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dc06842e-318a-4eea-9d7f-162edd639678
-DTSTAMP:20250612T103035Z
+UID:f5f3e20f-24ea-4ebb-b3fb-be574ceced93
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250426T220000Z
 DTEND:20250428T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : SYLVIE SALON\nCommentaire : \nNumCommande : AR-2311-035811\nCodeBonCadeau : KVXFQ3ZUYS23\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SYLVIE SALON - Commentaire :  - NumCommande : AR-2311-035811 - CodeBonCadeau : KVXFQ3ZUYS23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b24434ea-d978-46c5-a22c-250cfabbdb89
-DTSTAMP:20250612T103035Z
+UID:07167b03-9536-428a-96b0-2303d4e03350
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250429T220000Z
 DTEND:20250501T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CARINE LEGROS\nCommentaire : 2 original\nNumCommande : AR-2503-038769\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CARINE LEGROS - Commentaire : 2 original - NumCommande : AR-2503-038769 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4d11e936-af67-4372-a361-be9eece8d9b7
-DTSTAMP:20250612T103035Z
+UID:19bb4d77-649c-4edf-91ef-b87196734d27
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250501T220000Z
 DTEND:20250503T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sport et découverte\nCommentaire : LAURE DEBARGUE\nMobile : 0614433157\nE-mail : debarguelaure@gmail.com\n2 original\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte - Commentaire : LAURE DEBARGUE - Mobile : 0614433157 - E-mail : debarguelaure@gmail.com - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c9af17cb-3077-41b5-9ca3-1d767eadba4b
-DTSTAMP:20250612T103035Z
+UID:820fd261-7cd2-4db6-9bc9-b2064c5684a9
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250502T220000Z
 DTEND:20250504T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Youri Negre\nCommentaire : \nNumCommande : AR-2504-038965\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Youri Negre - Commentaire :  - NumCommande : AR-2504-038965 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:43fa1968-5a61-4d28-b7a4-fce38e8790bb
-DTSTAMP:20250612T103035Z
+UID:b7b58a3a-84af-42e6-a8c5-a69979d1bf18
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250506T220000Z
 DTEND:20250508T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Julie Fontaine\nCommentaire : \nNumCommande : AR-2504-038948\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Julie Fontaine - Commentaire :  - NumCommande : AR-2504-038948 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7bde8666-1892-427f-88e2-99195034bb17
-DTSTAMP:20250612T103035Z
+UID:a875d393-7c92-4376-b703-33dab9170881
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Mathys Bendali\nCommentaire : \nNumCommande : AR-2505-039022\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mathys Bendali - Commentaire :  - NumCommande : AR-2505-039022 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:15f45678-f17d-407d-b728-79bffc347948
-DTSTAMP:20250612T103035Z
+UID:a30a693c-ba30-4dad-87e4-8baeb383b96b
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Pétronille Jeanroy\nCommentaire : \nNumCommande : AR-2504-038860\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Pétronille Jeanroy - Commentaire :  - NumCommande : AR-2504-038860 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ad290b8d-d2f2-4a57-b6d2-7757d94ea48e
-DTSTAMP:20250612T103035Z
+UID:7ccac5bc-095a-4515-aa1d-3dc6ace698aa
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250513T220000Z
 DTEND:20250515T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : jean jacques pillaz\nCommentaire : \nNumCommande : AR-2409-037856\nCodeBonCadeau : NGSSRV8WER24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : jean jacques pillaz - Commentaire :  - NumCommande : AR-2409-037856 - CodeBonCadeau : NGSSRV8WER24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e784c095-4617-46bf-ab18-7d96ec520d22
-DTSTAMP:20250612T103035Z
+UID:f2bd2b8d-ca95-4f43-937d-4ecc4a9259f8
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Denis Douki\nCommentaire : intolérants au gluten ( pour le repas du soir et le petit déjeuné) les 2 personnes.\nclient fidèle\, c'est leur 4ème fois.\nNumCommande : AR-2504-038988\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Denis Douki - Commentaire : intolérants au gluten ( pour le repas du soir et le petit déjeuné) les 2 personnes. - client fidèle\, c'est leur 4ème fois. - NumCommande : AR-2504-038988 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8529bde7-b7e2-498d-8cfb-6e6612c0bef8
-DTSTAMP:20250612T103035Z
+UID:95f8b829-04b3-4382-9e6f-064ec9ff8a98
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Florine Estienne\nCommentaire : \nNumCommande : AR-2503-038684\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Florine Estienne - Commentaire :  - NumCommande : AR-2503-038684 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ac09a97e-9c2a-4163-ba11-45ae71a894d6
-DTSTAMP:20250612T103035Z
+UID:4a1cdb50-564e-4d22-87aa-b551a089a97a
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250517T220000Z
 DTEND:20250519T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alice Bernardet\nCommentaire : \nNumCommande : AR-2504-038915\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alice Bernardet - Commentaire :  - NumCommande : AR-2504-038915 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:34ff3554-c6c9-458b-a786-b23c04b389d7
-DTSTAMP:20250612T103035Z
+UID:c0fc902b-e842-4e1b-9d16-d2ca0753d69c
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250519T220000Z
 DTEND:20250521T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : SPORT DECOUVERTE\nCommentaire : mme Mathilde Gomes\nMobile : 0668576772\nE-mail : mellanobenjamin@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Mathilde Gomes - Mobile : 0668576772 - E-mail : mellanobenjamin@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a49fa8f7-88a4-43c3-bc75-cb421e61b7c9
-DTSTAMP:20250612T103035Z
+UID:3cf9bbe4-4186-4a77-9e8b-b26f8a5dd605
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250522T220000Z
 DTEND:20250524T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : JACQUES BOYER\nCommentaire : \nNumCommande : AR-2502-038559\nCodeBonCadeau : MNWJV6VWAN25\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : JACQUES BOYER - Commentaire :  - NumCommande : AR-2502-038559 - CodeBonCadeau : MNWJV6VWAN25 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c782d40e-7ca7-47d0-813e-2e6d8c765f87
-DTSTAMP:20250612T103035Z
+UID:7778b5f1-caf8-485b-92e0-8995650ac080
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Véronique Eyraud\nCommentaire : \nNumCommande : AR-2505-039125\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Véronique Eyraud - Commentaire :  - NumCommande : AR-2505-039125 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c212e55e-9c69-4a27-97e3-62d7a45ff264
-DTSTAMP:20250612T103036Z
+UID:8cca02d6-43e9-4adb-a3b3-a575eda6139e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:62488a9f-49a6-4aaa-a0ff-d617a42b8769
-DTSTAMP:20250612T103036Z
+UID:427c77ae-fbd8-4215-aceb-960c5115bf92
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Anne MARINI\nCommentaire : \nNumCommande : AR-2403-036545\nCodeBonCadeau : 2NBEETX7SJ24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anne MARINI - Commentaire :  - NumCommande : AR-2403-036545 - CodeBonCadeau : 2NBEETX7SJ24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:404ae5d5-dc38-43c1-8eb5-72309fc80ad3
-DTSTAMP:20250612T103036Z
+UID:67cf61c6-aa46-4a68-8572-d5425f0d2692
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alicia HERAULT\nCommentaire : \nNumCommande : AR-2504-038873\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alicia HERAULT - Commentaire :  - NumCommande : AR-2504-038873 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aac99a8d-0af9-40be-9173-a37f27542224
-DTSTAMP:20250612T103036Z
+UID:c2064af5-c826-4d75-b7b4-db444df0a5ff
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fanny Monteau\nCommentaire : \nNumCommande : AR-2501-038510\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fanny Monteau - Commentaire :  - NumCommande : AR-2501-038510 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:88434047-5007-4d1c-9ebb-d0714a04dc3a
-DTSTAMP:20250612T103036Z
+UID:ac3fc187-4f09-4a41-bfc5-4fcddd90f240
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250531T220000Z
 DTEND:20250602T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : mallory Di Vincenzo\nCommentaire : \nNumCommande : AR-2312-035924\nCodeBonCadeau : HMYCBVZKYF23\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : mallory Di Vincenzo - Commentaire :  - NumCommande : AR-2312-035924 - CodeBonCadeau : HMYCBVZKYF23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f03f0334-a362-428a-8b65-ed95f6fd9ee6
-DTSTAMP:20250612T103036Z
+UID:a1004e39-ecbd-4f68-b5ec-96597dadc79e
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250604T220000Z
 DTEND:20250606T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : 0781287564\nCassandre Bella\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : 0781287564 - Cassandre Bella - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cf5adfe8-ac15-4f4e-b388-84413cc5dbaf
-DTSTAMP:20250612T103036Z
+UID:e84fc662-f6b1-4e83-a244-3f6ca0df12c1
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Aude AMAUDRIC REBSOMEN\nCommentaire : \nNumCommande : AR-2405-037036\nCodeBonCadeau : 9VVPJTC4KS24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Aude AMAUDRIC REBSOMEN - Commentaire :  - NumCommande : AR-2405-037036 - CodeBonCadeau : 9VVPJTC4KS24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cfa14cd3-18f9-4dd7-9376-779b13f662eb
-DTSTAMP:20250612T103036Z
+UID:d65509de-813c-49b3-abca-f7b2affc6f79
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250607T220000Z
 DTEND:20250609T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Erika renard\nCommentaire : \nNumCommande : AR-2505-039116\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Erika renard - Commentaire : 1 entrée sans boursin - NumCommande : AR-2505-039116 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5e95dcc7-7f10-46d1-9e94-42a59c88973a
-DTSTAMP:20250612T103036Z
+UID:4066ca2e-5880-4081-815c-fd6846301228
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250608T220000Z
 DTEND:20250610T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : staycation\nCommentaire : Elsa Samimi\n0651181816\nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : staycation - Commentaire : Elsa Samimi - 0651181816 - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c569188a-9ca1-4f67-bb8b-c2540912b657
-DTSTAMP:20250612T103036Z
+UID:1c44be4b-06f4-49c3-a3f5-ef28687ae137
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250609T220000Z
+DTEND:20250611T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Carima Dermoum - Commentaire : poisson x2 - NumCommande : AR-2506-039183 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8de77c72-0428-4d18-b6e1-b1919dbc4afd
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250612T220000Z
 DTEND:20250614T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : AUDREY SUIGO\nCommentaire : 1 viande 1 poisson\nNumCommande : AR-2503-038766\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : AUDREY SUIGO - Commentaire : 1 viande 1 poisson - NumCommande : AR-2503-038766 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a609d89-3479-46a1-8f81-0cad7638d2b3
-DTSTAMP:20250612T103036Z
+UID:4ae4c00b-c032-44bb-a6c0-2e15e89389c2
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250613T220000Z
 DTEND:20250615T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : joseph ALIGHIERI\nCommentaire : 2 simple\njacuzzi à 22h 40€\nNumCommande : AR-2406-037264\nCodeBonCadeau : HQUVKDBU6P24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : joseph ALIGHIERI - Commentaire : 2 simple - jacuzzi à 22h 40€ - NumCommande : AR-2406-037264 - CodeBonCadeau : HQUVKDBU6P24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:36b83ba9-6983-42f3-a38e-a62a166c4472
-DTSTAMP:20250612T103036Z
+UID:36759c1b-f9d3-4911-ae31-07a397310415
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250616T220000Z
+DTEND:20250618T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : MONIQUE SANCHEZ CORTES - Commentaire : 06.27.07.67.68 - NumCommande : AR-2312-035938 - CodeBonCadeau : V5K7DDSY5A23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e95ea36e-d1d3-4850-8fa0-f159cd4a4487
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250619T220000Z
+DTEND:20250621T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Stéphane WOLFF - Commentaire : Arrivée prévue au plus tard à 20h. Petale et carte anni - NumCommande : AR-2506-039236 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9284d58-66c9-45ea-92d6-ee7af9d74709
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Estelle DHUBERT\nCommentaire : \nNumCommande : AR-2405-037161\nCodeBonCadeau : HYWF627GYW24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Estelle DHUBERT - Commentaire :  - NumCommande : AR-2405-037161 - CodeBonCadeau : HYWF627GYW24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:22a400ad-6c67-4056-a8ed-9a98a2f914c5
-DTSTAMP:20250612T103036Z
+UID:3a6731cf-af42-49ff-90e0-9c96343c6129
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250622T220000Z
+DTEND:20250624T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Yves et Anny MOLITOR - Commentaire :  - NumCommande : AR-2408-037566 - CodeBonCadeau : TJMVQCRDBZ24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4364a157-66d0-4e1b-9f7d-845570f33e91
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Karine Despagne\nCommentaire : \nNumCommande : AR-2401-036224\nCodeBonCadeau : VWGNFKVX6M24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Karine Despagne - Commentaire :  - NumCommande : AR-2401-036224 - CodeBonCadeau : VWGNFKVX6M24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:51863d42-9ca0-4433-b896-514465fe37e0
-DTSTAMP:20250612T103036Z
+UID:8470e8e8-07d7-410f-9fc0-343a0ee30df0
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250630T220000Z
+DTEND:20250702T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : cora chatoney - Commentaire :  - NumCommande : AR-2506-039198 - CodeBonCadeau : S9GQUMERGW25 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c6b550-b96c-4070-a50b-ba0a30552fec
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250703T220000Z
 DTEND:20250705T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Maroussia ROUBAUD\nCommentaire : \nNumCommande : AR-2412-038393\nCodeBonCadeau : 5TMFFX8PJA24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Maroussia ROUBAUD - Commentaire :  - NumCommande : AR-2412-038393 - CodeBonCadeau : 5TMFFX8PJA24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ae16a2dc-a5ac-4b5c-a6f1-c0e88e90f0da
-DTSTAMP:20250612T103036Z
+UID:069b8410-cd89-4018-a7be-a3021617e9c0
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250704T220000Z
 DTEND:20250706T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : RUDY CLERGUE\nCommentaire : Massage à 19h\n2 simple\nNumCommande : AR-2503-038819\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : RUDY CLERGUE - Commentaire : Massage à 19h - 2 simple - NumCommande : AR-2503-038819 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0b62b562-98b0-4c37-a7d0-827cd76f745e
-DTSTAMP:20250612T103036Z
+UID:ef51b4cc-e5e7-4cc0-86c1-59e5d088a346
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250710T220000Z
 DTEND:20250712T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Stéphanie Daumas\nCommentaire : \nNumCommande : AR-2406-037246\nCodeBonCadeau : PJJFQTCNWZ24\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Stéphanie Daumas - Commentaire :  - NumCommande : AR-2406-037246 - CodeBonCadeau : PJJFQTCNWZ24 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b3d1fa0e-1aab-4e87-bcbb-e0a22f6fdd59
-DTSTAMP:20250612T103036Z
+UID:6a81b14b-6e2a-4004-be7f-2d197488be51
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250711T220000Z
+DTEND:20250713T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Benjamin RICCIALDELLI - Commentaire :  - NumCommande : AR-2506-039175 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:99fe6473-8862-4e4f-819e-b7e3ae89790b
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250712T220000Z
+DTEND:20250714T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : DELPHINE GRIMALDI - Commentaire :  - NumCommande : AR-2505-039053 - CodeBonCadeau : RUGEZWDHXH25 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd4507e6-6b6c-44de-afa6-348ea51dde32
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250717T220000Z
 DTEND:20250719T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Mattéo Bobet\nCommentaire : \nNumCommande : AR-2503-038840\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mattéo Bobet - Commentaire :  - NumCommande : AR-2503-038840 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:161f3591-18d9-4b5b-a5db-b08074dd1b57
-DTSTAMP:20250612T103036Z
+UID:81c80947-27fb-4775-b478-dafdcc1e5a99
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250718T220000Z
 DTEND:20250720T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alexis SOLERE\nCommentaire : \nNumCommande : AR-2506-039157\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexis SOLERE - Commentaire :  - NumCommande : AR-2506-039157 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bded979d-5082-4a3d-9980-6a356ccd889f
-DTSTAMP:20250612T103036Z
+UID:14fbd7cd-7279-433d-b06a-824b1f80dd8f
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250719T220000Z
 DTEND:20250721T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : audrey bouchot\nCommentaire : \nNumCommande : AR-2505-039023\nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : audrey bouchot - Commentaire :  - NumCommande : AR-2505-039023 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9353f177-8419-4948-b3d1-4825166d8f8a
-DTSTAMP:20250612T103036Z
+UID:010313be-8c5c-4bbe-a68f-4b3ec71f58a5
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250724T220000Z
+DTEND:20250726T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Angelo Giacalone - Commentaire :  - NumCommande : AR-2506-039194 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:764c176a-b99f-43c4-a25b-0df46bea95f7
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250725T220000Z
+DTEND:20250727T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Elisa Mallor - Commentaire :  - NumCommande : AR-2409-037881 - CodeBonCadeau : PQ4TTA26S524 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad31d1f5-4d0e-4aca-9d76-c59d8f933167
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250821T220000Z
+DTEND:20250823T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Hector MONIN - Commentaire :  - NumCommande : AR-2506-039206 - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:72580850-4447-460a-bc3b-7e4e690610f8
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20250822T220000Z
+DTEND:20250824T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Emma Roussel - Commentaire :  - NumCommande : AR-2312-035936 - CodeBonCadeau : QYMNQGWTDG23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:88ff3595-c2d1-4c08-ad8f-72af83400059
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250905T220000Z
 DTEND:20250907T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Caroline MANGIARACINA\nCommentaire : \nNumCommande : AR-2312-035954\nCodeBonCadeau : PUYWG7SPDE23\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Caroline MANGIARACINA - Commentaire :  - NumCommande : AR-2312-035954 - CodeBonCadeau : PUYWG7SPDE23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a81f425-a4b4-43cc-8114-cd853bced339
-DTSTAMP:20250612T103036Z
+UID:1e840c35-2c6d-4969-82e8-54f6e7d7858c
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20250910T220000Z
 DTEND:20250912T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Jean-bernard Roth\nCommentaire : \nNumCommande : AR-2312-035990\nCodeBonCadeau : Z9NSPQKMVT23\nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jean-bernard Roth - Commentaire :  - NumCommande : AR-2312-035990 - CodeBonCadeau : Z9NSPQKMVT23 - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b1f03598-1a13-4ae5-984c-0be00bc213f1
-DTSTAMP:20250612T103036Z
+UID:a879466d-a4ed-4700-adb1-3167543cb613
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251102T230000Z
+DTEND:20251107T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12ed4ee5-5fcb-4ff4-bea8-8b645b465d10
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251109T230000Z
+DTEND:20251114T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee98c5b-86eb-430f-8c8c-88a268a09dd5
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251116T230000Z
+DTEND:20251121T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96ce1f05-a67d-4ead-b44b-7f74e23cfc0d
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251123T230000Z
+DTEND:20251128T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:302106d5-39ad-474e-9104-dc60f7952e43
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251130T230000Z
+DTEND:20251205T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6adec6f-baba-445a-836e-ee97a1f20c83
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251207T230000Z
+DTEND:20251212T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba013b2-7be1-4b0f-b8e7-0c6a49a570a4
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251214T230000Z
+DTEND:20251219T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:837d7a7f-e248-49af-b044-3eed584ca4da
+DTSTAMP:20250617T160241Z
+SUMMARY:Le Lov'Nid
+DTSTART:20251223T230000Z
+DTEND:20251226T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbfdc33-05d3-4264-8d4b-5bd6ca70e8e8
+DTSTAMP:20250617T160241Z
 SUMMARY:Le Lov'Nid
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : LOVNID ALLAUCH\nLibBulle : Le Lov'Nid\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : LOVNID ALLAUCH - LibBulle : Le Lov'Nid - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
