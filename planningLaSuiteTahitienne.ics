@@ -4,893 +4,1124 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:429e0bab-7536-41ea-be7c-d3120e0ac07e
-DTSTAMP:20250612T094949Z
+UID:ad98d8ed-6d12-49e3-ac98-98000b93dbc0
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250102T230000Z
 DTEND:20250104T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Damien DIDIER\nCommentaire : \nNumCommande : AR-2501-038422\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Damien DIDIER - Commentaire :  - NumCommande : AR-2501-038422 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:479b48bb-02c6-44d4-9ddf-a8a7c516c4b2
-DTSTAMP:20250612T094949Z
+UID:6a5de91f-0691-4e3f-9a0b-6ef61c96d609
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Lukas Bellatreccia\nCommentaire : \nNumCommande : AR-2412-038321\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lukas Bellatreccia - Commentaire :  - NumCommande : AR-2412-038321 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8514e3e1-582b-47ec-bc84-d242fe7dabe9
-DTSTAMP:20250612T094949Z
+UID:cdcb03af-c9e4-42bb-949b-aa4d8c518b47
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6eddba1b-87f7-4bf9-b737-68aaa4eb86f3
-DTSTAMP:20250612T094949Z
+UID:c1bbf8b1-0f8b-4221-975f-acc7e8a3ac12
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : DELPHINE KECHICHIAN\nCommentaire : 2 simples 38€\nMassage 1h à 110€ par Kristal\nPétale de Rose et carte anniversaire \n"Pour que ton anniversaire soit inoubliable. Gros bisous Maman. Je t'aime."\n\nOffre départ tardif 12h00\nNumCommande : AR-2501-038461\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : DELPHINE KECHICHIAN - Commentaire : 2 simples 38€ - Massage 1h à 110€ par Kristal - Pétale de Rose et carte anniversaire  - "Pour que ton anniversaire soit inoubliable. Gros bisous Maman. Je t'aime." -  - Offre départ tardif 12h00 - NumCommande : AR-2501-038461 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:37cde67b-a1cf-4a14-b6c2-ffe855fc8e2b
-DTSTAMP:20250612T094949Z
+UID:88d7635f-b04f-4dc4-b7d1-17c90fa1809c
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4cab8778-a962-4e78-9f84-3f4d42c1d447
-DTSTAMP:20250612T094949Z
+UID:f2e759ba-a495-483f-8525-97ab5578d319
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Rémi Robinet\nCommentaire : \nNumCommande : AR-2501-038448\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Rémi Robinet - Commentaire :  - NumCommande : AR-2501-038448 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4203d186-06fe-4425-89b5-0c9d7ea87487
-DTSTAMP:20250612T094949Z
+UID:0a5eb364-7ee5-4fd1-914d-2efe5cd20a9f
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:33f70274-fb4c-4550-a72e-526ec5ab35fe
-DTSTAMP:20250612T094949Z
+UID:7240e75c-504a-439e-abe0-0d2a06c7e344
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250123T230000Z
 DTEND:20250126T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:39f52bff-4fb3-4c4e-ae69-67c2edcd39e7
-DTSTAMP:20250612T094949Z
+UID:0217416a-2136-4bb0-8af2-5957c1bef106
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:38fbbf1d-7a9f-4c80-8a65-190293ee86dd
-DTSTAMP:20250612T094949Z
+UID:cf0107a0-e781-4ef2-9091-fb05caf5a5ac
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:31dab4de-9f02-407d-b8b6-9a5c7c755465
-DTSTAMP:20250612T094949Z
+UID:05d498f2-7ccc-41f2-9d82-284876fe1c81
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Raveena Soowamber (Particulier)\nCommentaire : 2 massages 45 min\nNumCommande : AR-2501-038467\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Raveena Soowamber (Particulier) - Commentaire : 2 massages 45 min - NumCommande : AR-2501-038467 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6d60b9a5-4cbf-4020-af13-ee8d41f6ede3
-DTSTAMP:20250612T094949Z
+UID:9f61e5d1-c0ad-4a72-8f92-b653dea64ffd
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250206T230000Z
 DTEND:20250208T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Cédric ARCA\nCommentaire : \nNumCommande : AR-2502-038546\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Cédric ARCA - Commentaire :  - NumCommande : AR-2502-038546 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:87cc64b2-8821-4195-9ece-c6ef10ddd1ae
-DTSTAMP:20250612T094949Z
+UID:fbd38b80-fdb6-4a27-8921-b59e02eb7ddb
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Louise PONET\nCommentaire : \nNumCommande : AR-2402-036453\nCodeBonCadeau : YFVUAC34BH24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Louise PONET - Commentaire :  - NumCommande : AR-2402-036453 - CodeBonCadeau : YFVUAC34BH24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b817c77b-8bb7-4d62-a200-7c663bacf782
-DTSTAMP:20250612T094949Z
+UID:2e7d93d9-5ba7-4ab1-a9fc-cbeedd0281f5
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Amélie RIBEIRO\nCommentaire : \nNumCommande : AR-2501-038522\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Amélie RIBEIRO - Commentaire :  - NumCommande : AR-2501-038522 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:73bef9ad-5f45-4a12-beea-86bfb763be16
-DTSTAMP:20250612T094949Z
+UID:5eed6145-790a-4846-a6cf-82fc7d8a7df0
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Celine Bocquiau\nCommentaire : \nNumCommande : AR-2411-038150\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Celine Bocquiau - Commentaire :  - NumCommande : AR-2411-038150 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d9f37298-eeaf-4e4a-8ee2-c6cf5dfacc65
-DTSTAMP:20250612T094949Z
+UID:d6b8798f-c607-4bab-ba25-682893556f5c
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alain Molgosa\nCommentaire : 2 simple\nNumCommande : AR-2406-037219\nCodeBonCadeau : RMTDBWJEM224\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alain Molgosa - Commentaire : 2 simple - NumCommande : AR-2406-037219 - CodeBonCadeau : RMTDBWJEM224 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c91761ea-8335-4d96-be50-1859a226ea00
-DTSTAMP:20250612T094949Z
+UID:f13ec949-96cc-4323-8c0a-571bc32d4287
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : NADJIA SAHOUR\nCommentaire : \nNumCommande : AR-2502-038574\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : NADJIA SAHOUR - Commentaire :  - NumCommande : AR-2502-038574 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fbf50568-17a9-4622-a168-3b3c0465267f
-DTSTAMP:20250612T094949Z
+UID:798ec27c-ae95-47ea-802b-faa707b3776d
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250217T230000Z
 DTEND:20250220T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Thi kim hue Pham (Dakao)\nCommentaire : \nNumCommande : AR-2502-038582\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Thi kim hue Pham (Dakao) - Commentaire :  - NumCommande : AR-2502-038582 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:21cb8f7e-c30b-46d8-9ea4-27b50616daf4
-DTSTAMP:20250612T094949Z
+UID:71ede4da-fa67-4b05-a60f-6355335fe803
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250220T230000Z
 DTEND:20250222T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Valérie PARÉ\nCommentaire : \nNumCommande : AR-2502-038623\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Valérie PARÉ - Commentaire :  - NumCommande : AR-2502-038623 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0bd06962-49c3-46d8-83ce-fa01464e8495
-DTSTAMP:20250612T094949Z
+UID:9d2b9d31-49ef-4435-9715-dce63e33b466
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : IKRAME BELGHITI\nCommentaire : \nNumCommande : AR-2502-038577\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : IKRAME BELGHITI - Commentaire :  - NumCommande : AR-2502-038577 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a7c0d99f-7a93-48c5-a25e-a48cab8d5ced
-DTSTAMP:20250612T094949Z
+UID:b3515b32-b8ee-4ba0-b6b3-3ab04720e957
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Dylan Thubert\nCommentaire : \nNumCommande : AR-2502-038563\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Dylan Thubert - Commentaire :  - NumCommande : AR-2502-038563 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:14a8627c-0920-42da-a647-3df3c76ee31a
-DTSTAMP:20250612T094949Z
+UID:9918188e-7a47-4ee9-9618-e63fc13c0782
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250308T230000Z
 DTEND:20250310T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Audrey JUILLET\nCommentaire : \nNumCommande : AR-2501-038432\nCodeBonCadeau : A7GTBWQJRM25\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Audrey JUILLET - Commentaire :  - NumCommande : AR-2501-038432 - CodeBonCadeau : A7GTBWQJRM25 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:44ce7517-c1e1-4851-920c-8a86d468dcdd
-DTSTAMP:20250612T094949Z
+UID:06e77187-ce69-43cd-9226-601a9ad46993
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dd943ce6-bc9e-47a6-b5fd-8d4de9f3a7f5
-DTSTAMP:20250612T094949Z
+UID:cfa21d23-8271-4351-8fbd-71de1d3e11ea
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Joseph Pazzi\nCommentaire : joseph.pazzi@outlook.fr.*\nA faire régler 40€\nBkdo de 2 nuits la 2ème dans la cabane écureuil\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Joseph Pazzi - Commentaire : joseph.pazzi@outlook.fr.* - A faire régler 40€ - Bkdo de 2 nuits la 2ème dans la cabane écureuil - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f0bd62c3-fe91-4456-bf11-7eacfde5d1be
-DTSTAMP:20250612T094949Z
+UID:43e20f49-6958-4f76-b2de-246293ab1249
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250315T230000Z
 DTEND:20250317T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : johanna NOYEZ\nCommentaire : \nNumCommande : AR-2502-038557\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : johanna NOYEZ - Commentaire :  - NumCommande : AR-2502-038557 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:10a4395f-ebb1-49a8-9121-24877d83fdac
-DTSTAMP:20250612T094949Z
+UID:c7a47e13-a73e-4d13-be42-0ec4011cd630
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250317T230000Z
 DTEND:20250319T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Ayachi Rudy\nCommentaire : Bon cadeau périmé le 26 février 2025.\nNuit +Petit déjeuner.\n2 Luxury à faire payer 54€\nNumCommande : AR-2402-036492\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Ayachi Rudy - Commentaire : Bon cadeau périmé le 26 février 2025. - Nuit +Petit déjeuner. - 2 Luxury à faire payer 54€ - NumCommande : AR-2402-036492 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0b69dbd2-8d0b-4700-a7b6-7e6237e67015
-DTSTAMP:20250612T094949Z
+UID:4783c0bc-873b-40eb-b8e4-1bc5ea90eb2f
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fanny BLISCH\nCommentaire : \nNumCommande : AR-2501-038529\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fanny BLISCH - Commentaire :  - NumCommande : AR-2501-038529 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d1c737d6-3898-49ee-af28-41940d88f5b1
-DTSTAMP:20250612T094949Z
+UID:5c7f84ef-1f15-4205-a5b7-de2f165adac7
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250325T230000Z
 DTEND:20250327T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Nadege MEZIAT\nCommentaire : 2 luxury\n.arrivée à 12h30 pour déposer les valises\nNumCommande : AR-2405-037146\nCodeBonCadeau : 6AVXHHSVBB24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nadege MEZIAT - Commentaire : 2 luxury - .arrivée à 12h30 pour déposer les valises - NumCommande : AR-2405-037146 - CodeBonCadeau : 6AVXHHSVBB24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:05c82716-8bda-4c94-9df8-7c191f49fbd6
-DTSTAMP:20250612T094949Z
+UID:7fd9ba00-72a3-4eb4-b760-8599b6a66a8b
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250326T230000Z
 DTEND:20250328T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Amélie RIBEIRO\nCommentaire : \nNumCommande : AR-2502-038643\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Amélie RIBEIRO - Commentaire :  - NumCommande : AR-2502-038643 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:987d5a63-8dd4-432a-94bd-26ae54bd1ce7
-DTSTAMP:20250612T094949Z
+UID:bdf653b8-52ca-48e7-b22f-621f07198217
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250331T220000Z
 DTEND:20250402T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Guest : MELINA MARIGNAN\nParticipants : 2 adultes\nTéléphone : 0651339624\n2 SIMPLE\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Guest : MELINA MARIGNAN - Participants : 2 adultes - Téléphone : 0651339624 - 2 SIMPLE - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a92d5b41-17b5-46db-a32d-0fe9dfca82ed
-DTSTAMP:20250612T094949Z
+UID:8fc1e60f-dabe-4379-9e3a-fb16b902ccea
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250403T220000Z
 DTEND:20250405T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Julian Noirot\nCommentaire : Pétales de roses\nNumCommande : AR-2504-038856\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Julian Noirot - Commentaire : Pétales de roses - NumCommande : AR-2504-038856 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a577b714-ab1b-48ad-b58a-a662e2f24d94
-DTSTAMP:20250612T094949Z
+UID:7299cfb5-626c-46fa-9f73-99c76921da88
+DTSTAMP:20250617T160236Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250404T220000Z
 DTEND:20250406T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : STEPHANIE PREBIN\nCommentaire : Passage suite Tahitienne 40€\nNumCommande : AR-2411-038134\nCodeBonCadeau : AFYCSGGBYE24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : STEPHANIE PREBIN - Commentaire : Passage suite Tahitienne 40€ - NumCommande : AR-2411-038134 - CodeBonCadeau : AFYCSGGBYE24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9e0b54d7-1fd0-4da4-903a-4d5537688242
-DTSTAMP:20250612T094949Z
+UID:8557a908-6441-4ae0-956f-d8fec86349ee
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250406T220000Z
 DTEND:20250408T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : David MAYOUSSIER\nCommentaire : 1 pack apéro\nNumCommande : AR-2503-038817\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : David MAYOUSSIER - Commentaire : 1 pack apéro - NumCommande : AR-2503-038817 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a2eefc81-62b0-41f6-9cb9-20cd07c13d38
-DTSTAMP:20250612T094949Z
+UID:7b421afb-a078-4188-87a1-58e8fb1b0ac4
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250409T220000Z
 DTEND:20250411T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Eléonore Metayer\nCommentaire : \nNumCommande : AR-2504-038853\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Eléonore Metayer - Commentaire :  - NumCommande : AR-2504-038853 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:56bc13a1-5c2f-4894-8cdb-bfa457cdcbb0
-DTSTAMP:20250612T094949Z
+UID:60f9e87c-1e2e-4de1-bb6e-59e15fa1dc75
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250410T220000Z
 DTEND:20250412T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : KARINE DEMUNTER\nCommentaire : \nNumCommande : AR-2504-038903\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : KARINE DEMUNTER - Commentaire :  - NumCommande : AR-2504-038903 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0c7b3a93-ecd4-484e-a117-6d6821e25a2d
-DTSTAMP:20250612T094949Z
+UID:30dd2843-9a53-467a-a655-ea2fc685f2d8
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Bilal Amriou\nCommentaire : \nNumCommande : AR-2504-038906\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bilal Amriou - Commentaire :  - NumCommande : AR-2504-038906 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0580b263-051a-4b56-878c-9d89d9deb0dd
-DTSTAMP:20250612T094949Z
+UID:a631263c-170f-40ce-bb45-a6f2a11e792d
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Eric San nicolas\nCommentaire : \nNumCommande : AR-2504-038898\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Eric San nicolas - Commentaire :  - NumCommande : AR-2504-038898 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9d2968b2-7b6a-478c-8541-5a3d5ad75342
-DTSTAMP:20250612T094949Z
+UID:fd9e9986-dc6c-466d-b385-07b796e6d4ce
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250413T220000Z
 DTEND:20250415T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : ELODIE FABRE\nCommentaire : \nNumCommande : AR-2503-038779\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ELODIE FABRE - Commentaire :  - NumCommande : AR-2503-038779 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:89ae61b6-1cf1-4f60-b196-88c69887cc21
-DTSTAMP:20250612T094949Z
+UID:2987a31f-5ae6-4fda-9248-b902185ed902
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250415T220000Z
 DTEND:20250417T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Instagram\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Instagram - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:65a79bf5-7034-441c-ae17-93b226f58f95
-DTSTAMP:20250612T094949Z
+UID:45ed935a-87de-4c76-9568-cf3ac6178f34
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250416T220000Z
 DTEND:20250418T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Mickael Bablee\nCommentaire : \nNumCommande : AR-2408-037724\nCodeBonCadeau : 5CCQCPNA2S24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mickael Bablee - Commentaire :  - NumCommande : AR-2408-037724 - CodeBonCadeau : 5CCQCPNA2S24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2fd7ef58-4e86-4ad1-af75-4063be65070c
-DTSTAMP:20250612T094949Z
+UID:f8d661a0-c191-48ea-8226-510ce836c647
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250417T220000Z
 DTEND:20250419T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Joris Nocera\nCommentaire : \nNumCommande : AR-2504-038909\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Joris Nocera - Commentaire :  - NumCommande : AR-2504-038909 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:330f341a-6d6a-49dc-af15-fbc877b7c00b
-DTSTAMP:20250612T094949Z
+UID:6efb138f-d4f8-48cf-a066-603905fa1a93
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Matilde Angelica\nCommentaire : pétale de roses\nNumCommande : AR-2503-038672\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Matilde Angelica - Commentaire : pétale de roses - NumCommande : AR-2503-038672 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a9ddba95-0ab8-4530-be23-64e577652f09
-DTSTAMP:20250612T094949Z
+UID:00246b03-ec99-4a9f-b9ce-b8e0cd1544f7
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Geffray  Muriel\n0684968006\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Geffray  Muriel - 0684968006 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5f4fa6be-a3ff-4776-9424-e5c7473631b7
-DTSTAMP:20250612T094949Z
+UID:08717525-6ae4-4d6e-9601-ef0f5a18ca2e
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Staycation\nCommentaire : Hajer LHADARI\n\nTéléphone : +33641402226\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Hajer LHADARI -  - Téléphone : +33641402226 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:719f8365-75c7-4d0a-b0be-f33a21c0f384
-DTSTAMP:20250612T094949Z
+UID:75d67868-54fa-41b1-958e-7e7d5e6c8baf
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250430T220000Z
 DTEND:20250502T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : STAYCATION\nCommentaire : Sofyan Farhan said\nParticipants : 2 adultes\nTéléphone : 0664313334\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : STAYCATION - Commentaire : Sofyan Farhan said - Participants : 2 adultes - Téléphone : 0664313334 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d7b51c85-de43-4081-8a06-8fdf8e25287e
-DTSTAMP:20250612T094949Z
+UID:10f88bd4-9f3a-437d-aea3-fa5cb3fe1a8f
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250502T220000Z
 DTEND:20250504T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : GUILLAUME GOMEZ\nCommentaire : 2 original 1 normal 1 sans saumon et tarte pomme\nNumCommande : AR-2505-039013\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : GUILLAUME GOMEZ - Commentaire : 2 original 1 normal 1 sans saumon et tarte pomme - NumCommande : AR-2505-039013 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bca015f0-6f1f-4694-806a-ee69114cfcf9
-DTSTAMP:20250612T094949Z
+UID:1f94ffc5-6d81-477d-8941-eccdf0f4df16
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250504T220000Z
 DTEND:20250506T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Chloé Legrux\nCommentaire : \nNumCommande : AR-2504-038992\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Chloé Legrux - Commentaire :  - NumCommande : AR-2504-038992 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f3bc6680-2fbe-4154-bf83-207828318804
-DTSTAMP:20250612T094949Z
+UID:f2936b4c-cbd6-4a54-823e-095ba08e8500
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250505T220000Z
 DTEND:20250507T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Anaïs Anton\nCommentaire : \nNumCommande : AR-2504-038998\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anaïs Anton - Commentaire :  - NumCommande : AR-2504-038998 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:13e344be-9e0d-43c3-9a2a-256c201c8dfe
-DTSTAMP:20250612T094949Z
+UID:4b092e5c-6b69-4216-96f5-8da44003c92e
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Victoria Courbard\nCommentaire : \nNumCommande : AR-2502-038641\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Victoria Courbard - Commentaire :  - NumCommande : AR-2502-038641 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fe565507-0a33-4452-bc79-a928d7a67816
-DTSTAMP:20250612T094949Z
+UID:4f9ed251-13d1-448f-aab8-a5f95956ef41
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Alizée Mouton\nCommentaire : \nNumCommande : AR-2504-038996\nCodeBonCadeau : R8RVCAP9WK25\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alizée Mouton - Commentaire :  - NumCommande : AR-2504-038996 - CodeBonCadeau : R8RVCAP9WK25 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9e1f07a8-15be-4a9e-97c7-05cf6b1f118b
-DTSTAMP:20250612T094949Z
+UID:d0da04cd-63c4-4d1e-8f23-e2d83144bb7d
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250511T220000Z
 DTEND:20250513T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Valérie HAURAIS WISSART\nCommentaire : \nNumCommande : AR-2504-038980\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Valérie HAURAIS WISSART - Commentaire :  - NumCommande : AR-2504-038980 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7c4a326e-0512-4a8b-91e4-01f56fbcfb6b
-DTSTAMP:20250612T094949Z
+UID:99b076f4-6b23-47c7-9965-7a4b4f8aa783
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : PATRICIA SOBOUL\nCommentaire : \nNumCommande : AR-2505-039090\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : PATRICIA SOBOUL - Commentaire :  - NumCommande : AR-2505-039090 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:89b20b3d-0e1a-48c4-89a9-7897ffb2dbb4
-DTSTAMP:20250612T094949Z
+UID:573fdff1-1c74-452b-830d-56a89fdf53a7
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Cecile Spiteri\nCommentaire : 1 massage de 1h et un massage supplémentaire de 1h à faire régler (110€) à 18h\n2 luxury\nNumCommande : AR-2407-037360\nCodeBonCadeau : QVYW6AHX8V24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Cecile Spiteri - Commentaire : 1 massage de 1h et un massage supplémentaire de 1h à faire régler (110€) à 18h - 2 luxury - NumCommande : AR-2407-037360 - CodeBonCadeau : QVYW6AHX8V24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:55126ea8-f0bd-4f67-8d7f-ff654f7a653f
-DTSTAMP:20250612T094949Z
+UID:db0a93f3-1826-4939-bddd-f80487b0b3ec
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250520T220000Z
 DTEND:20250522T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Michel DURANTHON\nCommentaire : \nNumCommande : AR-2312-036019\nCodeBonCadeau : JXZ8E8XHP923\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Michel DURANTHON - Commentaire :  - NumCommande : AR-2312-036019 - CodeBonCadeau : JXZ8E8XHP923 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8f648c8f-ec63-4be1-a012-ba25d8acd665
-DTSTAMP:20250612T094949Z
+UID:f2a0ae1a-9955-438c-b4c1-f9879090d663
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250522T220000Z
 DTEND:20250524T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Keran Pajak\nCommentaire : 2 original\nNumCommande : AR-2505-039101\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Keran Pajak - Commentaire : 2 original - NumCommande : AR-2505-039101 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b26b53ae-d87a-4a4b-847c-10f6ead4a977
-DTSTAMP:20250612T094949Z
+UID:41c21f33-f32f-4a99-840b-3b4863f63d6b
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : DAVID GAUDIN\nCommentaire : 2 simple\nNumCommande : AR-2406-037306\nCodeBonCadeau : XGXQRDA8YJ24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : DAVID GAUDIN - Commentaire : 2 simple - NumCommande : AR-2406-037306 - CodeBonCadeau : XGXQRDA8YJ24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a19a7ab-8d5b-44d6-8ee1-9e8594380420
-DTSTAMP:20250612T094949Z
+UID:81b929f0-a229-4886-86a8-e32426cac71f
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2b9a779a-2238-4fe9-b0ac-60e5db95b62e
-DTSTAMP:20250612T094949Z
+UID:aab43268-11e5-4c7c-9322-1ad9df2fc911
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : patrice gauthier\nCommentaire : \nNumCommande : AR-2505-039051\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : patrice gauthier - Commentaire :  - NumCommande : AR-2505-039051 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c3bd7fbf-d5ae-4faa-80bf-7586d47eb11e
-DTSTAMP:20250612T094949Z
+UID:ed293c1f-1eaf-42d4-8420-765db3e87b8d
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : MICHEL GUIDO\nCommentaire : \nNumCommande : AR-2505-039009\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MICHEL GUIDO - Commentaire :  - NumCommande : AR-2505-039009 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d5f082e2-7884-4537-bcde-2e348e875414
-DTSTAMP:20250612T094949Z
+UID:f8e4fb73-7e24-4ddf-bb23-30adf2615a4f
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Laurie Perino\nCommentaire : \nNumCommande : AR-2409-037810\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laurie Perino - Commentaire :  - NumCommande : AR-2409-037810 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:89bffeb0-012b-43d1-be96-0c1e29f47d19
-DTSTAMP:20250612T094949Z
+UID:2f698700-1634-4c1c-8fe3-b8488784f36d
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250531T220000Z
 DTEND:20250602T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : staycation\nCommentaire : Alexandre Gros\n0770461910\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : staycation - Commentaire : Alexandre Gros - 0770461910 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:71ce6bf7-41e1-4798-aed3-353a37569f69
-DTSTAMP:20250612T094949Z
+UID:cf7544e2-6dbd-4d01-a225-a803ca195321
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250601T220000Z
 DTEND:20250603T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : cabane de france\nCommentaire : 200€ déjà encaissé en cabane de France\nmme Gatto\n0679780293\nrestant du 29€ à regler sur place\nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : cabane de france - Commentaire : 200€ déjà encaissé en cabane de France - mme Gatto - 0679780293 - restant du 29€ à regler sur place - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2ea7ecb8-5540-4be1-81e1-e801a4d01ed2
-DTSTAMP:20250612T094949Z
+UID:537519b5-07ec-4168-ae89-168ddcefdae3
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250603T220000Z
+DTEND:20250606T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : STAYCATION - Commentaire : Lââmo Monetto -  - Téléphone : 06 64 96 87 17 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6401c68f-c3ed-4ae6-939b-5a78c32a5d0f
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Virginie Deguara\nCommentaire : \nNumCommande : AR-2505-039063\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Virginie Deguara - Commentaire :  - NumCommande : AR-2505-039063 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f829835c-658e-4f51-ac5e-6f31e2eebd8d
-DTSTAMP:20250612T094949Z
+UID:f4fb6bcc-6ace-4e2f-8a77-3ef16899edbb
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250607T220000Z
 DTEND:20250609T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CATHERINE BROERSEN\nCommentaire : DOIT REGLER 69€ EN ESPECES\nNumCommande : AR-2505-039143\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CATHERINE BROERSEN - Commentaire : DOIT REGLER 69€ EN ESPECES - NumCommande : AR-2505-039143 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:060e428a-7e31-49b2-8750-dd7350291321
-DTSTAMP:20250612T094949Z
+UID:9ec4bc6d-08e6-4215-a7ed-890933ccd862
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250610T220000Z
+DTEND:20250612T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : staycation - Commentaire : Sonia Figuères-Nassirpour - Téléphone : 0684667511 - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:db0cfa3a-6af1-4bb2-91db-1f853476d6de
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250612T220000Z
+DTEND:20250614T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Gael Tron - Commentaire :  - NumCommande : AR-2506-039215 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:91fdc39f-0667-4707-a12b-e772ed74a2ed
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250613T220000Z
 DTEND:20250615T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Natercia GUILLEN\nCommentaire : \nNumCommande : AR-2403-036704\nCodeBonCadeau : XHSSPU3RBP24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Natercia GUILLEN - Commentaire :  - NumCommande : AR-2403-036704 - CodeBonCadeau : XHSSPU3RBP24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:17e1acfc-ce29-43ac-aafa-590437524183
-DTSTAMP:20250612T094949Z
+UID:93235635-90c6-4b66-adb4-579c31404e5a
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250614T220000Z
+DTEND:20250616T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Staycation - Commentaire : Benjamin Ferrandi - 0652506292 - Carte anniversaire pétales de rose - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:04cbac09-c47e-4124-a4fb-ba596fe84fe6
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250618T220000Z
 DTEND:20250620T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Joëlle GUENOUN\nCommentaire : Massage 45min à 17h30 doit 85€\nNumCommande : AR-2411-038105\nCodeBonCadeau : RYBZAY34BF24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Joëlle GUENOUN - Commentaire : Massage 45min à 17h30 doit 85€ Amandine - NumCommande : AR-2411-038105 - CodeBonCadeau : RYBZAY34BF24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e0d930f8-47bf-45ce-a0e3-adc6e301fba9
-DTSTAMP:20250612T094949Z
+UID:a6d9b4c5-e908-43d6-89d9-7d578704fc9d
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Christophe Lenglez\nCommentaire : \nNumCommande : AR-2505-039014\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Christophe Lenglez - Commentaire :  - NumCommande : AR-2505-039014 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4ad4a0c4-1f99-425c-90cb-95d4e6ebb37b
-DTSTAMP:20250612T094949Z
+UID:fcfe3096-f332-4fed-996f-59a484e8dac8
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250622T220000Z
+DTEND:20250624T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Amir Moalla - Commentaire : Petale de rose et carte avec joyeux anniversaire de Mariage - NumCommande : AR-2506-039228 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d09f1dd-50bb-4690-ad60-07c4e97c1b7e
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250623T220000Z
 DTEND:20250625T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : cindy martelli\nCommentaire : \nNumCommande : AR-2505-039104\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : cindy martelli - Commentaire :  - NumCommande : AR-2505-039104 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b6841c-4bea-46ae-be9d-eae95ae27967
-DTSTAMP:20250612T094949Z
+UID:ff6d28d3-fada-4c7e-9975-47dcbef35a0a
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250626T220000Z
 DTEND:20250628T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Camille Le jossec\nCommentaire : \nNumCommande : AR-2506-039159\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Camille Le jossec - Commentaire :  - NumCommande : AR-2506-039159 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:52a7154b-cfaf-4570-8d7c-a1d341aee99d
-DTSTAMP:20250612T094949Z
+UID:82a3d152-bd26-4090-bd70-bcecbe3a3d3e
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Valerie GOASDOUE\nCommentaire : Repas végétarien un avec poisson\,\n l'autre pas de viande et pas de poisson.\nNumCommande : AR-2505-039106\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Valerie GOASDOUE - Commentaire : Repas végétarien un avec poisson\, -  l'autre pas de viande et pas de poisson. - NumCommande : AR-2505-039106 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:19137bb7-3af6-4267-b2fd-f29ebbea3810
-DTSTAMP:20250612T094949Z
+UID:3ba0917f-5bdf-45ed-a4b7-c9645362659d
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250704T220000Z
+DTEND:20250706T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Jean Hugues GIORDANO - Commentaire : 1 menu végé - NumCommande : AR-2503-038794 - CodeBonCadeau : KN8CYNAHWY25 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:78882d54-96df-4429-843a-236bf4210ad5
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250710T220000Z
+DTEND:20250712T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Mickaël Robur - Commentaire :  - NumCommande : AR-2506-039203 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e11866-ca80-42ec-b4c8-5bce122edf42
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250711T220000Z
 DTEND:20250713T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Stephanie Rondeaux\nCommentaire : \nNumCommande : AR-2505-039040\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Stephanie Rondeaux - Commentaire :  - NumCommande : AR-2505-039040 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c3a9a53f-16f8-48ca-9301-1827de701880
-DTSTAMP:20250612T094949Z
+UID:ebb9cc95-9e98-4cc2-8393-a45015de0499
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250712T220000Z
 DTEND:20250714T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : virginie martin\nCommentaire : supplément 40€ par mail\nNumCommande : AR-2504-038973\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : virginie martin - Commentaire : supplément 40€ par mail - NumCommande : AR-2504-038973 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f6b03309-e63c-4353-b9c3-4f99410ccdf1
-DTSTAMP:20250612T094949Z
+UID:6e4ed13a-198d-46c9-b541-6a454f36fa83
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250715T220000Z
+DTEND:20250718T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Clement DEFER - Commentaire :  - NumCommande : AR-2506-039189 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac924eb4-43cd-49f3-b2b2-2898ae6515c0
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250717T220000Z
 DTEND:20250719T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : CARINE CHAMBON\nCommentaire : \nNumCommande : AR-2504-038843\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : CARINE CHAMBON - Commentaire :  - NumCommande : AR-2504-038843 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d6548d5a-9a09-4d1a-b0a1-7c9e37e77183
-DTSTAMP:20250612T094949Z
+UID:e9daafcd-0aa4-4b23-8aaf-c69af57eb48a
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250718T220000Z
+DTEND:20250720T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : MAGALI HUGUES - Commentaire :  - NumCommande : AR-2506-039191 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7d7a62-562b-4f83-8e0f-0a969e20e7e3
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250726T220000Z
 DTEND:20250728T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Sophie Hamiche\nCommentaire : \nNumCommande : AR-2412-038240\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Sophie Hamiche - Commentaire :  - NumCommande : AR-2412-038240 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:878402ea-bb76-4469-b79f-6d42d066a660
-DTSTAMP:20250612T094949Z
+UID:477a9a20-e67f-421b-bc58-b36d24577e5a
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250727T220000Z
+DTEND:20250729T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : NICOLAS CIMINIERA - Commentaire :  - NumCommande : AR-2506-039213 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d909c33-8d66-4711-8673-d070e2482dd9
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250801T220000Z
+DTEND:20250803T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Martial Rozand - Commentaire :  - NumCommande : AR-2406-037254 - CodeBonCadeau : EMCNZHYFU524 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:160ca38e-41f1-4e37-9f1a-46fed6dbb03f
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250805T220000Z
+DTEND:20250807T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Grégory Balmain - Commentaire :  - NumCommande : AR-2412-038386 - CodeBonCadeau : H9KVHEKDQB24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:24db9941-6603-4684-9946-877612fc1a97
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250808T220000Z
 DTEND:20250810T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Helena Meyer\nCommentaire : \nNumCommande : AR-2504-038899\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Helena Meyer - Commentaire :  - NumCommande : AR-2504-038899 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:40269872-c956-4334-b799-df6569ac1ed5
-DTSTAMP:20250612T094949Z
+UID:b30f9a3b-1deb-441f-b01f-0eeb5bbe2fb9
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20250812T220000Z
+DTEND:20250814T215959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Christophe SABLE - Commentaire :  - NumCommande : AR-2506-039205 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:76bcb79b-8509-4439-a008-53ba54478518
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250814T220000Z
 DTEND:20250816T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Evan Goudard\nCommentaire : pas de départ à midi option remboursée\nNumCommande : AR-2505-039049\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Evan Goudard - Commentaire : pas de départ à midi option remboursée - NumCommande : AR-2505-039049 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4aac7727-3c50-4062-a919-e4278e80fe22
-DTSTAMP:20250612T094949Z
+UID:134ed899-1ffb-4ca5-a17e-3b1a13913652
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250821T220000Z
 DTEND:20250824T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Iris Maréchal\nCommentaire : \nNumCommande : AR-2505-039062\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Iris Maréchal - Commentaire :  - NumCommande : AR-2505-039062 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3ccc86d6-3b6a-4b9d-901f-7fad9067306b
-DTSTAMP:20250612T094949Z
+UID:b28468c0-12f4-423b-acee-5d13483f032c
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250905T220000Z
 DTEND:20250907T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Eunice BEDIAT\nCommentaire : \nNumCommande : AR-2506-039155\nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Eunice BEDIAT - Commentaire :  - NumCommande : AR-2506-039155 - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:426fae31-fc25-461c-ab8e-0d4b26080346
-DTSTAMP:20250612T094949Z
+UID:713bd69c-d45e-45a5-8e40-b184f5e51347
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20250906T220000Z
 DTEND:20250908T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Christophe BRENGUIER\nCommentaire : \nNumCommande : AR-2412-038243\nCodeBonCadeau : XEDDP7QEK624\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Christophe BRENGUIER - Commentaire :  - NumCommande : AR-2412-038243 - CodeBonCadeau : XEDDP7QEK624 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7d3cbaa0-72d8-40fd-aa06-6c8315778e10
-DTSTAMP:20250612T094949Z
+UID:f5e88b3e-6d9a-4b9d-a660-5950f532ff2c
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20251011T220000Z
 DTEND:20251013T215959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : AUDREY PLAZA\nCommentaire : \nNumCommande : AR-2405-037157\nCodeBonCadeau : UDUGXTVNRB24\nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : AUDREY PLAZA - Commentaire :  - NumCommande : AR-2405-037157 - CodeBonCadeau : UDUGXTVNRB24 - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:75ed3122-0ce1-4b00-856b-f58fa61f5f6d
-DTSTAMP:20250612T094949Z
+UID:cd49ecad-4b55-4072-b86c-0414ac8c36d5
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251102T230000Z
+DTEND:20251107T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:29e4a944-08ae-4317-80bc-68ec1389d01b
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251109T230000Z
+DTEND:20251114T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96c7b457-dc3a-4c17-ab4e-e8ed7f2b3ed5
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251116T230000Z
+DTEND:20251121T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:45667359-aeab-4e57-9013-d27b5fd84273
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251123T230000Z
+DTEND:20251128T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:40a13a7f-fdcf-4f37-a979-49247ba2b027
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251130T230000Z
+DTEND:20251205T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:148b4e1f-886d-40ae-afa0-103f687bdfd1
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251207T230000Z
+DTEND:20251212T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:883ec753-7559-45a2-b3fb-33b5222a22e7
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251214T230000Z
+DTEND:20251219T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd9a366-c007-4659-bf1e-d875d83d2c31
+DTSTAMP:20250617T160237Z
+SUMMARY:La Suite Tahitienne
+DTSTART:20251223T230000Z
+DTEND:20251226T225959Z
+LOCATION:A FLEUR DE BOIS CABANES
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:939e2e2c-05eb-4984-914d-afb83e336db6
+DTSTAMP:20250617T160237Z
 SUMMARY:La Suite Tahitienne
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:A FLEUR DE BOIS CABANES
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : CB TAHITIENNE ALLAUCH\nLibBulle : La Suite Tahitienne\nLibFranchise : A FLEUR DE BOIS CABANES\nCodeFranchise : AFDB13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : CB TAHITIENNE ALLAUCH - LibBulle : La Suite Tahitienne - LibFranchise : A FLEUR DE BOIS CABANES - CodeFranchise : AFDB13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
