@@ -4,1234 +4,1465 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:b43d203c-087c-465b-8012-717848ff6fb5
-DTSTAMP:20250612T094942Z
+UID:f928dfcd-ad89-46b4-91f4-a6e720d8e7b9
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20241231T230000Z
 DTEND:20250102T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nacima Bessafi\nCommentaire : hallal\nNumCommande : AR-2412-038411\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nacima Bessafi - Commentaire : hallal - NumCommande : AR-2412-038411 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0baf931f-e2bd-4956-ba70-70b0b9f7c733
-DTSTAMP:20250612T094942Z
+UID:a9110d99-0c76-4137-8c50-eb2c97e00903
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250101T230000Z
 DTEND:20250103T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Morgane Briones\nCommentaire : \nNumCommande : AR-2412-038273\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Morgane Briones - Commentaire :  - NumCommande : AR-2412-038273 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b240aeaa-02b3-4ecf-bf2b-932b83e86460
-DTSTAMP:20250612T094942Z
+UID:3591ae43-c92a-4314-a73f-a553d02def23
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250102T230000Z
 DTEND:20250104T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lilou Catala\nCommentaire : \nNumCommande : AR-2411-038146\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lilou Catala - Commentaire :  - NumCommande : AR-2411-038146 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e5fc033d-3054-42ed-b18a-d76fa29e0189
-DTSTAMP:20250612T094942Z
+UID:7af99fe2-0100-436a-898f-286d5d503789
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250103T230000Z
 DTEND:20250105T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Michaël Rabaioli\nCommentaire : \nNumCommande : AR-2412-038242\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Michaël Rabaioli - Commentaire :  - NumCommande : AR-2412-038242 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8415d998-a22e-4a70-845a-3b18fb33b0be
-DTSTAMP:20250612T094942Z
+UID:08515c51-6d5e-4ed4-8974-394949b10107
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250104T230000Z
 DTEND:20250106T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alexandre D'emmanuele\nCommentaire : \nNumCommande : AR-2412-038337\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alexandre D'emmanuele - Commentaire :  - NumCommande : AR-2412-038337 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8bffdb25-5c91-43fd-b826-a8c8e569413c
-DTSTAMP:20250612T094942Z
+UID:19e6d6a6-8be1-442e-8273-ee02cef3ee87
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250105T230000Z
 DTEND:20250110T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2739a25b-09cf-4404-9234-951849cdfa9c
-DTSTAMP:20250612T094942Z
+UID:40c46bab-0d05-4e68-b6d3-8472713e13bc
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250109T230000Z
 DTEND:20250111T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Simon Angot\n5 Imp. de l'Église\n13007 MARSEILLE\nFrance\n+33610862786\nangotsimon@yahoo.fr\n2 original vegé\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Simon Angot - 5 Imp. de l'Église - 13007 MARSEILLE - France - +33610862786 - angotsimon@yahoo.fr - 2 original vegé - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:44610d37-1ede-45a3-9fa0-1a59286838bd
-DTSTAMP:20250612T094942Z
+UID:1b346bbf-5a6c-4ba4-9a26-41cb6cd6193f
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250110T230000Z
 DTEND:20250112T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Coralie Speno\nCommentaire : \nNumCommande : AR-2412-038244\nCodeBonCadeau : M2FTZ7DTTN24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Coralie Speno - Commentaire :  - NumCommande : AR-2412-038244 - CodeBonCadeau : M2FTZ7DTTN24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3cb8f399-4d0f-4670-b6cf-a8343d8de7dd
-DTSTAMP:20250612T094942Z
+UID:c13be146-30b0-4084-a923-9b2997d1f5cf
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250111T230000Z
 DTEND:20250113T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CATERINA GERACI\nCommentaire : \nNumCommande : AR-2412-038252\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CATERINA GERACI - Commentaire :  - NumCommande : AR-2412-038252 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4a8fdc09-613d-496e-b7e3-40ae648d7124
-DTSTAMP:20250612T094942Z
+UID:3233d58b-89c3-4a93-b379-0e05e5c43e9d
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250112T230000Z
 DTEND:20250117T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4117c139-bb80-48c4-8b66-7de1ed80c079
-DTSTAMP:20250612T094942Z
+UID:ef20dadf-a7cd-42b5-af39-3408fd172951
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250116T230000Z
 DTEND:20250118T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lola aubert\nCommentaire : \nNumCommande : AR-2501-038435\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lola aubert - Commentaire :  - NumCommande : AR-2501-038435 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9ddc17e9-cd7e-4512-8a76-09c79d10d2c0
-DTSTAMP:20250612T094942Z
+UID:7d297e54-2579-4db2-b2c8-d40e2dc7373c
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250117T230000Z
 DTEND:20250119T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CATERINA GERACI\nCommentaire : \nNumCommande : AR-2412-038253\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CATERINA GERACI - Commentaire :  - NumCommande : AR-2412-038253 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:25bad0bd-8c94-4696-a80f-5c78f078c89f
-DTSTAMP:20250612T094942Z
+UID:73a98578-fc39-451e-a61b-1450d98af6ad
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250119T230000Z
 DTEND:20250124T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4874413c-a08a-4a62-843d-45ee6fe43eed
-DTSTAMP:20250612T094942Z
+UID:ec120a77-a11d-455d-9990-931f2619c233
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250123T230000Z
 DTEND:20250125T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Anthony Demaria\nCommentaire : Pate au beurre pour l'enfant\nNumCommande : AR-2501-038452\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anthony Demaria - Commentaire : Pate au beurre pour l'enfant - NumCommande : AR-2501-038452 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c9b230a2-69e7-438c-891c-5dd8e6d5b748
-DTSTAMP:20250612T094942Z
+UID:8b3cf72d-8dcb-4cfe-8f5e-e997161c5d18
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250124T230000Z
 DTEND:20250126T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Clémence Giordano\nCommentaire : \nNumCommande : AR-2412-038387\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Clémence Giordano - Commentaire :  - NumCommande : AR-2412-038387 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2de77705-88ce-4e87-b9c2-497d9ab78a72
-DTSTAMP:20250612T094942Z
+UID:3d781a52-9b53-4885-97f3-1dabd5a891a2
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250125T230000Z
 DTEND:20250127T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7e961547-c282-42d4-8186-82d093fce305
-DTSTAMP:20250612T094942Z
+UID:ca3a3c95-4db1-4208-9f55-9de7af8542d7
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250126T230000Z
 DTEND:20250131T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cd76749c-2936-45f7-a344-9b4d7e08627f
-DTSTAMP:20250612T094942Z
+UID:a804c334-460b-4d17-b86a-5aef67aedbaa
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250130T230000Z
 DTEND:20250201T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jonathan Rakotondrainibe\nCommentaire : \nNumCommande : AR-2501-038498\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jonathan Rakotondrainibe - Commentaire :  - NumCommande : AR-2501-038498 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:509f0f8e-2cf1-43a4-8570-ef7cbf015c1e
-DTSTAMP:20250612T094942Z
+UID:530e5ad4-02fd-4558-8228-68221d8db46c
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250131T230000Z
 DTEND:20250202T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jade Vidal\nCommentaire : \nNumCommande : AR-2501-038455\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jade Vidal - Commentaire :  - NumCommande : AR-2501-038455 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c7a50ea5-4357-4e93-9835-8396969f5d1a
-DTSTAMP:20250612T094942Z
+UID:82d035d8-7041-428f-91a8-f3dc7ea57125
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250205T230000Z
 DTEND:20250207T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Anyssa Desclaux\nCommentaire : \nNumCommande : AR-2501-038515\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Anyssa Desclaux - Commentaire :  - NumCommande : AR-2501-038515 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9fffcd92-49d7-4e78-b09b-ee653c9935f4
-DTSTAMP:20250612T094942Z
+UID:bfe69152-e46f-449d-80a8-5312c9fd2529
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250206T230000Z
 DTEND:20250208T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Farida Mehal\nCommentaire : repas poisson\nNumCommande : AR-2502-038575\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Farida Mehal - Commentaire : repas poisson - NumCommande : AR-2502-038575 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b81ee332-7604-4a45-b40d-88f78463560b
-DTSTAMP:20250612T094942Z
+UID:c4e7080d-add7-4221-a590-bcfb4a4e9ae9
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250207T230000Z
 DTEND:20250209T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : bobadilla lauren\nCommentaire : \nNumCommande : AR-2312-036052\nCodeBonCadeau : NA7DVA4WGF23\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : bobadilla lauren - Commentaire :  - NumCommande : AR-2312-036052 - CodeBonCadeau : NA7DVA4WGF23 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d45ccacc-07c4-4981-aeba-05bfa547150e
-DTSTAMP:20250612T094942Z
+UID:141a7845-4221-4140-b0b7-fdc620a3169e
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250208T230000Z
 DTEND:20250210T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maëlys MICHEL\nCommentaire : \nNumCommande : AR-2501-038481\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Maëlys MICHEL - Commentaire :  - NumCommande : AR-2501-038481 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f22b5a32-8db8-4c0d-bf44-5be82079fd41
-DTSTAMP:20250612T094942Z
+UID:5f417296-4464-45a9-9607-a3e1215c6c35
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250211T230000Z
 DTEND:20250213T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Julia Franceschi\n9 Rue Théophile Paulet\n13600 CEYRESTE\nFrance\n0788099945\njulia.franceschii@hotmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Julia Franceschi - 9 Rue Théophile Paulet - 13600 CEYRESTE - France - 0788099945 - julia.franceschii@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:72f70189-4a42-4821-928c-bb0186843dd1
-DTSTAMP:20250612T094942Z
+UID:24df11d7-3e02-409c-b95f-b278ea48c95c
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250212T230000Z
 DTEND:20250214T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MARIE-ANNE CHALMÉ\nCommentaire : \nNumCommande : AR-2501-038524\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : MARIE-ANNE CHALMÉ - Commentaire :  - NumCommande : AR-2501-038524 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4775324a-4d6c-4131-a604-fefb22cdd4e9
-DTSTAMP:20250612T094942Z
+UID:c6483cd4-ff52-45b8-85b6-2f0d4a4a8c49
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250213T230000Z
 DTEND:20250215T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Tom Baraston\nCommentaire : \nNumCommande : AR-2411-038183\nCodeBonCadeau : KH74B972YR24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Tom Baraston - Commentaire :  - NumCommande : AR-2411-038183 - CodeBonCadeau : KH74B972YR24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:118cdc52-f5d7-4183-81ea-691fd5809f92
-DTSTAMP:20250612T094942Z
+UID:4cdbe991-5869-480c-a650-ef0159246717
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250214T230000Z
 DTEND:20250216T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jennifer PETIT\nCommentaire : \nNumCommande : AR-2411-038192\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jennifer PETIT - Commentaire :  - NumCommande : AR-2411-038192 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:91ba404a-5921-4b43-9c07-bfbe508dbc42
-DTSTAMP:20250612T094942Z
+UID:ee8fa6d0-e08c-4d26-92f7-51929bf3d555
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250215T230000Z
 DTEND:20250217T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Virginie SAUVAGE\nCommentaire : \nNumCommande : AR-2412-038291\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Virginie SAUVAGE - Commentaire :  - NumCommande : AR-2412-038291 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:48bc4855-2360-4603-acc9-b8d594ed1f72
-DTSTAMP:20250612T094942Z
+UID:b27580a2-b871-4573-bd9f-0487eea1cd0f
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250216T230000Z
 DTEND:20250218T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Audrey Milon\nCommentaire : \nNumCommande : AR-2502-038594\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Audrey Milon - Commentaire :  - NumCommande : AR-2502-038594 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1d1075c9-b729-4bc1-a359-6425371d2da5
-DTSTAMP:20250612T094942Z
+UID:f6aac263-5a08-4f9f-bb39-888663a03ca6
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250217T230000Z
 DTEND:20250219T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lucia Grisoni\nCommentaire : \nNumCommande : AR-2412-038345\nCodeBonCadeau : 6BRBFVVE9J24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Lucia Grisoni - Commentaire :  - NumCommande : AR-2412-038345 - CodeBonCadeau : 6BRBFVVE9J24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7de6d8bc-ee91-4933-8283-53c12e0c3aff
-DTSTAMP:20250612T094942Z
+UID:6d4ee775-2e00-4251-b629-428942a63706
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250218T230000Z
 DTEND:20250220T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Cassandra MENON\nCommentaire : Mettre deco surprise\nNumCommande : AR-2502-038586\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Cassandra MENON - Commentaire : Mettre deco surprise - NumCommande : AR-2502-038586 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b443635a-3719-4eef-aa9e-985f69ce79b9
-DTSTAMP:20250612T094942Z
+UID:386f76a9-67cc-44d4-ac60-0fbb09d96d4a
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250220T230000Z
 DTEND:20250222T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nicolas Sauvageot\nCommentaire : \nNumCommande : AR-2502-038599\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nicolas Sauvageot - Commentaire :  - NumCommande : AR-2502-038599 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7b959b-51ea-4de1-8d64-f7d442971077
-DTSTAMP:20250612T094942Z
+UID:f080fe5f-d4e8-479a-bd19-318e0b782627
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250221T230000Z
 DTEND:20250223T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nadia Ouchelli\nCommentaire : \nNumCommande : AR-2502-038560\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nadia Ouchelli - Commentaire :  - NumCommande : AR-2502-038560 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fc886d83-9234-4806-a963-f396583d54bc
-DTSTAMP:20250612T094942Z
+UID:2d602bf0-5c66-4962-b6b4-e3529027dc49
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250224T230000Z
 DTEND:20250226T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Manon ratinaud\n916 Chem. de Brassetieu\n84340 MALAUCÈNE\nFrance\n0699880595\nmanon.ratinaud44@gmail.com\nsouhaite reste deux nuit vu avec laure\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Manon ratinaud - 916 Chem. de Brassetieu - 84340 MALAUCÈNE - France - 0699880595 - manon.ratinaud44@gmail.com - souhaite reste deux nuit vu avec laure - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f2302848-e4e2-49bd-8163-af1e982a32f7
-DTSTAMP:20250612T094942Z
+UID:781f005e-8b2c-4c3a-9568-5b42e5cc4e58
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250225T230000Z
 DTEND:20250227T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nora Belgroun\nCommentaire : \nNumCommande : AR-2502-038598\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Nora Belgroun - Commentaire :  - NumCommande : AR-2502-038598 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0f72edf6-839b-4579-b89f-0adaaa0fda17
-DTSTAMP:20250612T094942Z
+UID:c71e4ee1-f240-4e8e-854f-10b715df5f92
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250226T230000Z
 DTEND:20250228T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : tessa DELRIO\nCommentaire : \nNumCommande : AR-2502-038589\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : tessa DELRIO - Commentaire :  - NumCommande : AR-2502-038589 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:102e8720-12d1-4178-9966-9d323eb28b27
-DTSTAMP:20250612T094942Z
+UID:011c76f7-18fb-4fcf-84a1-6d88740c3665
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250227T230000Z
 DTEND:20250301T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Clémentine Bacle\nCommentaire : pas de viande et poisson\nNumCommande : AR-2502-038648\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Clémentine Bacle - Commentaire : pas de viande et poisson - NumCommande : AR-2502-038648 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ea3eae43-5abf-4c98-8866-62deba5c3c3d
-DTSTAMP:20250612T094942Z
+UID:aa4fa1a9-e14f-48cd-8988-a16bc12734b2
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250228T230000Z
 DTEND:20250302T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Kelly Fuster\nCommentaire : \nNumCommande : AR-2502-038553\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Kelly Fuster - Commentaire :  - NumCommande : AR-2502-038553 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:67a7660c-1c98-4a3e-8a94-fb6b4db36dfa
-DTSTAMP:20250612T094942Z
+UID:82bc9739-d088-4afd-9533-09e754b791de
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250301T230000Z
 DTEND:20250303T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Yohan Martinez\n2 lotissement de l’oratoire\n13740 LE ROVE\nFrance\n0776547156\nmartinezyohan.0401@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Yohan Martinez - 2 lotissement de l’oratoire - 13740 LE ROVE - France - 0776547156 - martinezyohan.0401@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cc5f0094-30ba-44e3-97ce-0e950c0c41f5
-DTSTAMP:20250612T094942Z
+UID:857c38cb-85c0-4fd2-b889-f575bcf7ed04
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250303T230000Z
 DTEND:20250305T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandie Chicheportiche\nCommentaire : 2 luxury\nNumCommande : AR-2501-038438\nCodeBonCadeau : SJ5VEC5BKD25\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sandie Chicheportiche - Commentaire : 2 luxury - NumCommande : AR-2501-038438 - CodeBonCadeau : SJ5VEC5BKD25 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:35cf5d80-f089-4f5f-ab94-32417f88a3d3
-DTSTAMP:20250612T094942Z
+UID:599e6d86-422c-4a8a-9210-65e806f564aa
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250305T230000Z
 DTEND:20250307T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Meggie Labourdette\nCommentaire : Massage 45 min à 18h30 Jessica\nNumCommande : AR-2502-038653\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Meggie Labourdette - Commentaire : Massage 45 min à 18h30 Jessica - NumCommande : AR-2502-038653 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f6681574-370a-4e1f-9e63-c41d086c36f2
-DTSTAMP:20250612T094942Z
+UID:f39e24b6-e0cc-4473-a49a-b445ee405b4b
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250306T230000Z
 DTEND:20250308T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Tessa Vidal\n98 chemin du saint pilon\n83470 SAINT-MAXIMIN-LA-SAINTE-BAUME\nFrance\n0767134992\ntessavidal@icloud.com\n2 Original\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Tessa Vidal - 98 chemin du saint pilon - 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME - France - 0767134992 - tessavidal@icloud.com - 2 Original - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6a0c1d08-85ac-4f49-b8d6-3abe6d7379cc
-DTSTAMP:20250612T094942Z
+UID:022c71a9-976f-4593-b4a6-9d59fbe154dd
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250307T230000Z
 DTEND:20250309T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Myriam Mathlouthi\nCommentaire : \nNumCommande : AR-2502-038552\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Myriam Mathlouthi - Commentaire :  - NumCommande : AR-2502-038552 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b53b7fe5-52fd-40df-9129-5874285eb984
-DTSTAMP:20250612T094942Z
+UID:bae3e0a3-9ac4-4cc1-b8f5-c40e082fa28f
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250308T230000Z
 DTEND:20250310T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Luna Moukhbirian\nCommentaire : \nNumCommande : AR-2404-036744\nCodeBonCadeau : CDZQEBYS8P24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Luna Moukhbirian - Commentaire :  - NumCommande : AR-2404-036744 - CodeBonCadeau : CDZQEBYS8P24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d58b92c7-093a-4ead-91ed-143b55359da4
-DTSTAMP:20250612T094942Z
+UID:7936d053-7fa1-4a5c-a403-0b9d69697760
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250311T230000Z
 DTEND:20250313T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Ghislain Gonzalez\nCommentaire : \nNumCommande : AR-2502-038650\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Ghislain Gonzalez - Commentaire :  - NumCommande : AR-2502-038650 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e3bcb516-a412-4623-a4d1-4cdded0937c7
-DTSTAMP:20250612T094942Z
+UID:9e8732e3-15b6-43cd-ab7d-845964f5b0c0
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250312T230000Z
 DTEND:20250314T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:960a1508-3cb2-4679-b3e3-3190434b1c44
-DTSTAMP:20250612T094942Z
+UID:8906e247-7135-47fc-9b88-e479f2e03ad7
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250314T230000Z
 DTEND:20250316T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maëlys Brethou\nCommentaire : \nNumCommande : AR-2407-037347\nCodeBonCadeau : PBDJ8DQCZQ24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Maëlys Brethou - Commentaire :  - NumCommande : AR-2407-037347 - CodeBonCadeau : PBDJ8DQCZQ24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e3c7551e-722e-43b4-9b6e-2feaa8c8d68f
-DTSTAMP:20250612T094942Z
+UID:7c85f0d4-38b9-4c70-b705-805ec08e6aa7
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250320T230000Z
 DTEND:20250322T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Fanny Cartelier\n229 All. Gabriel Isoard\n13330 PÉLISSANNE\nFrance\n0781808120\ncartelierf@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Fanny Cartelier - 229 All. Gabriel Isoard - 13330 PÉLISSANNE - France - 0781808120 - cartelierf@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:50cb0691-0d98-4c35-8b00-8db3659103f3
-DTSTAMP:20250612T094942Z
+UID:b3edf7fd-72a7-4888-8cc6-8dab836a7eda
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250321T230000Z
 DTEND:20250323T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : aurelie roncagliolo\nCommentaire : MR MARINO 06.29.02.03.07\nNumCommande : AR-2406-037253\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : aurelie roncagliolo - Commentaire : MR MARINO 06.29.02.03.07 - NumCommande : AR-2406-037253 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9724d835-e938-407b-855e-4cf83e16c116
-DTSTAMP:20250612T094942Z
+UID:20d3560e-bd1a-49cf-b28e-cb8a8f19ed39
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250327T230000Z
 DTEND:20250329T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie-Noëlle MRAKOVCIC\nCommentaire : \nNumCommande : AR-2404-036957\nCodeBonCadeau : DH4XHF6CNX24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marie-Noëlle MRAKOVCIC - Commentaire :  - NumCommande : AR-2404-036957 - CodeBonCadeau : DH4XHF6CNX24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:689b0c15-0094-475e-a8f8-9dda999f7132
-DTSTAMP:20250612T094942Z
+UID:fe90fa28-7ac9-4911-96df-d809e4afa249
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250328T230000Z
 DTEND:20250330T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte\nCommentaire : mme Adeline Predal\nMobile : 0614621914\nE-mail : nicopredal@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sport et découverte - Commentaire : mme Adeline Predal - Mobile : 0614621914 - E-mail : nicopredal@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd31ebe-2110-46da-a10c-806c592e0b2b
-DTSTAMP:20250612T094942Z
+UID:6969e5f7-7315-416c-b16f-3db3e4d47000
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250329T230000Z
 DTEND:20250331T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Walid Zaouia\nCommentaire : \nNumCommande : AR-2503-038798\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Walid Zaouia - Commentaire :  - NumCommande : AR-2503-038798 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:38a621b7-526b-4549-ae15-6c6ce9563811
-DTSTAMP:20250612T094942Z
+UID:09635ff7-6b0d-4ef4-9baa-1a40fd27c747
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250330T220000Z
 DTEND:20250401T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Siham Bouchet\nCommentaire : \nNumCommande : AR-2410-038049\nCodeBonCadeau : AFEFJ4DSEK24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Siham Bouchet - Commentaire :  - NumCommande : AR-2410-038049 - CodeBonCadeau : AFEFJ4DSEK24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:42b583ee-b555-42f5-936b-ad0c7fd98d9f
-DTSTAMP:20250612T094942Z
+UID:71acdbcf-9b2c-4d42-8e60-dbf6f5a8e306
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250331T220000Z
 DTEND:20250402T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Frédéric Franzetti\nCommentaire : \nNumCommande : AR-2503-038732\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Frédéric Franzetti - Commentaire :  - NumCommande : AR-2503-038732 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a1cae22d-3eff-4d95-9416-a2d0bac21e3d
-DTSTAMP:20250612T094942Z
+UID:005e18fa-e23c-45e4-9a10-0281dd24b682
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250403T220000Z
 DTEND:20250405T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Hugo Mitton\nCommentaire : \nNumCommande : AR-2503-038837\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Hugo Mitton - Commentaire :  - NumCommande : AR-2503-038837 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8fbeb6e2-1249-434d-96ce-7bc650549ce4
-DTSTAMP:20250612T094942Z
+UID:f0d2e941-f91b-43ae-8ccf-9eb500460d80
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250404T220000Z
 DTEND:20250406T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Flavien Mazzei\nCommentaire : \nNumCommande : AR-2503-038807\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Flavien Mazzei - Commentaire :  - NumCommande : AR-2503-038807 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6638f880-15c1-415d-9d46-4924c7b7d1e1
-DTSTAMP:20250612T094942Z
+UID:357a9295-15b0-4c5f-886e-46dbf73aa2de
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250405T220000Z
 DTEND:20250407T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Laura Basille\n250b route des vendanges\n13540 AIX EN PROVENCE\nFrance\n0762200342\nlaurabasille76@gmail.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Laura Basille - 250b route des vendanges - 13540 AIX EN PROVENCE - France - 0762200342 - laurabasille76@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c24d4a2a-e186-4e7f-a059-c598f2c70608
-DTSTAMP:20250612T094942Z
+UID:d3872a63-e4c5-409b-b461-2f75048b1ac7
+DTSTAMP:20250617T160239Z
 SUMMARY:La bulle 1001
 DTSTART:20250409T220000Z
 DTEND:20250411T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alessia Pastor\nCommentaire : \nNumCommande : AR-2412-038271\nCodeBonCadeau : K4DSZ2MCKX24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alessia Pastor - Commentaire :  - NumCommande : AR-2412-038271 - CodeBonCadeau : K4DSZ2MCKX24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:089232f9-19c6-41ba-b2de-d41d579ccfee
-DTSTAMP:20250612T094942Z
+UID:0749d8b0-4b90-4897-8685-e26248a7f46a
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250410T220000Z
 DTEND:20250412T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jean-Michael Akissi\nCommentaire : \nNumCommande : AR-2504-038854\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Jean-Michael Akissi - Commentaire :  - NumCommande : AR-2504-038854 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:92b4ba66-d6a5-41cb-912b-3f4f135c8dfc
-DTSTAMP:20250612T094942Z
+UID:05d3aee7-5900-4b5f-b43e-49b2025364bb
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250411T220000Z
 DTEND:20250413T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Brunello Teo\nCommentaire : \nNumCommande : AR-2503-038778\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Brunello Teo - Commentaire :  - NumCommande : AR-2503-038778 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9c3479ac-a652-45e0-bc77-30f4f93907c5
-DTSTAMP:20250612T094942Z
+UID:9464ddf2-d9e0-480a-bc64-b5d822f9f25f
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250412T220000Z
 DTEND:20250414T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandrine ROULE\nCommentaire : \nNumCommande : AR-2502-038628\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Sandrine ROULE - Commentaire :  - NumCommande : AR-2502-038628 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:125bb4b4-8dc7-4db5-869f-10bee81f0401
-DTSTAMP:20250612T094942Z
+UID:781f39ce-9738-455e-aa30-89b5475bd212
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250413T220000Z
 DTEND:20250415T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT\nCommentaire : Jade Casales\n11 Place Évariste Gras\n13600 LA CIOTAT\nFrance\n0636215805\njade.casales22@outlook.com\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Jade Casales - 11 Place Évariste Gras - 13600 LA CIOTAT - France - 0636215805 - jade.casales22@outlook.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:63c821e3-e6ca-43e9-a49a-d5f3ab26f642
-DTSTAMP:20250612T094942Z
+UID:c9386304-af64-4f9e-9ea6-fe3aeeb18e5d
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250416T220000Z
 DTEND:20250418T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Salomé Dessinges\nCommentaire : \nNumCommande : AR-2503-038675\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Salomé Dessinges - Commentaire :  - NumCommande : AR-2503-038675 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5923da74-6a30-4f2e-846c-0b49bf46a857
-DTSTAMP:20250612T094942Z
+UID:8bfb035c-6540-4922-b91a-3ea7de0e9a02
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250417T220000Z
 DTEND:20250419T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Ingsel Tenzin\nCommentaire : \nNumCommande : AR-2504-038927\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Ingsel Tenzin - Commentaire :  - NumCommande : AR-2504-038927 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f0da04dc-1836-4e67-ab4c-197d552feb92
-DTSTAMP:20250612T094942Z
+UID:1ff8cabd-ce18-403a-a40b-3e12f9d86eff
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250418T220000Z
 DTEND:20250420T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mickael Safer\nCommentaire : 0626133693\nNumCommande : AR-2405-037163\nCodeBonCadeau : RFAMYMFRY524\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mickael Safer - Commentaire : 0626133693 - NumCommande : AR-2405-037163 - CodeBonCadeau : RFAMYMFRY524 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:57d20031-3895-41a5-a818-e36a95b43385
-DTSTAMP:20250612T094942Z
+UID:dd2cb0de-da9f-4ff8-bc1d-dfdc43750015
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250419T220000Z
 DTEND:20250421T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Instagram\nCommentaire : GUERS CINDY\n07.63.21.85.32\ncindyguers@hotmail.fr\nGAGNANTE CONCOUR INSTAGRAM \nBEHYPE ET FOODMARSEILLE\n\nNuit+Jacuzzi\n2 original\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Instagram - Commentaire : GUERS CINDY - 07.63.21.85.32 - cindyguers@hotmail.fr - GAGNANTE CONCOUR INSTAGRAM  - BEHYPE ET FOODMARSEILLE -  - Nuit+Jacuzzi - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ede4c7b7-f4a2-40f9-9218-bfb709581f70
-DTSTAMP:20250612T094942Z
+UID:36dcc31c-977f-47f2-9f72-acd43d328050
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250422T220000Z
 DTEND:20250424T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fabrice Pister\nCommentaire : \nNumCommande : AR-2411-038196\nCodeBonCadeau : YUNAYFUBWK24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fabrice Pister - Commentaire :  - NumCommande : AR-2411-038196 - CodeBonCadeau : YUNAYFUBWK24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:851a9203-b078-4933-8cca-9dcc9a4069fb
-DTSTAMP:20250612T094942Z
+UID:06e10595-4dbd-470f-8f85-1daede7739d4
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250423T220000Z
 DTEND:20250425T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Severine METRO\nCommentaire : MR ANDRE Pierre et MAD ANDRE Lucie\n06.22.93.93.82\nNumCommande : AR-2502-038544\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Severine METRO - Commentaire : MR ANDRE Pierre et MAD ANDRE Lucie - 06.22.93.93.82 - NumCommande : AR-2502-038544 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c7f21584-8106-495e-96ee-f4f719ab277f
-DTSTAMP:20250612T094942Z
+UID:b0b8bb8c-fe66-4e5e-adfc-d59455b22981
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250424T220000Z
 DTEND:20250426T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Isabelle ISERABLE\nCommentaire : \nNumCommande : AR-2501-038458\nCodeBonCadeau : MSZNJR7SV525\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Isabelle ISERABLE - Commentaire :  - NumCommande : AR-2501-038458 - CodeBonCadeau : MSZNJR7SV525 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c3a88932-ea6a-46cc-84d9-945088e00732
-DTSTAMP:20250612T094942Z
+UID:40f0d74c-fad6-499f-9b59-a04c9db7956e
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250425T220000Z
 DTEND:20250427T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CHARLINE NEMOZ\nCommentaire : \nNumCommande : AR-2502-038656\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CHARLINE NEMOZ - Commentaire :  - NumCommande : AR-2502-038656 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2ee213de-425c-494a-bf24-71e17d9ef9cf
-DTSTAMP:20250612T094942Z
+UID:4dac3a58-ab31-4866-8ecb-2958ab3a6241
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250426T220000Z
 DTEND:20250428T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : FATNA HARKAT\nCommentaire : hallal ou poisson\nNumCommande : AR-2503-038711\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : FATNA HARKAT - Commentaire : hallal ou poisson - NumCommande : AR-2503-038711 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b27de601-5702-4b05-bec3-ae489d4a07fe
-DTSTAMP:20250612T094942Z
+UID:aad7b5b2-6df4-4c26-bd0e-64d8b7f199cb
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250427T220000Z
 DTEND:20250429T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Laura Portelli\nCommentaire : \nNumCommande : AR-2504-038917\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laura Portelli - Commentaire :  - NumCommande : AR-2504-038917 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:34e18cf6-7e27-47e7-9c30-22ca1369b303
-DTSTAMP:20250612T094942Z
+UID:ef3aebec-98b4-4401-889d-39ec05ca7be8
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250428T220000Z
 DTEND:20250430T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mathis Navas\nCommentaire : \nNumCommande : AR-2504-038933\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mathis Navas - Commentaire :  - NumCommande : AR-2504-038933 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:852ba12e-4e50-4f9a-8167-b43fd42048da
-DTSTAMP:20250612T094942Z
+UID:a67cfbcf-a0a6-4add-b701-423b1a4dee81
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250429T220000Z
 DTEND:20250501T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Catherine buresi\nCommentaire : 2 LUXURY\n1 plache apero\nNumCommande : AR-2406-037250\nCodeBonCadeau : ETWYMQSVCN24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Catherine buresi - Commentaire : 2 LUXURY - 1 plache apero - NumCommande : AR-2406-037250 - CodeBonCadeau : ETWYMQSVCN24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2b5236e4-b7ef-4e0c-8073-b5f70ae7eeaa
-DTSTAMP:20250612T094942Z
+UID:ded0bec6-4e3e-4323-a465-a871d3bc8d2f
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250501T220000Z
 DTEND:20250504T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fréderic BEGASSAT\nCommentaire : \nNumCommande : AR-2411-038173\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fréderic BEGASSAT - Commentaire :  - NumCommande : AR-2411-038173 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8c79d087-779b-4fcc-93fc-a599ebbea7e1
-DTSTAMP:20250612T094942Z
+UID:622e8f8e-84da-40ab-9cbd-fbeeb26214db
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250505T220000Z
 DTEND:20250507T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : guilhem jonas\nCommentaire : \nNumCommande : AR-2504-038971\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : guilhem jonas - Commentaire :  - NumCommande : AR-2504-038971 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:138f3b76-fbc5-49e7-9c50-a0b4e41bc4b5
-DTSTAMP:20250612T094942Z
+UID:528a80b3-45e0-4dae-9ee0-6605e2992490
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250506T220000Z
 DTEND:20250508T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Laura Diaz\nCommentaire : \nNumCommande : AR-2505-039037\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Laura Diaz - Commentaire :  - NumCommande : AR-2505-039037 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:aa056c55-45bf-40c4-903c-11ec99dbfd40
-DTSTAMP:20250612T094942Z
+UID:ad171f55-386e-4779-b847-12c19673018e
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250507T220000Z
 DTEND:20250509T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : serge ramos\nCommentaire : \nNumCommande : AR-2412-038382\nCodeBonCadeau : MPR89W5HAN24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : serge ramos - Commentaire :  - NumCommande : AR-2412-038382 - CodeBonCadeau : MPR89W5HAN24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cd092c75-c6ec-462c-b2ea-8c3beb10d40b
-DTSTAMP:20250612T094942Z
+UID:63a0d330-d981-424f-85e4-de813219cda7
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250508T220000Z
 DTEND:20250510T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Océane Moussy\nCommentaire : \nNumCommande : AR-2503-038700\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Océane Moussy - Commentaire :  - NumCommande : AR-2503-038700 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:685a809f-09b2-43aa-a7d2-fb46fc60f0e8
-DTSTAMP:20250612T094942Z
+UID:acecc7a8-4101-4bd2-8bc4-1f579c2ac50c
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250509T220000Z
 DTEND:20250511T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Chloé CRESSON\nCommentaire : \nNumCommande : AR-2501-038486\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Chloé CRESSON - Commentaire :  - NumCommande : AR-2501-038486 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:77a35f13-c74a-4817-b938-7d1eb384a987
-DTSTAMP:20250612T094942Z
+UID:021e7da4-7f81-46fe-ba1b-0d1d58c55bd8
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250515T220000Z
 DTEND:20250517T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Aurore Chabot\nCommentaire : \nNumCommande : AR-2504-038929\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Aurore Chabot - Commentaire :  - NumCommande : AR-2504-038929 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7796443d-f20f-40a5-8c00-a01576c35913
-DTSTAMP:20250612T094942Z
+UID:5430ce25-2fb1-4049-bc5b-e3ea7bda3959
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250516T220000Z
 DTEND:20250518T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ERIC ANDREE TIFFAILLAS\nCommentaire : \nNumCommande : AR-2312-036113\nCodeBonCadeau : KMETD6VMUA23\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : ERIC ANDREE TIFFAILLAS - Commentaire :  - NumCommande : AR-2312-036113 - CodeBonCadeau : KMETD6VMUA23 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:59f3a79a-4af9-429c-bd03-082c435c447d
-DTSTAMP:20250612T094942Z
+UID:aa9ba440-282f-4f7c-97ad-c7b5ff791538
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250518T220000Z
 DTEND:20250520T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Ino Karemaker\nGeibelstrasse 49\n8037 Zürich\nSchweiz\n0041775310077\ninokaremaker@yahoo.co.uk\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Ino Karemaker - Geibelstrasse 49 - 8037 Zürich - Schweiz - 0041775310077 - inokaremaker@yahoo.co.uk - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:36d98e0e-1342-43f1-8d7b-0a9c0c6787e4
-DTSTAMP:20250612T094942Z
+UID:c46a8994-6010-4850-98ee-09ee854ec7b1
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250521T220000Z
 DTEND:20250523T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Beatrice AMIR\nCommentaire : \nNumCommande : AR-2412-038329\nCodeBonCadeau : HZJHPT3SWB24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Beatrice AMIR - Commentaire :  - NumCommande : AR-2412-038329 - CodeBonCadeau : HZJHPT3SWB24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bd36941e-eebd-41cc-860a-66b0fe05f9d9
-DTSTAMP:20250612T094942Z
+UID:a7ae66c6-66a4-4edb-a50e-b1383c4cee64
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250522T220000Z
 DTEND:20250524T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Estelle Lopez\nCommentaire : \nNumCommande : AR-2505-039036\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Estelle Lopez - Commentaire :  - NumCommande : AR-2505-039036 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0e0cc10f-860a-409b-a8a6-b7aac1426d09
-DTSTAMP:20250612T094942Z
+UID:d373780b-5b42-4a5c-8568-269b6bea9eff
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250523T220000Z
 DTEND:20250525T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Angelique Bleuvais\nCommentaire : 1 sans viande\, sans porc. Et l'autre que sans porc\nNumCommande : AR-2503-038663\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Angelique Bleuvais - Commentaire : 1 sans viande\, sans porc. Et l'autre que sans porc - NumCommande : AR-2503-038663 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9056326f-60e4-4c19-a6bc-7579caa8ea45
-DTSTAMP:20250612T094942Z
+UID:2bba7ce9-ae75-4b27-99ca-7e43e7c0e90d
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250524T220000Z
 DTEND:20250526T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bubble tent\nCommentaire : Catherine Machillot\n Réservation E-mail\nfamille.machillot26@orange.fr\n Téléphone\n0689016057\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Bubble tent - Commentaire : Catherine Machillot -  Réservation E-mail - famille.machillot26@orange.fr -  Téléphone - 0689016057 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1e53f1c9-6682-4e54-b96d-2f3b90b6c35f
-DTSTAMP:20250612T094942Z
+UID:1aafd256-84f6-42ef-9978-0c4a8583d9cf
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250525T220000Z
 DTEND:20250527T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mattis Bertheol (Anniversaire surprise)\nCommentaire : \nNumCommande : AR-2505-039107\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Mattis Bertheol (Anniversaire surprise) - Commentaire :  - NumCommande : AR-2505-039107 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8d2b6d1c-d409-459e-86cd-53be91df1fda
-DTSTAMP:20250612T094942Z
+UID:8e7601eb-e438-4dbc-81df-79d3808690f3
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250526T220000Z
 DTEND:20250528T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b6330a29-af92-4735-a1b8-edd35eee52a7
-DTSTAMP:20250612T094942Z
+UID:46cc233d-d74a-4d87-ba6f-5a5b70a11457
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250527T220000Z
 DTEND:20250529T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emma Fernandez\nCommentaire : \nNumCommande : AR-2505-039072\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emma Fernandez - Commentaire :  - NumCommande : AR-2505-039072 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d610c5b7-d70f-46cb-ab80-100c91d3f04d
-DTSTAMP:20250612T094942Z
+UID:46055a07-1435-4355-aede-3500818f207a
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250528T220000Z
 DTEND:20250530T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : PASCAL AYMARD\nCommentaire : 2 MASSAGE 1H à\nNumCommande : AR-2412-038221\nCodeBonCadeau : ESXYJK4ECK24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : PASCAL AYMARD - Commentaire : 2 MASSAGE 1H à - NumCommande : AR-2412-038221 - CodeBonCadeau : ESXYJK4ECK24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:185155ff-8418-4f2a-9fe1-540af66a7ba1
-DTSTAMP:20250612T094942Z
+UID:89085f7f-e714-4374-b58e-ea12794158b9
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250529T220000Z
 DTEND:20250531T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : AUDREY LE FAOU\nCommentaire : \nNumCommande : AR-2411-038193\nCodeBonCadeau : ZWECSKGURX24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : AUDREY LE FAOU - Commentaire :  - NumCommande : AR-2411-038193 - CodeBonCadeau : ZWECSKGURX24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:985927c2-a6c2-4f21-abfa-4161c5269a95
-DTSTAMP:20250612T094942Z
+UID:11f60ec4-7a55-4527-b81c-ec3fcb4553f1
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250530T220000Z
 DTEND:20250601T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Kim NICOLAS\nCommentaire : \nNumCommande : AR-2412-038228\nCodeBonCadeau : 6WTPVJ78PD24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Kim NICOLAS - Commentaire :  - NumCommande : AR-2412-038228 - CodeBonCadeau : 6WTPVJ78PD24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f6d30927-1491-45aa-a581-8f635ed468f9
-DTSTAMP:20250612T094942Z
+UID:df025d9a-05fc-4044-b2d7-bdf8311c0ce8
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250531T220000Z
 DTEND:20250602T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation\nCommentaire : Caroline Cornacchia\n0609554559\nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Staycation - Commentaire : Caroline Cornacchia - 0609554559 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:503a5512-9b2e-477f-83e1-b31f4122fd94
-DTSTAMP:20250612T094942Z
+UID:54ed991c-44e3-4caf-8704-c519f3ae6fc5
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250602T220000Z
+DTEND:20250604T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : STAYCATION - Commentaire : Sofia Tabarracci - Jacuzzi offert - Téléphone : 0623793488 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0721eb82-3a75-4c10-b3bc-0a955413cf84
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250603T220000Z
+DTEND:20250605T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Melissa Bichout - Commentaire :  - NumCommande : AR-2506-039176 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0dda39f-e944-485a-af82-feb4ec52cc45
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250604T220000Z
 DTEND:20250606T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Caroline PRUNIER\nCommentaire : 2 original\nNumCommande : AR-2503-038793\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Caroline PRUNIER - Commentaire : 2 original - NumCommande : AR-2503-038793 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3c90fc0e-f100-4d41-a12a-e10089ac1e58
-DTSTAMP:20250612T094942Z
+UID:72308171-45ba-4fe7-8fc3-d1dcd7d26493
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250605T220000Z
+DTEND:20250607T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : staycation - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:af3cbae4-7485-4d2f-a38a-88649de62e31
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250606T220000Z
 DTEND:20250608T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Aurélie DE GIORGIO\nCommentaire : \nNumCommande : AR-2504-038894\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Aurélie DE GIORGIO - Commentaire :  - NumCommande : AR-2504-038894 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:522f4ed2-3a34-4ec1-9a3e-c5907a455b2f
-DTSTAMP:20250612T094942Z
+UID:adf7770d-5174-4d91-93c3-a0eff88654fa
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250607T220000Z
 DTEND:20250609T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Stephane Jordana\nCommentaire : \nNumCommande : AR-2505-039138\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Stephane Jordana - Commentaire :  - NumCommande : AR-2505-039138 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f0e3719a-e941-4416-8f8a-8193801cfe33
-DTSTAMP:20250612T094942Z
+UID:b0563c43-b592-4fd6-8142-6030e4a46056
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250611T220000Z
+DTEND:20250613T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Quentin Levert - Commentaire : 1 menu végé - NumCommande : AR-2506-039187 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2daac7fc-a545-40a5-be84-9bc1daef3fca
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250612T220000Z
+DTEND:20250614T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Louis LAHOCHE - Commentaire :  - NumCommande : AR-2506-039207 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f79fa62a-d15a-4bf7-81d7-4ee00186a5b8
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250613T220000Z
 DTEND:20250615T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : elsa ferrero\nCommentaire : \nNumCommande : AR-2502-038613\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : elsa ferrero - Commentaire :  - NumCommande : AR-2502-038613 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d485a19f-8fa5-4842-bc00-108aedace9f3
-DTSTAMP:20250612T094942Z
+UID:986becca-57ac-4799-9d15-05ca398d0981
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250614T220000Z
+DTEND:20250616T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Aurélien Chauveaud - Commentaire :  - NumCommande : AR-2506-039184 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:104670d8-9653-481d-86ed-f174526b6fef
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250616T220000Z
+DTEND:20250618T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : staycation - Commentaire : frederic CLET - 0652835555 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fabf0f0-4ef1-498c-9875-74535c47d4cc
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250619T220000Z
 DTEND:20250621T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CECILE CAUCHY\nCommentaire : \nNumCommande : AR-2503-038829\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CECILE CAUCHY - Commentaire :  - NumCommande : AR-2503-038829 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4399c798-f61e-4519-a7f4-ac7048070535
-DTSTAMP:20250612T094942Z
+UID:991a8e7e-3075-446a-80ac-081bd2a70076
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250620T220000Z
 DTEND:20250622T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : leila Nedjadi\nCommentaire : \nNumCommande : AR-2504-038877\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : leila Nedjadi - Commentaire :  - NumCommande : AR-2504-038877 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:07de7578-694b-4514-aa45-4270036c11c2
-DTSTAMP:20250612T094942Z
+UID:24d5003e-c8e9-4d10-96ee-ee5326a835bd
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250621T220000Z
 DTEND:20250623T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Giuliano Indelicato\nCommentaire : \nNumCommande : AR-2505-039150\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Giuliano Indelicato - Commentaire :  - NumCommande : AR-2505-039150 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ce84ba6c-0daf-41d7-8f28-82b2372134c9
-DTSTAMP:20250612T094942Z
+UID:7fc6991e-6ce5-4b0e-b7c3-de79af4b764c
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250624T220000Z
 DTEND:20250626T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : nicolas FILLY (GOKU PARTICIPATION)\nCommentaire : \nNumCommande : AR-2505-039130\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : nicolas FILLY (GOKU PARTICIPATION) - Commentaire :  - NumCommande : AR-2505-039130 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fa7227-6419-45c9-a3d2-160af749d6ff
-DTSTAMP:20250612T094942Z
+UID:25d38399-4361-4bd5-89e1-b9c1e7cd3ced
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250625T220000Z
 DTEND:20250627T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CATHERINE VERNIN\nCommentaire : \nNumCommande : AR-2412-038350\nCodeBonCadeau : NBABJ5UH2B24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : CATHERINE VERNIN - Commentaire :  - NumCommande : AR-2412-038350 - CodeBonCadeau : NBABJ5UH2B24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f65476f8-edbd-4830-8a61-e96d302e70b2
-DTSTAMP:20250612T094942Z
+UID:f118640e-4d6e-470d-bc3c-2a17d54a93b1
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250626T220000Z
+DTEND:20250628T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : CAp Adrénaline - Commentaire : Estelle Cros • estelle_cros@msn.com • 0682185777 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a84fa5b-4ea8-4e16-9a78-f750579c1d36
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250627T220000Z
 DTEND:20250629T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alicia Trimoulet\nCommentaire : \nNumCommande : AR-2505-039004\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Alicia Trimoulet - Commentaire :  - NumCommande : AR-2505-039004 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:95f6ecb6-dc9b-4d01-aa27-ff92edfb8ec2
-DTSTAMP:20250612T094942Z
+UID:c6d9844f-abc9-45a0-8660-6c8d1743d409
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250703T220000Z
+DTEND:20250705T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Bubble tent - Commentaire : amelie lagescarde - 9 Rue Sainte-Victoire - 13006 MARSEILLE - France - 0635321068 - alagescarde@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba6d388-96b9-4fc0-8fd0-1e2fd9b20068
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250708T220000Z
+DTEND:20250710T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : NEDJMA KHABER - Commentaire :  - NumCommande : AR-2506-039212 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 10 - LibStatut : Pré-réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:964d3d81-0e43-47eb-8765-4dc7b5d7ee39
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250710T220000Z
 DTEND:20250712T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : muriel agramunt\nCommentaire : \nNumCommande : AR-2503-038728\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : muriel agramunt - Commentaire :  - NumCommande : AR-2503-038728 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:01bdf29c-a082-465a-8d63-91adfde537d3
-DTSTAMP:20250612T094942Z
+UID:1ba6383f-8bb4-4d48-bddd-6e50ffa3bc08
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250711T220000Z
 DTEND:20250713T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marion Martinez\nCommentaire : \nNumCommande : AR-2405-037019\nCodeBonCadeau : KPYVEUJ4HF24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Marion Martinez - Commentaire :  - NumCommande : AR-2405-037019 - CodeBonCadeau : KPYVEUJ4HF24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8148fd4e-c013-4f23-a69b-5fa84171deba
-DTSTAMP:20250612T094942Z
+UID:f51c7cc4-9a37-49bb-a682-c7fe471c0281
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250718T220000Z
+DTEND:20250720T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Cédric TOBIA - Commentaire :  - NumCommande : AR-2506-039232 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5da10fb1-019d-4c67-a213-b3056fde41b6
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250728T220000Z
 DTEND:20250730T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : sarah Boughanmi-Vanhauwaert\nCommentaire : \nNumCommande : AR-2412-038270\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : sarah Boughanmi-Vanhauwaert - Commentaire :  - NumCommande : AR-2412-038270 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a4989a35-7ce8-4e9c-81ad-041b77680925
-DTSTAMP:20250612T094942Z
+UID:53fc77a4-893c-4eec-9659-55c7021c8137
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250808T220000Z
 DTEND:20250810T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emilie Pons\nCommentaire : \nNumCommande : AR-2409-037873\nCodeBonCadeau : UVJRYKJP9J24\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Emilie Pons - Commentaire :  - NumCommande : AR-2409-037873 - CodeBonCadeau : UVJRYKJP9J24 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c2cf12a9-d846-491b-978e-418b1b5e05e8
-DTSTAMP:20250612T094942Z
+UID:753f9b76-aeed-4f90-9417-0e7f9cfbc029
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250905T220000Z
 DTEND:20250907T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Corentin Allibert\nCommentaire : Jacuzzi offert\nEnvoyer message au numéro suivant : 06.46.10.90.99\nNumCommande : AR-2311-035785\nCodeBonCadeau : W7PTMUME7U23\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Corentin Allibert - Commentaire : Jacuzzi offert - Envoyer message au numéro suivant : 06.46.10.90.99 - NumCommande : AR-2311-035785 - CodeBonCadeau : W7PTMUME7U23 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b03b5791-aa01-41a8-a830-b439dcf46732
-DTSTAMP:20250612T094942Z
+UID:4c21442d-b37b-446f-9416-814e9d4a2b28
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20250912T220000Z
+DTEND:20250914T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : MACIF - Commentaire : ARMAF202518 - KUNTZ CAROLINE - 06.61.78.10.50 - teovana.ck@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d571c577-553e-4c4d-a13b-b7a846517010
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250918T220000Z
 DTEND:20250921T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Robert Carpentier\nCommentaire : \nNumCommande : AR-2504-038938\nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 10\nLibStatut : Pré-réservé
+DESCRIPTION:Nom : Robert Carpentier - Commentaire :  - NumCommande : AR-2504-038938 - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 10 - LibStatut : Pré-réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:0c9e19c4-672b-4b2a-b415-8c958c10c2d4
-DTSTAMP:20250612T094942Z
+UID:eca1574b-def1-4130-8d92-acf0ce294bcf
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20250926T220000Z
 DTEND:20250928T215959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Matthieu ROYER\nCommentaire : \nNumCommande : AR-2312-035959\nCodeBonCadeau : WFU8UTTSXJ23\nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 20\nLibStatut : Réservé
+DESCRIPTION:Nom : Matthieu ROYER - Commentaire :  - NumCommande : AR-2312-035959 - CodeBonCadeau : WFU8UTTSXJ23 - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:96dc6740-d869-4285-a35d-fa6c80671da2
-DTSTAMP:20250612T094942Z
+UID:3920b0d4-053d-4973-a5cd-2c29c94524ac
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251010T220000Z
+DTEND:20251012T215959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : MACIF - Commentaire : HADA ANISSA - 06.13.94.74.07 - anissahadapro@gmail.com -  -  - ARMAF202512 - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:041ab935-c4d8-4ee7-900a-5a844d2738de
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251102T230000Z
+DTEND:20251107T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5cda185-22e8-446b-aa9c-0842a58b90e3
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251109T230000Z
+DTEND:20251114T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6961317-330b-40ad-b997-cf4b7ec8b69c
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251116T230000Z
+DTEND:20251121T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94ea3639-9ada-4162-a1c6-2f00700ccc0a
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251123T230000Z
+DTEND:20251128T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:16429f20-69bd-4bd6-b1de-1f5eaba76cfd
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251130T230000Z
+DTEND:20251205T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb90b92-f0af-45e9-952e-41c6dd20f599
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251207T230000Z
+DTEND:20251212T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f18d0afd-da4d-4ac6-ad99-f1e243b961a1
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251214T230000Z
+DTEND:20251219T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1beed3-be74-48ee-b0ae-75ce80a239e4
+DTSTAMP:20250617T160240Z
+SUMMARY:La bulle 1001
+DTSTART:20251223T230000Z
+DTEND:20251226T225959Z
+LOCATION:ATTRAP'RÊVES ALLAUCH
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3efbc95e-02b9-4f8a-8bc8-e59de7bc3232
+DTSTAMP:20250617T160240Z
 SUMMARY:La bulle 1001
 DTSTART:20251230T230000Z
 DTEND:20260101T225959Z
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé\nCommentaire : \nNumCommande : \nCodeBonCadeau : \nCodeBulle : 1001 BULLES ALL13\nLibBulle : La bulle 1001\nLibFranchise : ATTRAP'RÊVES ALLAUCH\nCodeFranchise : ALL13\nIdStatut : 90\nLibStatut : Fermé
+DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : 1001 BULLES ALL13 - LibBulle : La bulle 1001 - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
