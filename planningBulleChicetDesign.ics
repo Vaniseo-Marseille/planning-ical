@@ -4,1614 +4,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Script//EN
 BEGIN:VEVENT
-UID:dab1c55a-9881-4d5c-8ce9-74bab4c87adb
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250101
-DTEND;VALUE=DATE:20250102
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation - Commentaire : Tanguy Freret - 0669378302 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:19d678b9-4d83-492c-8e52-761e7eb03276
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250102
-DTEND;VALUE=DATE:20250103
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme Lucile Greiveldinger - Mobile : 0616467501 - E-mail : lgreiv@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5273febc-1765-4bd3-88cd-3c03e3179557
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250103
-DTEND;VALUE=DATE:20250104
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Julien DECANIS - Mobile : 0642178564 - E-mail : julien.deca13@gmail.com - 1 Luxury 1 Original - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:12d92317-0a32-4a4c-8e67-0d2e3095d7cb
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250104
-DTEND;VALUE=DATE:20250105
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Antoine Boutin - Commentaire :  - NumCommande : AR-2412-038295 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b88b8515-0cd3-415a-a349-71a87014baf1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250105
-DTEND;VALUE=DATE:20250106
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Djamel Mohamed - Mobile : 0762377692 - E-mail : djamalahamadd@gmail.com - 2 luxury - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0ab67b2d-3994-4e0a-afb1-319a29bddf64
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250106
-DTEND;VALUE=DATE:20250110
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:7448c0fe-b446-418e-a398-134e1c4ad496
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250110
-DTEND;VALUE=DATE:20250111
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : marco carminati marco carminati - Commentaire :  - NumCommande : AR-2411-038176 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:184dbc01-e492-4c2a-ae28-84156e622cd7
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250111
-DTEND;VALUE=DATE:20250112
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lea Granet - Commentaire : Mr Granet 0658924321 - NumCommande : AR-2410-037959 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:9fec2c77-9800-432c-9a59-f87b31465c2d
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250112
-DTEND;VALUE=DATE:20250113
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Alice Mebarek - Mobile : 0783550538 - E-mail : alice.mbrk@gmail.com - 16h30/17h - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:630c4790-5f30-427d-ae41-1a126deb1588
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250113
-DTEND;VALUE=DATE:20250117
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:37b70180-3fb4-498e-9a7f-0caaa0727326
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250117
-DTEND;VALUE=DATE:20250118
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SARAH DENNI - Commentaire :  - NumCommande : AR-2501-038442 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3f9fcba1-4f88-4f5b-8a1b-b1366902fbf5
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250118
-DTEND;VALUE=DATE:20250119
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marc Mendez - Commentaire :  - NumCommande : AR-2412-038349 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:19f7d10d-6c38-4d3a-8f24-82d476d93f21
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250119
-DTEND;VALUE=DATE:20250120
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Manon HAERING - Commentaire :  - NumCommande : AR-2501-038430 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a3789ff7-b716-4248-b6a4-3c4ddaec12a9
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250120
-DTEND;VALUE=DATE:20250124
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:04e8351e-77d7-4350-8a2c-f7fe38c4d606
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250124
-DTEND;VALUE=DATE:20250125
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Kevin BLASCO - Commentaire :  - NumCommande : AR-2412-038297 - CodeBonCadeau : VKHVCZBKJY24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:add04172-03aa-49c4-b25a-d5ead1bb22cc
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250125
-DTEND;VALUE=DATE:20250126
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maram Senoussa - Commentaire :  - NumCommande : AR-2501-038495 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c6324464-d60f-439d-bd00-796acde55b17
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250126
-DTEND;VALUE=DATE:20250127
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:66cb07e6-cc8f-40bb-a148-ac6850ff5f02
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250127
-DTEND;VALUE=DATE:20250131
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0f4eaa11-f692-4791-9b62-78bfc53520d2
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250131
-DTEND;VALUE=DATE:20250201
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Sylvie Ollivier - Mobile : 0698262119 - E-mail : sylvieollivier18@gmail.com -  - 2 ORIGINAL - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:dd1468cc-140c-410b-9123-5a32647a3c6e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250201
-DTEND;VALUE=DATE:20250202
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sophie DELHAYE - Commentaire :  - NumCommande : AR-2501-038475 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5641cdd5-e700-4f8b-a9cc-4d7144fbdb3a
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250202
-DTEND;VALUE=DATE:20250203
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : staycation - Commentaire : AURELIE GRECO - Téléphone : 0629156094 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:7ff602b3-3f75-4e53-bd03-062f2d3ce644
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250204
-DTEND;VALUE=DATE:20250205
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : laura miot - Commentaire :  - NumCommande : AR-2501-038428 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:8ea553d2-12ec-4db5-8ee3-cc8c5b5fda3c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250206
-DTEND;VALUE=DATE:20250207
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BUBBLE TENT - Commentaire : Isma GOUALA - 12 Rue du Péras - 13013 MARSEILLE - France - 0750493720 - ismaguala@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:4cc6c1c6-0683-4d32-9d32-e31e129ab3d7
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250207
-DTEND;VALUE=DATE:20250208
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lenny Lezeau - Commentaire :  - NumCommande : AR-2502-038543 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f4db63b3-0884-44bc-bb10-23326d62c3f7
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250208
-DTEND;VALUE=DATE:20250209
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Céline Baroni - Commentaire : 1 massage en plus 110 euros. DUO - 18h00 Kristal et Amandine - NumCommande : AR-2409-037793 - CodeBonCadeau : WTNGFW2K7J24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5483075e-64e5-4ef5-b5d0-a34bac3121ad
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250213
-DTEND;VALUE=DATE:20250214
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme louisa segarra - Mobile : 0762688138 - E-mail : segarralouisa07@gmail.com - 2 Simple - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:88b2fa45-d357-41b6-9d08-dbd1912255c6
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250214
-DTEND;VALUE=DATE:20250215
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : mme Sonia Dos santos - Mobile : 0781859936 - E-mail : soniads75@hotmai - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:45901732-0b5a-4bd1-ac83-975f3117ae53
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250215
-DTEND;VALUE=DATE:20250216
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Denaux Pierre - Commentaire : Pétale de rose. - Commande n° AR-2501-038440 - Escapade insolite - NumCommande : AR-2501-038440 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3183fde1-d953-47e6-b5d4-c59e52843907
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250216
-DTEND;VALUE=DATE:20250217
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme Alexia Louis - Mobile : 0635250843 - E-mail : alexia_louis@hotmail.fr - 2 luxury - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:223a6733-87e3-40fe-8e96-8ec73de0bacc
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250217
-DTEND;VALUE=DATE:20250218
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : César Masse - Commentaire :  - NumCommande : AR-2501-038536 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:eb378dc8-1462-4014-94d2-068fcfd63efe
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250218
-DTEND;VALUE=DATE:20250219
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jade Courtial - Commentaire :  - NumCommande : AR-2502-038549 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:22483418-1acc-4220-91ed-78c20f073ea1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250219
-DTEND;VALUE=DATE:20250220
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Ilona PRIOLO -  - Email : ilona.priolo@gmail.com - Tél : 0620973931 -  - 2 simple - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:89744d09-dc4d-42c0-8b1d-08576db63405
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250220
-DTEND;VALUE=DATE:20250221
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Maryline NISA - Commentaire :  - NumCommande : AR-2412-038407 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:087d8975-3da6-45bf-9deb-0b0820e48620
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250221
-DTEND;VALUE=DATE:20250222
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marina Fernandez - Commentaire :  - NumCommande : AR-2502-038579 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d3de944d-d23f-4df7-bc0c-93f3146229c0
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250222
-DTEND;VALUE=DATE:20250223
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Coralie Bruyant - Commentaire :  - NumCommande : AR-2412-038301 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:83c83070-581b-4464-8d6d-cb965a4f45a4
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250223
-DTEND;VALUE=DATE:20250224
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : JEAN MICHEL COUSIN - Commentaire :  - NumCommande : AR-2502-038588 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b1e87d21-3781-4eed-b02d-8fee86ddc7f2
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250224
-DTEND;VALUE=DATE:20250225
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CORINNE BOURIENNE - Commentaire :  - NumCommande : AR-2502-038607 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:33c2da1b-291c-4c76-9141-c97e67fe3b7f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250227
-DTEND;VALUE=DATE:20250228
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Zohra Hamiti - Mobile : 0640891022 - E-mail : contact.hlyv@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5f5bbc04-4ecc-4c0a-b951-5b4184c48d85
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Loïc Ratsaratany - Mobile : 0647093132 - E-mail : loic.ratsaratany@yahoo.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b8924610-605e-4f18-94c5-66568f4a889e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250302
-DTEND;VALUE=DATE:20250303
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jeux concours Local food - Commentaire : Gagnante  d'une nuit avec séance de jacuzzi -  - traverso laure  -  - 06 71 44 63 19 - mirsolene@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:18896449-d0ce-47b5-98ca-83a04644b5c4
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250305
-DTEND;VALUE=DATE:20250306
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : BEHYPE - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:47a9a236-94b2-43e9-98cf-8981ad474a8d
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250307
-DTEND;VALUE=DATE:20250308
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Antony Vilches - Mobile : 0619938122 - E-mail : antony.vilches64@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:81ab37f6-d5d5-44ee-87d1-7123dd19e154
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250308
-DTEND;VALUE=DATE:20250309
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Segolene Mineto - Commentaire :  - NumCommande : AR-2412-038246 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c866e7d8-cce2-4dae-a13b-f0cf268bea7e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250313
-DTEND;VALUE=DATE:20250314
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:dec192f0-2d99-4904-988f-a9a4ee6464a1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250314
-DTEND;VALUE=DATE:20250315
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Lisa Lombard - Commentaire : SURPRISE  - 2 LUXURY - NumCommande : AR-2502-038637 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0c132a9e-bd71-4bf2-bf0b-07484c511b74
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250315
-DTEND;VALUE=DATE:20250316
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Gwendoline BUONANNO - Commentaire :  - NumCommande : AR-2502-038542 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a0db227b-ca32-4453-a385-81ba3445ba5c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250316
-DTEND;VALUE=DATE:20250317
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Hervé Bricnet - Commentaire :  - NumCommande : AR-2503-038676 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fa626f3a-738e-490c-8541-1af466b1f98b
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250321
-DTEND;VALUE=DATE:20250322
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : m Hugo Vincent - Mobile : 0686719509 - E-mail : hugo.vincent2203@gmail.com - 18h arrivée - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a69d1e59-f118-4719-8f47-3a061a50f64f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250322
-DTEND;VALUE=DATE:20250323
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Louka Geffriaud - Commentaire :  - NumCommande : AR-2409-037899 - CodeBonCadeau : CCJM5JFYCE24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f70394c4-8676-4016-a45a-7622dc851669
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250323
-DTEND;VALUE=DATE:20250324
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Rahima Hamames - Commentaire : 2 luxury - NumCommande : AR-2409-037803 - CodeBonCadeau : MHCTBNMYX624 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bed09bd7-f65f-41b4-866a-334b1f073fe6
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250328
-DTEND;VALUE=DATE:20250329
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Aurelie Rumont - Commentaire : 2 luxury réglés en ANCV CONNECT - NumCommande : AR-2503-038678 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3e08c277-aeeb-48b0-8fa4-33e5f32def9a
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250329
-DTEND;VALUE=DATE:20250330
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Mael Folga - Mobile : 0749330009 - E-mail : mael.folga@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:50e2c91f-1c34-4a65-b73a-6d4d5bb57bde
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250330
-DTEND;VALUE=DATE:20250331
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme Clara Bruchet - Mobile : 0662901999 - E-mail : clara.bruchet@hotmail.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b4ae94f1-4e58-4997-9a01-3ca43607f470
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250402
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jean-Stevens Caruso - Commentaire : 1 pack apéritif faire régler 20€ - NumCommande : AR-2503-038772 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:01586255-2f0b-432e-b8e5-2ed954d918c1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250404
-DTEND;VALUE=DATE:20250405
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT ET DECOUVERTE - Commentaire : mme Hassima Abed - Mobile : 0666908646/0698627645 - E-mail : ihsanemahera.beddou@gmail.com - 2 original avec poisson - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d50d1195-2be7-4a30-86d2-11195ff8471f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250405
-DTEND;VALUE=DATE:20250406
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Madisson Mennella - Commentaire :  - NumCommande : AR-2312-036108 - CodeBonCadeau : FBXADTKRJA23 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0d7063e3-811b-4f21-be5e-0070e1f47e52
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250406
-DTEND;VALUE=DATE:20250408
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : m AXEL NAKACHE - Mobile : 0646821558 - E-mail : f.nakache@yahoo.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3fabf634-41a1-45f0-a115-3e11082b0f81
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250408
-DTEND;VALUE=DATE:20250409
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Patrick ORIONOT - Commentaire :  - NumCommande : AR-2503-038704 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fb8bb15a-d8f1-4f94-a18e-7d91e6c16b78
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250410
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Marina Romain Aguilar - Mobile : 0615737082 - E-mail : marina.ag@hotmail.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a692183d-8051-42b4-bfa8-dbb00206eaa4
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250410
-DTEND;VALUE=DATE:20250411
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jacqueline NACCACHE - Commentaire : Duo à 18h Amandine et Cathy - NumCommande : AR-2503-038748 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:4a8525ab-9d24-43db-ac35-f84b8be4ab31
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250411
-DTEND;VALUE=DATE:20250412
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Bruno Busuttil - Commentaire :  - NumCommande : AR-2405-037133 - CodeBonCadeau : VKBZM7Y4RR24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ababfe78-b899-4cca-ad34-e4655c1c7cc3
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250412
-DTEND;VALUE=DATE:20250413
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Etienne GIRARD - Commentaire :  - NumCommande : AR-2502-038658 - CodeBonCadeau : CPDH8YMKQB25 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b2c6592b-0c6e-4fd0-95d7-55806c2cd5ff
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250413
-DTEND;VALUE=DATE:20250414
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Stéphanie Pérez - Commentaire : Gagnante instagram nuit +Jacuzzi - 0683998709 - stephanieperez84240@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:9ab5450c-9ae5-4342-8d42-6a7848a76d67
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250415
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme Marina Bottero - Mobile : 0768528119 - E-mail : marinabottero1@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:de566da5-cccf-4404-b013-3c163cfe5ed6
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250415
-DTEND;VALUE=DATE:20250416
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Wonderbox - Commentaire : Phillippe Garcia - 2 original - NumCommande : AR-2501-038505 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:23d32771-d77b-4ad0-8ca6-590dd66d1aed
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250417
-DTEND;VALUE=DATE:20250418
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : ROXANA BAGHDADI - Commentaire : jacuzzi offert - NumCommande : AR-2503-038701 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c55df057-40ea-4f7e-a387-6fc1df8bc949
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250418
-DTEND;VALUE=DATE:20250419
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Alexia CASADO - Mobile : 0626452704 - E-mail : a.casado@hotmail.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:97bd076b-488f-4dff-b7ef-c295a26e5a2a
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250419
-DTEND;VALUE=DATE:20250420
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Cindy LE COQUEN - Commentaire :  - NumCommande : AR-2502-038603 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0c78e169-86b0-4529-98ab-1fd8dd956aad
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250420
-DTEND;VALUE=DATE:20250421
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Manon Levy - Mobile : 0767587257 - E-mail : manonlevy83500@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a13c61be-2c35-434c-b210-300c627f9c1c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250421
-DTEND;VALUE=DATE:20250422
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Evelyne Gastaldi - Commentaire : 2 LUXURY - NumCommande : AR-2412-038406 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:cf296700-cf6f-45b5-9b7d-003b81c7b05b
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250422
-DTEND;VALUE=DATE:20250423
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : mme Marie Jeanne // Laurent Indaburu - Mobile : 0686555765 - E-mail : indaburu13@protonmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:758f6e58-162d-457b-8d0d-65717fc6af03
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250425
-DTEND;VALUE=DATE:20250426
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : WALID ADEL - Commentaire :  - NumCommande : AR-2503-038836 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fb45cf46-b4e2-4c1a-977a-f4c28c19aeb0
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250426
-DTEND;VALUE=DATE:20250427
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Amandine Arnaud - Commentaire :  - NumCommande : AR-2311-035767 - CodeBonCadeau : HUC4UGZS3Q23 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:4a7eea2c-8f32-41dd-ae4b-cee3c6f45f46
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250427
-DTEND;VALUE=DATE:20250428
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : DJAMAL ABDOUL - Commentaire : 07.66.74.00.72 - petale de roses  - message  - JE TAIMES -  - doit regler 189€ en ANCV - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:585d35cf-e111-4c6e-9c84-3911710ddd93
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250428
-DTEND;VALUE=DATE:20250429
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Eloïse Rampon (El’come) - Commentaire :  - NumCommande : AR-2501-038485 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:956473f6-0990-4e40-8e23-bdbcc9f1a2b3
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250430
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : DAVID TAPELIN - Commentaire :  - NumCommande : AR-2505-039011 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:22cfc816-b1a1-4e60-a0c8-5d8d6858681c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250430
-DTEND;VALUE=DATE:20250501
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Roselyne LANNOY - Mobile : 0611545181 - E-mail : roselynecan@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:43737f24-fb37-4bdd-b939-71105d868348
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250501
-DTEND;VALUE=DATE:20250502
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandra Bouamira - Commentaire :  - NumCommande : AR-2504-038977 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:022b31f1-144c-4a75-8fc7-77f7a7903163
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250502
-DTEND;VALUE=DATE:20250503
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : m Gérard Emanuel-Emile - Mobile : 0684335526 - E-mail : emmanuelemile@hotmail.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5a9c42d8-d6dc-493f-915c-95bf37081227
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250503
-DTEND;VALUE=DATE:20250504
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Marie PIANELLI - Commentaire : 2 original - NumCommande : AR-2503-038707 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:65c99e80-90ca-4825-83a2-6c4c2814f317
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250505
-DTEND;VALUE=DATE:20250506
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Pauline Roche - Commentaire :  - NumCommande : AR-2504-038896 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ee4f73e1-9b48-47f9-87e4-6b7cbe6d2002
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250506
-DTEND;VALUE=DATE:20250507
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Eric Devaux - Commentaire : Wonderbox - Jacuzzi - NumCommande : AR-2504-038981 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:422e79c1-6d6c-4b97-bb68-62cd2e7ee00e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250508
-DTEND;VALUE=DATE:20250509
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Cindy Campos - Mobile : 0676423286 - E-mail : campos.cindy@orange.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:2e8380da-9820-4b8a-a6c5-48ecefe57016
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250509
-DTEND;VALUE=DATE:20250510
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Gisèle Listello - Commentaire : 2 luxury dont un sauce moutarde - NumCommande : AR-2403-036551 - CodeBonCadeau : 6BA5BWFERM24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:6f92f1c4-a719-436e-bd4e-91c67d63c72c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250510
-DTEND;VALUE=DATE:20250511
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Mariam Coulibaly - Commentaire :  - NumCommande : AR-2505-039006 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:9f94fb71-24ff-47d1-843b-9143c78e13c6
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250511
-DTEND;VALUE=DATE:20250512
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT ET DECOUVERTE - Commentaire : Marie Marziano - Mobile : 0680753431 - E-mail : marie.marziano.pro@gmail - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:59b244be-8d3e-48d7-b772-83d964b45a9f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250512
-DTEND;VALUE=DATE:20250513
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CATY SÉBASTIEN - Commentaire :  - NumCommande : AR-2412-038355 - CodeBonCadeau : HG38KBN2PG24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ca3876d4-15ad-49e7-9b95-2063ab772b0c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250516
-DTEND;VALUE=DATE:20250517
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Nadine Donval - Mobile : 0663700538 - E-mail : nadine.donval@sfr.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:be5df183-c19f-4b76-ae41-e4700522a5cd
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Aurelie GIOIA - Commentaire : 2 simple - NumCommande : AR-2411-038195 - CodeBonCadeau : SKGPJEE8QE24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c85a1962-a5e2-4d1f-bd66-e5e0e4da7636
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : TOUFIK GOUAL - Commentaire :  - NumCommande : AR-2505-039070 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c7165e66-0fd5-4391-a931-fbd4525e0a9e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250523
-DTEND;VALUE=DATE:20250524
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Anne Lise OSSONA - Mobile : 0628372736 - E-mail : aea.solenzara@yahoo.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ab22c92d-196d-4283-9a91-880dacf20394
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250524
-DTEND;VALUE=DATE:20250525
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jessica Grandoni - Commentaire :  - NumCommande : AR-2503-038758 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d222be79-c5e6-4fd2-b081-4808f28aec17
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250525
-DTEND;VALUE=DATE:20250526
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Alessandrini Jonathan & Virginie - Mobile : 0659861048 - E-mail : v.hackenheimer@hotmail.com -  - Doit régler 40€ pour la passage en haute saison. - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a33d892c-b244-4123-8bc6-1afe43e1c42f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:febdb2ae-11b3-4efa-9260-cae880b3398c
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250528
-DTEND;VALUE=DATE:20250529
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Ghislaine Brugnetti - Mobile : 0609598420 - E-mail : brugnettighislaine@gmail.com - 2 simple - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:e0404049-cb94-494a-8710-c0747189ce1f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250529
-DTEND;VALUE=DATE:20250530
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Eythan Guenoun - Commentaire :  - NumCommande : AR-2412-038379 - CodeBonCadeau : TT4UTBBSVP24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:17cbff7f-ed98-41cf-be7d-6eb49a15d3df
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250531
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme ELODIE UGHETTO - Mobile : 0678282546 - E-mail : elodie.ughetto@hotmail.fr - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a2b9d492-4a60-4879-9858-7c3d481ff82b
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250531
-DTEND;VALUE=DATE:20250601
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Julien Lescoulie - Commentaire :  - NumCommande : AR-2312-036095 - CodeBonCadeau : UNNNFEY9S323 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b7cdeed9-74f1-42a8-a3fc-924c82310f23
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250606
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Teddy Modafferi - Mobile : 0663941392 - E-mail : marine.teddy69@gmail.com -  - Ils ont 2 nuits mais seulement une sera effectué le 5 juin l'autre sera programmé lors de leur venue\, au plus tard une date avant octobre. - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:cbed596c-056b-4606-b6aa-5d0e743197d9
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250606
-DTEND;VALUE=DATE:20250607
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jennie Augier - Commentaire :  - NumCommande : AR-2503-038737 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:10715ca8-6f06-4a6f-b405-1346ece9873f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250607
-DTEND;VALUE=DATE:20250608
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Virginie Sudre - Commentaire : Pack apéro en plus à faire payer (20€) - NumCommande : AR-2503-038821 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fdb98978-c685-470d-9bc5-5be83dcfa16f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250608
-DTEND;VALUE=DATE:20250609
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Cassandra Kaczmarek - Mobile : 0771153430 - E-mail : kaczmarekcassandra@gmail.com - 2 luxury - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c5247fe7-e29b-41a9-8860-ce3d12259f72
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250609
-DTEND;VALUE=DATE:20250610
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MACIF - Commentaire : MARECHAL ALEXANDRA - 07.85.57.20.48 - jazialexandra@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bd1acf13-875c-4521-8c2b-4299d3689857
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250610
-DTEND;VALUE=DATE:20250611
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : mme Christiane Tirard-collet - Mobile : 0608310011 - E-mail : christirard@yahoo.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:edea2ade-ea87-4aa1-8350-000f03f3cd9e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250613
-DTEND;VALUE=DATE:20250614
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nadia Cazalet - Commentaire :  - NumCommande : AR-2412-038348 - CodeBonCadeau : ES644SPJCT24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb969fe7-ba85-4617-bfac-9c21c3c1477a
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250614
-DTEND;VALUE=DATE:20250615
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MARC DOSSETTO - Commentaire :  - NumCommande : AR-2405-037143 - CodeBonCadeau : CPR5KKPNJ624 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:79b76b6a-451d-40aa-a00c-2020708758ad
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250619
-DTEND;VALUE=DATE:20250620
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Georges Boulos - Mobile : 0695548103 - E-mail : brunoignesta@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:0985c88d-1755-4b82-8dc4-49c562286d24
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250620
-DTEND;VALUE=DATE:20250621
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nelly THOMAS - Commentaire :  - NumCommande : AR-2506-039167 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:38f2e7e0-4367-4648-8f34-5445287e6a8e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250621
-DTEND;VALUE=DATE:20250622
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : NATHALIE LUKENIC - Commentaire : massage duo dimanche à 10h30  - 210€ Amandine et Kristal - NumCommande : AR-2505-039048 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f59e706a-a36c-495e-b757-eff4be932f46
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250623
-DTEND;VALUE=DATE:20250624
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Stéphane Taliana - Mobile : 0623126533 / 0685707637 - E-mail : stephane.taliana@sfr.fr -  - 1 simple \, 1 orignal - Arrivée vers 17h30/18h30 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:6d4b67c8-7aa4-4c21-8f35-f574ead8e735
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : STAYCATION - Commentaire : Pablo Bonnot - Jacuzzi offert - Téléphone : 0628590469 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:dc9f0255-e0b3-49d9-93a9-2745f1b62f2f
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250626
-DTEND;VALUE=DATE:20250627
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : mme carla pasquali - Mobile : 0603666912 - E-mail : pasquali.carla@icloud.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:256a3052-4950-4654-bded-ae25f14adc01
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250627
-DTEND;VALUE=DATE:20250628
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport & decouverte - Commentaire : Girardel9 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fd8a07d9-0b9b-4d9f-a7eb-10337be131e5
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250628
-DTEND;VALUE=DATE:20250629
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Cecile Limonta - Commentaire : 2 original - NumCommande : AR-2407-037409 - CodeBonCadeau : VUVTGK9GJP24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:6b9d58b3-e420-45d5-8c9f-0a8af0e59878
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250702
-DTEND;VALUE=DATE:20250703
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : AURELLIA GRISONI - Commentaire :  - NumCommande : AR-2406-037290 - CodeBonCadeau : NJGVYXH23Y24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:98a1a069-86df-43ec-bba1-7efca0e35bcc
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250703
-DTEND;VALUE=DATE:20250704
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sabrina Dentan - Commentaire : Resa du 29.03 décalée au 3.07 car malade (vu avec bruno) - NumCommande : AR-2503-038714 - CodeBonCadeau : HNSJQ8PQ7825 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:94523a18-7264-4b39-a87a-5b07e91647aa
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250704
-DTEND;VALUE=DATE:20250705
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : David ANTOINE-VINCENT - Mobile : 0626112173 - davidantoinevincent@hotmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:e5c046be-6d59-4740-bbdc-0719264e4fa8
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250705
-DTEND;VALUE=DATE:20250706
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SYLVIE DETREY - Commentaire :  - NumCommande : AR-2501-038496 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:aa3cc0d6-3b1d-4ef5-a41a-d3d7cfbc488b
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250706
-DTEND;VALUE=DATE:20250707
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MELANIE HOANG - Commentaire :  - NumCommande : AR-2412-038231 - CodeBonCadeau : AYSDWMCTGN24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:198b9249-99da-4373-a0f2-b5f1ad437136
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250709
-DTEND;VALUE=DATE:20250710
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : AUDREY CACIONI - Commentaire :  - NumCommande : AR-2408-037561 - CodeBonCadeau : 8FWKQEB9T324 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:e8402a1f-ea5d-4399-84bd-b5c8840adfca
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250711
-DTEND;VALUE=DATE:20250712
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Jessica Navaron - Commentaire :  - NumCommande : AR-2507-039357 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:a26764e4-eee5-4008-848d-5e2c3b7ce7b2
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250712
-DTEND;VALUE=DATE:20250713
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MACIF - Commentaire : FILEPPI OCEANE - ARMAF202510 - 06.62.35.01.65 - f.oceane23@outlook.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c25acc66-0209-4991-8561-aa20feff3a87
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250713
-DTEND;VALUE=DATE:20250714
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Céline BREHAMET - Commentaire :  - NumCommande : AR-2506-039303 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:e6c2d1da-844a-4949-bfc6-0961231e8e2d
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250716
-DTEND;VALUE=DATE:20250717
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sandy Latzko - Commentaire :  - NumCommande : AR-2507-039374 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:65ef1127-6c5a-47b7-a747-bbe0a5ca5ddf
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250717
-DTEND;VALUE=DATE:20250718
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Celya Soudani - Commentaire :  - NumCommande : AR-2507-039354 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:31286a2c-d1c5-4cea-9425-10e51a44b3aa
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250718
-DTEND;VALUE=DATE:20250719
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Alicia Fourment - Commentaire :  - NumCommande : AR-2504-038922 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:ef2f662f-3352-46dd-ada3-e51a18d112a6
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250719
-DTEND;VALUE=DATE:20250720
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Corinne Hannoun - Commentaire : Petale de Rose - Carte joyeux anniversaire de rencontre. -  - Bougie à prévoir  - un plat avec poisson. - NumCommande : AR-2505-039136 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:649343e0-4e32-4fe2-add6-080d56096c06
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250720
-DTEND;VALUE=DATE:20250721
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : mme Anna Glubokova - Mobile : 0749477073 - E-mail : 9371777643@mail.ru - 2 ORIGINALS ARRIVEE 16H30/17H - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:acf143c7-7e4c-4452-8471-283e7d9d51f1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250723
-DTEND;VALUE=DATE:20250724
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : staycation - Commentaire : LAURENT BELLOT - 0618621000 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:8377f961-d0ae-45eb-8b37-2d3f60e716c4
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250725
-DTEND;VALUE=DATE:20250726
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : CAP ADRENALINE - Commentaire : Jennifer Sissoko  - • jennifer.marine92@gmail.com  - • 0621920657 - 2 original - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:c9a9cf8a-0eb3-4e8e-a236-61e1c08ea536
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250726
-DTEND;VALUE=DATE:20250727
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Louisa Bouallag - Commentaire :  - NumCommande : AR-2507-039387 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d37b8762-9f89-4cb3-9cb2-27e614fd0137
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250731
-DTEND;VALUE=DATE:20250801
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MACIF - Commentaire : BOUTTIER SANDRINE - ARMAF20255 - 06.20.31.31.33 - sandrine.bouttier@outlook.fr - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:02b5b6cd-7f61-4e46-8fa3-ac61ea5e1d68
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250802
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : m Alexis Villalta - Mobile : 0625503258 - E-mail : lexarlunik@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:81541b61-706f-46f4-bfcf-7267cf15894e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250802
-DTEND;VALUE=DATE:20250803
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Sport et découverte - Commentaire : Fabien Philip - Mobile : 0674425457 - E-mail : philipfabien@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:418fd707-b452-4d28-88dd-fb1f15680552
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250803
-DTEND;VALUE=DATE:20250804
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Leïla Hadri - Commentaire :  - NumCommande : AR-2508-039486 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:93726247-7f7b-4e1a-8a98-cae425297ad1
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250804
-DTEND;VALUE=DATE:20250805
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : SPORT DECOUVERTE - Commentaire : m Mathis Cette - Mobile : 0667362009 - E-mail : mathiscette@gmail.com - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:5c5c3df2-80e5-44f1-966e-adca25508c49
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250805
-DTEND;VALUE=DATE:20250806
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation - Commentaire : Rahouf Doua - Participants : 2 adultes - Téléphone : 0624566627 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:9cb1dd24-57a7-4004-8d6a-fb2385aa13dd
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250806
-DTEND;VALUE=DATE:20250807
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Nasrine Ali - Commentaire : 2 original - NumCommande : AR-2507-039452 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:7e0cc601-7ffd-4b9c-8fed-cbf5df9c42b4
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250807
-DTEND;VALUE=DATE:20250808
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Staycation - Commentaire : christofer campistron - +33637276662 - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b53ea3fb-b2ff-4359-9a09-9e319f9bcf02
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250808
-DTEND;VALUE=DATE:20250809
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Hodaya Elbaz - Commentaire :  - NumCommande : AR-2507-039394 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:aeff0aec-3e1e-4358-8628-dfd164b5fd25
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250809
-DTEND;VALUE=DATE:20250810
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Ines Ouartani - Commentaire :  - NumCommande : AR-2507-039445 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b6d44887-b531-460c-9c84-59d04ab7bdd3
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250810
-DTEND;VALUE=DATE:20250811
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Régis RODRIGUEZ - Commentaire : Massage Kristal à 19h -  - 2 original -  1 plateau Pas de lait\, pas de crème\, pas de beurre. - Tarte aux pomme\, écrase de pdt à l'huile d'olive et poulet moutarde soja\, entrée? - NumCommande : AR-2508-039482 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:43467303-3448-4c02-9722-0aa73c5f33a9
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Linda Cheballah - Commentaire :  - NumCommande : AR-2507-039442 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:fe3cf017-bc30-42fb-a424-8f88c4f4e778
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : remi melquion - Commentaire : 0629435596 - 0788591246 - NumCommande : AR-2409-037760 - CodeBonCadeau : STG98HP6GD24 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:b3778f31-8d2d-4c76-be29-02039476e3f2
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250814
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Emilie Rogues de Fursac - Commentaire : 2 LUXURY - NumCommande : AR-2505-039025 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:81a443ef-3652-4e36-bea7-02660e1ed4ab
-DTSTAMP:20250814
+UID:4b1e0c6e-d790-4fd3-86e1-13557edc41d5
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250816
 LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : MANDY LIEU - Commentaire :  - NumCommande : AR-2508-039479 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
+DESCRIPTION:Nom : MANDY LIEU - Commentaire : Une séance de jacuzzi à ajouter à 21 heures - NumCommande : AR-2508-039479 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f1e690a5-d88f-4d24-a027-895960ed3cba
-DTSTAMP:20250814
+UID:63c3abb5-f72f-45af-96ed-f6cacd688b86
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250817
@@ -1621,8 +26,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4c77a7d0-05ab-441b-8c55-80ef9c58c8c4
-DTSTAMP:20250814
+UID:45c5d93d-d36b-4f8a-a60b-74fc7386d8fc
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250817
 DTEND;VALUE=DATE:20250818
@@ -1632,8 +37,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:416cca9c-0a7a-4cd8-95b1-b3129e372cd7
-DTSTAMP:20250814
+UID:7444b3bc-1188-4f65-9893-bd9702c5388c
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
@@ -1643,8 +48,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:fbfbd2f7-d9de-4349-b218-43f8f63e5e30
-DTSTAMP:20250814
+UID:f745b70f-63c8-43a2-951c-fb8e3ebae44f
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
@@ -1654,8 +59,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5567082b-6359-4570-b7a8-6ad4a3ca3ece
-DTSTAMP:20250814
+UID:c7e00251-dbd3-4d56-8ce2-17e0ba49021d
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
@@ -1665,8 +70,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a37445b7-a714-469a-ba27-9f8e71dbfc96
-DTSTAMP:20250814
+UID:28ea525c-a4b4-4069-bfc5-c4c23747b6a6
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250823
 DTEND;VALUE=DATE:20250824
@@ -1676,8 +81,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:9994140b-0c52-473a-9467-2282e59e98d9
-DTSTAMP:20250814
+UID:503a3033-3f86-4cb8-8178-3a64cbdf8385
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
@@ -1687,8 +92,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:37785982-66ff-4be0-a5ef-99d605bfb6d7
-DTSTAMP:20250814
+UID:d396d6b5-81c6-4368-9852-9e0fa7b3fb29
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250827
@@ -1698,8 +103,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:080f2628-56cc-4058-8ceb-af90d02b8f0f
-DTSTAMP:20250814
+UID:80f78c98-2be8-4482-9a74-848e3d51846b
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
@@ -1709,8 +114,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8f5513dc-e829-4385-8e6c-110b32de341c
-DTSTAMP:20250814
+UID:0cf9d479-5010-426e-940d-667932b82f80
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
@@ -1720,8 +125,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c13f2b0b-5cb7-492a-946e-9e0cdb80ffc9
-DTSTAMP:20250814
+UID:08415aac-c6b1-4980-86c1-59c0ff9db2a1
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250902
 DTEND;VALUE=DATE:20250903
@@ -1731,8 +136,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e00a8924-d6ed-4b85-b4d7-dc926edf055e
-DTSTAMP:20250814
+UID:8c3c1952-bf1e-4c58-b13f-9441a06bd09b
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250904
 DTEND;VALUE=DATE:20250905
@@ -1742,8 +147,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bd1f0335-2cc4-4c91-b9e5-1255b0011511
-DTSTAMP:20250814
+UID:526b7b5d-67c0-4cb2-9d14-31727c9c15e2
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250907
@@ -1753,8 +158,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f2104467-59ff-4f4f-8d42-3ed045f3a4c7
-DTSTAMP:20250814
+UID:7cf5a56f-884b-43ab-818e-c72d75d8f75c
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
@@ -1764,8 +169,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a96ac460-11d5-4d42-8d04-37aaca95bd35
-DTSTAMP:20250814
+UID:e5469912-9860-4d42-bef4-c50980d4f872
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
@@ -1775,8 +180,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:165b8595-e0a5-45be-8953-a172ef197055
-DTSTAMP:20250814
+UID:3cb2c064-1de9-4cc2-a015-87d41de325d8
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
@@ -1786,8 +191,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1595acc3-816d-41cf-bd44-1391598c3afd
-DTSTAMP:20250814
+UID:9c67b804-c924-4b7c-915f-eedf6a875c49
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
@@ -1797,8 +202,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:45b924be-a412-47ad-8e51-ad3319aee81f
-DTSTAMP:20250814
+UID:a8116b3e-7b39-4834-b394-78eada613fa4
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
@@ -1808,8 +213,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:15dbbb31-ad95-4f4c-935d-045dce0cc2be
-DTSTAMP:20250814
+UID:8f9ae890-bc1a-481a-8670-f6c5c2108007
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250914
 DTEND;VALUE=DATE:20250915
@@ -1819,8 +224,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d55308f3-0a26-49ba-a530-e99e17329dc5
-DTSTAMP:20250814
+UID:ea86d360-4c04-4ce5-823b-498c4b821e20
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
@@ -1830,8 +235,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d82322eb-f6df-48d6-8ec8-347e61dc18c5
-DTSTAMP:20250814
+UID:442a71f1-010a-4165-a353-435dcf55611e
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
@@ -1841,8 +246,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:74345fbe-5953-44a9-946d-9145c7c03c7c
-DTSTAMP:20250814
+UID:5ca071f8-5106-42d7-8c24-33609776cb1f
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
@@ -1852,8 +257,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:039e4962-d5c5-4e7c-a31b-0e06931ba459
-DTSTAMP:20250814
+UID:975bff99-9346-4b05-8261-f1bfe197e34e
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20250928
 DTEND;VALUE=DATE:20250929
@@ -1863,8 +268,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:818b982d-8508-430b-9516-8f37e651467d
-DTSTAMP:20250814
+UID:84ea6dba-d571-43d4-9f2d-c00304afe5a0
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
@@ -1874,8 +279,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:06d19392-beb5-471c-8dcf-f03a45c21de4
-DTSTAMP:20250814
+UID:1a387adb-4082-4069-bb69-3cbad17df698
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251012
@@ -1885,8 +290,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:dabac584-fb81-4280-aeef-9290ba351541
-DTSTAMP:20250814
+UID:20de8b8d-1ba2-440b-ae00-e206eff32a28
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251013
@@ -1896,8 +301,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:589130e7-73b5-4ff3-a014-b409bff9d28f
-DTSTAMP:20250814
+UID:047684e4-c3ea-4ce6-b0ac-b4687c973ec0
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
@@ -1907,8 +312,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:78cbb082-a435-484f-9b32-481a95ac292b
-DTSTAMP:20250814
+UID:fa811e3a-91c8-44c9-a9b0-3ad51f398b15
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
@@ -1918,8 +323,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a52b0b3d-785d-45f1-ab5a-f6b7db161e1e
-DTSTAMP:20250814
+UID:a29b7c56-824b-4bb2-89ae-6bcb94bb2942
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251019
 DTEND;VALUE=DATE:20251020
@@ -1929,8 +334,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3210699b-0152-470f-92b0-5bdbd1dd35a2
-DTSTAMP:20250814
+UID:bdeda629-3379-4900-b3e4-187ef9768f21
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
@@ -1940,8 +345,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3476e910-76a3-4599-aa05-ac2968a104fc
-DTSTAMP:20250814
+UID:e2661dd1-4c11-439b-9cad-c3315b653231
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251107
@@ -1951,8 +356,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e0647af3-8e18-4125-bfb0-43bfd1f3daf2
-DTSTAMP:20250814
+UID:f3a079b4-0877-45d4-ab25-58417fd9a46a
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251114
@@ -1962,8 +367,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:e8f5a19b-2dca-4736-9c9a-4e2e6d6ed698
-DTSTAMP:20250814
+UID:6f3aad84-67f8-4cc8-b2a2-31160415bb55
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
@@ -1973,8 +378,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1dde678b-3756-4649-9f93-ed3b275173c1
-DTSTAMP:20250814
+UID:bfe3cf24-2f4b-4aa7-abeb-5e5a40feffc5
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251121
@@ -1984,8 +389,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f2640c80-6123-4635-99f1-2acbc9a648c6
-DTSTAMP:20250814
+UID:71369461-bd41-4170-88af-62a017a1196a
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251128
@@ -1995,8 +400,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ccb259ac-6171-4386-a57f-eef35fca3d00
-DTSTAMP:20250814
+UID:cd620293-1b4d-4efe-9357-378f8ce299b3
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251205
@@ -2006,8 +411,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:36012301-3052-401a-b8f1-a963c5f965bd
-DTSTAMP:20250814
+UID:8aaa8e91-1eda-4937-974b-57d2a7e6152a
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251212
@@ -2017,8 +422,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:060a4e7a-94d5-43f6-91f7-c4a644d9f053
-DTSTAMP:20250814
+UID:b21c2211-05de-493d-8b05-7aaa61be515c
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251219
@@ -2028,8 +433,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:45994546-3147-40cf-bf0f-ca3e5e664606
-DTSTAMP:20250814
+UID:4fb6a417-b362-4c63-8663-c8920f0a92c7
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251226
@@ -2039,8 +444,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:d4785104-95f4-4ae9-8ebf-95fab2759de6
-DTSTAMP:20250814
+UID:73ed82b2-7d89-47f8-b679-3ba8cc9b2551
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
@@ -2050,8 +455,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c2bcbc8c-40ef-4047-ba3b-21f9f7bdbf8c
-DTSTAMP:20250814
+UID:d7b5222f-ed26-428e-9b8d-831b48129eb9
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260109
@@ -2061,8 +466,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:deb5a920-040a-40b3-9e3f-d10a995d2fba
-DTSTAMP:20250814
+UID:d9dda092-206a-4142-bfe5-332ec7e46dd5
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
@@ -2072,8 +477,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:452a0e20-1d69-45fb-978f-49adb2e1d1f9
-DTSTAMP:20250814
+UID:ff913f8c-76bb-4129-bba6-dd163f13bb7e
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260116
@@ -2083,8 +488,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:984ac9f4-78ba-4d4a-b0da-0bdf8032c573
-DTSTAMP:20250814
+UID:217094bd-55d4-4f06-83c2-f8a99ccab33b
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260123
@@ -2094,46 +499,13 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:728c05e0-c71a-4026-8361-f26ac4b76b6a
-DTSTAMP:20250814
+UID:1ff2f41c-37d6-43d1-baa3-514d95631328
+DTSTAMP:20250815
 SUMMARY:Bulle Chic et Design
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260130
 LOCATION:ATTRAP'RÊVES ALLAUCH
 DESCRIPTION:Nom : Fermé - Commentaire :  - NumCommande :  - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 90 - LibStatut : Fermé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:547d3609-49ce-4b28-96ad-3bfe2c1853a8
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : regine faury - Commentaire : Wonderbox  - jacuzzi - NumCommande : AR-2507-039391 - CodeBonCadeau :  - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:3061ba2a-5050-42e6-9c99-adcd9aa61d9e
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Vanessa Dupuis - Commentaire :  - NumCommande : AR-2502-038652 - CodeBonCadeau : YRXGZ9KHDN25 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:8869cccc-4c3c-4acd-a1e0-5b10582c0600
-DTSTAMP:20250814
-SUMMARY:Bulle Chic et Design
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-LOCATION:ATTRAP'RÊVES ALLAUCH
-DESCRIPTION:Nom : Adeline Diriong - Commentaire :  - NumCommande : AR-2506-039166 - CodeBonCadeau : RUUHWSMCHZ25 - CodeBulle : SUITE ALL13 - LibBulle : Bulle Chic et Design - LibFranchise : ATTRAP'RÊVES ALLAUCH - CodeFranchise : ALL13 - IdStatut : 20 - LibStatut : Réservé
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
